@@ -1,0 +1,306 @@
+processed 13164 tokens with 650 phrases; found: 595 phrases; correct: 511.
+accuracy:  98.05%; precision:  85.88%; recall:  78.62%; FB1:  82.09
+          'N_Sync: precision: 100.00%; recall:  50.00%; FB1:  66.67  1
+2003_Kids'_Choice_Awards: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       Al_Arabiya: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+       Al_Jazeera: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+          Alabama: precision:  36.36%; recall:  66.67%; FB1:  47.06  11
+Alabama_Crimson_Tide: precision: 100.00%; recall:  50.00%; FB1:  66.67  2
+Alabama_Crimson_Tide_football: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+        Allahabad: precision: 100.00%; recall: 100.00%; FB1: 100.00  4
+  Alonzo_Mourning: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+          Alzenau: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+American_Broadcasting_Company: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+   American_Samoa: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        Americans: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Antoine_Walker: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        Artichoke: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ Associated_Press: precision: 100.00%; recall: 100.00%; FB1: 100.00  6
+          Atlanta: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+          Baghdad: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Bakersfield,_California: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+  Barbara_Walters: precision: 100.00%; recall: 100.00%; FB1: 100.00  10
+     Barney_Frank: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Baton_Rouge,_Louisiana: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+      Bear_Bryant: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+          Beijing: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Bernard_Marcus: precision: 100.00%; recall: 100.00%; FB1: 100.00  6
+       Betty_Ford: precision:  16.67%; recall: 100.00%; FB1:  28.57  6
+     Bill_Clinton: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+       Birmingham: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Birmingham,_Alabama: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Blackberry: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Blood_sugar: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Blue_Cross_Blue_Shield_Association: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Blue_Cross_and_Blue_Shield_of_Alabama: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Blueberry: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Bobby_Bowden: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+  British_Airways: precision: 100.00%; recall: 100.00%; FB1: 100.00  5
+   Britney_Spears: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Buckhannon,_West_Virginia: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+           CAC_40: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+       California: precision:  40.00%; recall:  50.00%; FB1:  44.44  5
+     Cameron_Diaz: precision: 100.00%; recall: 100.00%; FB1: 100.00  4
+           Canada: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Central_California: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+          Chicago: precision: 100.00%; recall:  66.67%; FB1:  80.00  2
+            China: precision: 100.00%; recall: 100.00%; FB1: 100.00  6
+        Chongqing: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        Christmas: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Christmas_Holiday: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Chuck_Schumer: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+        Cleveland: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+         Colorado: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   Columbus,_Ohio: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Condor_Flugdienst: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Council_on_American-Islamic_Relations: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Council_on_American–Islamic_Relations: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+        Cranberry: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+              DAX: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+  Daniel_Pfeiffer: precision: 100.00%; recall: 100.00%; FB1: 100.00  4
+Democratic_Party_(United_States): precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Deserts_of_California: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Detroit_Pistons: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+      Dick_Cheney: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+  Donald_Rumsfeld: precision: 100.00%; recall: 100.00%; FB1: 100.00  5
+     Donald_Trump: precision:  90.00%; recall:  90.00%; FB1:  90.00  10
+Dow_Jones_Industrial_Average: precision:  66.67%; recall:  66.67%; FB1:  66.67  3
+      Dwyane_Wade: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+     Early_Doucet: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+            Earth: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Edward_Jones_Investments: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        Evan_Bayh: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+       ExxonMobil: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   FTSE_100_Index: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Federal_Bureau_of_Investigation: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Federal_Reserve_System: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Federal_government_of_the_United_States: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Flag_of_the_United_States: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Florida_State_Seminoles_football: precision:  50.00%; recall: 100.00%; FB1:  66.67  2
+Florida_State_University: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           France: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      Frank_Blake: precision: 100.00%; recall: 100.00%; FB1: 100.00  5
+        Frankfurt: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Fresno,_California: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+           Ganges: precision:  80.00%; recall:  80.00%; FB1:  80.00  5
+           Garuda: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+   Gene_Stallings: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+ General_Electric: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+George_Bush_Intercontinental_Airport: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   George_W._Bush: precision:  40.00%; recall:  50.00%; FB1:  44.44  5
+George_W._Bush_presidential_campaign,_2004: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Georgia_(U.S._state): precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Georgia_State_University: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      Gerald_Ford: precision: 100.00%; recall:  73.68%; FB1:  84.85  14
+          Germany: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      Giant_panda: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Grand_Rapids,_Michigan: precision: 100.00%; recall: 100.00%; FB1: 100.00  4
+    Great_Britain: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Guinness_World_Records: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+High-density_lipoprotein: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Highmark: precision: 100.00%; recall:  50.00%; FB1:  66.67  1
+            Hindi: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+            Hindu: precision:  50.00%; recall: 100.00%; FB1:  66.67  4
+    Hindu_deities: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Hindu_texts: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Hodgkin's_lymphoma: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+          Houston: precision: 100.00%; recall:  50.00%; FB1:  66.67  1
+        ING_Group: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+            India: precision:  50.00%; recall: 100.00%; FB1:  66.67  4
+      Indian_Army: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Indiana: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        Innosense: precision: 100.00%; recall:  66.67%; FB1:  80.00  2
+         Internet: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+             Iraq: precision:  85.71%; recall: 100.00%; FB1:  92.31  7
+       Iraqi_Army: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Islam: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+ JaMarcus_Russell: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+    Jack_Nicklaus: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      James_Posey: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+            Japan: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Jason_Williams_(basketball,_born_1975): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Jay_Williams_(basketball): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Jet_Propulsion_Laboratory: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     Jimmy_Carter: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+       John_Kerry: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        Joy_Bauer: precision: 100.00%; recall:  75.00%; FB1:  85.71  3
+Justin_Timberlake: precision: 100.00%; recall: 100.00%; FB1: 100.00  5
+     Kevin_Steele: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+       Kumbh_Mela: precision: 100.00%; recall:  55.56%; FB1:  71.43  5
+LSU_Tigers_football: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     LaRon_Landry: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Lake_Burton_(Georgia): precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Lansing,_Michigan: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Laramie_County,_Wyoming: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Larry_Brown_(basketball): precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        Las_Vegas: precision: 100.00%; recall: 100.00%; FB1: 100.00  5
+           London: precision:  60.00%; recall: 100.00%; FB1:  75.00  5
+London_Heathrow_Airport: precision:  50.00%; recall:  50.00%; FB1:  50.00  4
+      Los_Angeles: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Los_Angeles_Clippers: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Los_Angeles_Lakers: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+     Lou_Pearlman: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        Louisiana: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Louisiana_State_University: precision: 100.00%; recall:  66.67%; FB1:  80.00  2
+Low-density_lipoprotein: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            MSNBC: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Madhya_Pradesh: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+       Mahdi_Army: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        Mal_Moore: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+           Mandan: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Mandan,_North_Dakota: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             Mars: precision:  50.00%; recall: 100.00%; FB1:  66.67  6
+Mars_Exploration_Rover: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+       Mars_rover: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Martian: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Mayo_Clinic: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+McCarran_International_Airport: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+         Medicaid: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Memphis,_Tennessee: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+           Mexico: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+            Miami: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+   Miami_Dolphins: precision: 100.00%; recall:  50.00%; FB1:  66.67  1
+       Miami_Heat: precision: 100.00%; recall:  42.86%; FB1:  60.00  3
+        Miami_Sol: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+ Michael_Chertoff: precision: 100.00%; recall: 100.00%; FB1: 100.00  5
+         Michigan: precision:  66.67%; recall:  66.67%; FB1:  66.67  3
+Michigan_State_Spartans_football: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Michigan_State_University: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+      Mike_DuBose: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Mine_Safety_and_Health_Administration: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      Minneapolis: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Minneapolis-Saint_Paul: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Miss_Teen_USA: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+         Miss_USA: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Miss_Universe_Organization: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Morton_County,_North_Dakota: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Most_Valuable_Player: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Mowaffak_al-Rubaie: precision: 100.00%; recall: 100.00%; FB1: 100.00  5
+  Muqtada_al-Sadr: precision: 100.00%; recall: 100.00%; FB1: 100.00  5
+           Muslim: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             NASA: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+           NASDAQ: precision:  50.00%; recall:  50.00%; FB1:  50.00  2
+              NBC: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+         NBC_News: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+            Najaf: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+         New_Year: precision:  66.67%; recall: 100.00%; FB1:  80.00  3
+New_Year's_resolution: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         New_York: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    New_York_City: precision:  85.71%; recall: 100.00%; FB1:  92.31  7
+New_York_Mercantile_Exchange: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+New_York_Stock_Exchange: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+       Nick_Saban: precision: 100.00%; recall: 100.00%; FB1: 100.00  13
+Nickelodeon_Kids'_Choice_Awards: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Nikkei_225: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     North_Dakota: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+      North_India: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+North_Las_Vegas,_Nevada: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Notre_Dame_Fighting_Irish_football: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+  Nouri_al-Maliki: precision: 100.00%; recall: 100.00%; FB1: 100.00  6
+   Nursing_school: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Nutritionist: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             Ohio: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Ohio_State_University: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+    Oklahoma_City: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Opportunity_(rover): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           PacSun: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Pat_Riley: precision: 100.00%; recall: 100.00%; FB1: 100.00  19
+     Phil_Jackson: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+ Phoenix,_Arizona: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+          Pilgrim: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Pittsburgh: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+           Police: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Producer_price_index: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      Quarterback: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Rancho_Mirage,_California: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        Raspberry: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Reuters: precision:  50.00%; recall: 100.00%; FB1:  66.67  2
+    Richard_Nixon: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+Richard_Norton_Smith: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+  Robert_Nardelli: precision: 100.00%; recall: 100.00%; FB1: 100.00  21
+    Ron_Rothstein: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+  Rosalynn_Carter: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+  Rosie_O'Donnell: precision: 100.00%; recall: 100.00%; FB1: 100.00  8
+     Russell_2000: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+          S&P_500: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Saddam_Hussein: precision: 100.00%; recall: 100.00%; FB1: 100.00  13
+Sago_Mine_disaster: precision:  83.33%; recall:  83.33%; FB1:  83.33  6
+        San_Diego: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+San_Francisco_International_Airport: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+       Santa_Baby: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Saturday_Night_Live: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+          Shaanxi: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+ Shaquille_O'Neal: precision: 100.00%; recall: 100.00%; FB1: 100.00  4
+          Sichuan: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Sioux_Falls,_South_Dakota: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     South_Africa: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     South_Dakota: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Southeastern_Conference: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Spirit_(rover): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Stan_Van_Gundy: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Standard_&_Poor's: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+  Star_(magazine): precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+State_Children's_Health_Insurance_Program: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+State_Forestry_Administration_of_the_People's_Republic_of_China: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     Stock_market: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Stony_Brook_University: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+       Strawberry: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Sugar_Bowl: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      Sunni_Islam: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+           Sweden: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+            Syria: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+    Syrian_people: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Tara_Conner: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Target_Corporation: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Territories_of_the_United_States: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Texas: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+The_American_Journal_of_Clinical_Nutrition: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+The_Apprentice_(U.S._TV_series): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   The_Home_Depot: precision: 100.00%; recall:  90.00%; FB1:  94.74  18
+The_New_York_Times: precision: 100.00%; recall:  50.00%; FB1:  66.67  1
+        The_Times: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+The_View_(U.S._TV_series): precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+  Thomson_Reuters: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Triglyceride: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Tuscaloosa,_Alabama: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+U.S._Customs_and_Border_Protection: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+U.S._Immigration_and_Customs_Enforcement: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+       U.S._Steel: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       US_Airways: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+            Ulama: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   United_Kingdom: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+United_Mine_Workers: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+    United_States: precision:  58.33%; recall: 100.00%; FB1:  73.68  24
+United_States_Armed_Forces: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+United_States_Congress: precision:  80.00%; recall:  80.00%; FB1:  80.00  5
+United_States_Department_of_Homeland_Security: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+United_States_Department_of_Labor: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+United_States_House_Committee_on_Financial_Services: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+United_States_Navy: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+United_States_Senate: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+United_States_military_casualties_of_war: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+University_of_Alabama: precision:  50.00%; recall:  16.67%; FB1:  25.00  2
+University_of_Alabama_at_Birmingham: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+University_of_Gothenburg: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+University_of_Michigan: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+University_of_Missouri: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+    Uttar_Pradesh: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Vail,_Colorado: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Vice_President_of_the_United_States: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Vietnam: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+      Vietnam_War: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Vishnu: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+           Walnut: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ Washington,_D.C.: precision:  87.50%; recall: 100.00%; FB1:  93.33  8
+Watergate_scandal: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+          Website: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      West_Bengal: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+    West_Virginia: precision: 100.00%; recall:  60.00%; FB1:  75.00  3
+Western_Pennsylvania: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Whole_grain: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+William_B._Caldwell: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+Women's_National_Basketball_Association: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+World_Trade_Center: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+          Wyoming: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Xinhua_News_Agency: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+           Yamuna: precision: 100.00%; recall: 100.00%; FB1: 100.00  1

@@ -1,0 +1,220 @@
+processed 750 tokens with 141 phrases; found: 137 phrases; correct: 36.
+accuracy:  84.27%; precision:  26.28%; recall:  25.53%; FB1:  25.90
+           Aachen: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+           Alaska: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ Alemannia_Aachen: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Allen_Parish,_Louisiana: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+American_Recordings_(album): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+American_Recordings_(record_label): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   Andreas_Baader: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+    Angela_Merkel: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Angelina_Jolie: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+       Apple_Inc.: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+     Arsenal_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Atletico_Madrid: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Atlético_Madrid: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+        B.B._King: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     Barack_Obama: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+ Barenaked_Ladies: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+             Beck: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       Bill_Gates: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Billie_Joe_Armstrong: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       Billy_Joel: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Blues: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Bob_Dylan: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+Borussia_Dortmund: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Bounty_(brand): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Bounty_(chocolate_bar): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Brad_(band): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+        Brad_Pitt: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Buffalo_Bills: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+            Cairo: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Cairo_(operating_system): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Carlos_Leon: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Carlos_Santana: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Carlos_the_Jackal: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+      Cars_(film): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Cash_(surname): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+          Chicago: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   Chicago_(band): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            China: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ Columbia_Records: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+       Dave_Grohl: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+            David: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+    David_Beckham: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Davis,_California: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Desire_(Bob_Dylan_album): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Dortmund: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       EMP_Museum: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Elin_Nordegren: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Elín_Hirst: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ Emirates_Stadium: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Emmylou_Harris: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Enola_Gay: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Equity_International: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Eric,_Duke_of_Södermanland: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     Eric_Clapton: precision: 100.00%; recall:  50.00%; FB1:  66.67  1
+Erich,_Uttar_Pradesh: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   Erich_Honecker: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Erick_Sermon: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Ericsson_Mobile_Platforms: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Erik_Meijer_(footballer): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Euro,_Western_Australia: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+         Eurozone: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Eva_(novel): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+        Eva_Peron: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ FC_Bayern_Munich: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+FC_Red_Bull_Salzburg: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       First_Lady: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+First_Lady_of_Argentina: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Frank_Sinatra: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Galaxy_(UK_TV_channel): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Galaxy_(chocolate): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Generic_top-level_domain: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+           Greece: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+          Gunners: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     Gwen_Stefani: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Hanns-Martin_Schleyer: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Hanns_Martin_Schleyer: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+  Harris_(rapper): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+           Heidi.: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       Heidi_Klum: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Hertha_BSC: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        Hiroshima: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+            Homme: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ Hurricane_(song): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Ian_Haug: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    Isle_of_Wight: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Isle_of_wight_festival: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Jacqueline_Kennedy_Onassis: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Jeff_Beck: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Jimi_Hendrix: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     Jimmy_Carter: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       Jimmy_Page: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Joan_Baez: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      Joel_Dexter: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Joey_(Bob_Dylan_song): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Joey_Moe: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+  John_F._Kennedy: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+John_F._Kennedy_International_Airport: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      John_Howard: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    John_Lasseter: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      John_Mayall: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+  John_P._Kennedy: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+John_Paul_Jones_(musician): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Johnny_Cash: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Jon_Voight: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Joni_Mitchell: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Josh_Homme: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Justin_Bieber: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Justin_Suarez: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Jón_Magnússon_(politician): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+             KATE: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    Karl_Albrecht: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Karl_Popper: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       Kate_Perry: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Kennedy_(musician): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   Kennedy_family: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+      Kim_(novel): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   Kim_Kardashian: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Lady_gaga: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Landgrave: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+      Larry_Emdur: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       Larry_Page: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Las_Vegas: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Las_Vegas,_Nevada: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Lisa_Brennan-Jobs: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+              MTV: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Macedonia_(Greece): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Madonna_(entertainer): precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Manchester_City_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ Mango_(clothing): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Mario: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+      Mario_Gomez: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             Mars: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+         Mars_bar: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Meijer: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+        Microsoft: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Microsoft_Windows: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Miles_davis: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ Mitchell_Highway: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+             Moon: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Moon_(visual_novel): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+           Munich: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ Müller_(company): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   Neil_Armstrong: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Neunkirchen,_Saarland: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Neunkirchen_(German_district): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       New_Tivoli: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Norbert_Haug: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Orange_(telecommunications): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Orange_S.A.: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+            Paris: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     Paris_Hilton: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Paul_Allen: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+People's_Republic_of_China: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Ping-pong_diplomacy: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Ping_Pong_Diplomacy: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Pixar: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+ Real_Madrid_C.F.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Real_Madrid_Castilla: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ Red_Army_Faction: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Red_Bull_GmbH: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    Reinhold_Yabo: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Republic_of_Macedonia: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    Richard_Nixon: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+       Rick_Rubin: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Robert_Bosch_GmbH: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     Robert_Rubin: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    Rock_(rapper): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       Rock_music: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Royal_Air_Force: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     Rubin_Carter: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Rudi_Voller: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+SPURS_National_Honor_Society: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+             Sam.: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+         Sam_Zell: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Santana_(band): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+  Seal_(musician): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Seattle: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   SecondWorldWar: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Sergey,_Switzerland: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+      Sergey_Brin: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Sharp_(band): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Sharp_Corporation: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             Sony: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Sony_Music_Entertainment: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Stanford_University: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+    Steve_Ballmer: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Steve_Jobs: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ Styles_of_Beyond: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+  Sudhangshu_Seal: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     Sun_(Ceylon): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+The_Spitfire_Boys: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+The_Sun_(United_Kingdom): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        The_Times: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+       Theo_(dog): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    Theo_Albrecht: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Thomas_(novel): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Thomas_Muller_(footballer): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Tiger_Woods: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Tivoli-Neu: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Topologically_Integrated_Geographic_Encoding_and_Referencing: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Tottenham_Hotspur_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Twitter: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        U.S._Open: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ U.S._Open_(golf): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Ulrike_Meinhof: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+United_Arab_Emirates: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   Victoria,_Gozo: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+ Victoria_Beckham: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Völler: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Watergate_complex: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Watergate_scandal: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Werner_Meinhof: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   Willi_Landgraf: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Woodstock_Festival: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ Woodstock_Palace: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     World_War_II: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Wraith_(Stargate): precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+             Yabo: precision:   0.00%; recall:   0.00%; FB1:   0.00  1

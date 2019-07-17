@@ -1,0 +1,332 @@
+processed 2537 tokens with 604 phrases; found: 233 phrases; correct: 181.
+accuracy:  79.31%; precision:  77.68%; recall:  29.97%; FB1:  43.25
+          --NME--: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        1,000,000: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+                2: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             2005: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             2008: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             2009: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             2010: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             2011: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             2014: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             2015: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             2016: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             2017: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     21st_century: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+                6: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+                9: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ Advice_(opinion): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Africa: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+              Aid: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Albania: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Alexis_Tsipras: precision: 100.00%; recall: 100.00%; FB1: 100.00  6
+         Alliance: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Ambassador: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Americans: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Angela_Merkel: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+            April: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          April_8: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Ariane_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+         Ariane_5: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Ariane_6: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Asylum_seeker: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Athens: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+   Atlantic_Ocean: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Attitude_(psychology): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Austerity: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Austria: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        Authority: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Award: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Beijing: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+          Belarus: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+          Belgium: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+          Benelux: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+           Berlin: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+             Bild: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Blessing: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Blockade: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             Boat: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Bosnia_and_Herzegovina: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+            Brake: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Brexit: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+         Brussels: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+   Businessperson: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Capital_city: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Category_of_being: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Centre_(geometry): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Ceremony: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Chair: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Child: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            China: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        Christian: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Circle: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Citizenship: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Civil_disorder: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             Claw: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Combatant: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Commerce: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Company: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Compromise: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Consensus_decision-making: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Copts: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   Countermeasure: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Country: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Croatia: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+             Cuba: precision:  60.00%; recall: 100.00%; FB1:  75.00  5
+Cuban_dissident_movement: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Czech_Republic: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+             Data: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    David_Cameron: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+              Day: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     De_Standaard: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Death: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Decapitation: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         December: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       December_2: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Declaration_(law): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Denmark: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+           Desire: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Discipline: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Divorce: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Document: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Donald_Trump: precision:  87.50%; recall:  87.50%; FB1:  87.50  8
+      Donald_Tusk: precision: 100.00%; recall:  30.00%; FB1:  46.15  3
+    EU_Navfor_Med: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       EUobserver: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Economic_growth: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Economics: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Economy: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Efficiency: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Egypt: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Employment: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          England: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ English_language: precision: 100.00%; recall:  50.00%; FB1:  66.67  1
+Enlargement_of_the_European_Union: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Estonia: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Eu_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+           Europe: precision:  92.00%; recall:  88.46%; FB1:  90.20  25
+European_Commission: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+ European_Council: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+European_Economic_Community: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+European_Parliament: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+European_Space_Agency: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   European_Union: precision: 100.00%; recall:  75.00%; FB1:  85.71  18
+European_integration: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Europeans_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+         Eurostat: precision: 100.00%; recall: 100.00%; FB1: 100.00  4
+         Eurozone: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ Evolution_(term): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Extremism: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Far-right_politics: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         February: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      February_11: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      February_15: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      February_18: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       February_2: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       February_6: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Ferrara: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+         Festival: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Flag_of_Cuba: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             Foot: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Force_(law): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Foreign_Affairs_Council: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Foreign_fighters_in_the_Syrian_and_Iraqi_Civil_Wars: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Fran%C3%A7ois_Hollande: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           France: precision:  80.00%; recall:  80.00%; FB1:  80.00  5
+François_Hollande: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+     Frauke_Petry: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+French_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    French_people: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+              Gas: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             Gate: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ Gauntlet_(glove): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Gazeta_Wyborcza: precision: 100.00%; recall:  66.67%; FB1:  80.00  2
+    Geert_Wilders: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+       Geographer: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Geopolitics: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Germany: precision: 100.00%; recall: 100.00%; FB1: 100.00  5
+             Girl: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             Goal: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Government_debt: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Government_of_Greece: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Great_Britain: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Greatness: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Greece: precision:  75.00%; recall: 100.00%; FB1:  85.71  8
+Guillermo_Fari%C3%B1as: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Herman_Van_Rompuy: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Human_migration: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Human_voice: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Hungary: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+    Hunger_strike: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    I_(newspaper): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             Idea: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Illustration: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Immigration: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Integration_clause: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Inter_Milan: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+International_Organization_for_Migration: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+International_economics: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+International_sanctions: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+International_waters: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Interview: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             Iraq: precision:  50.00%; recall: 100.00%; FB1:  66.67  2
+     Irritability: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             Isis: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Islamic_State_of_Iraq_and_the_Levant: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Islamic_state: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+            Italy: precision: 100.00%; recall: 100.00%; FB1: 100.00  4
+          January: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       January_20: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Jean-Marie_Le_Pen: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+         Jihadism: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             June: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Kathimerini: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             Kiev: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+       Kommersant: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Kosovo: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+              Law: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Le_Monde: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+       Leadership: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Libya: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+  Line_(geometry): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Luxembourg: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+         Majority: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Malta: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+              Man: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+              Map: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Marine_Le_Pen: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Market_(economics): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+              May: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Mediterranean_Sea: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+          Meeting: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Member_state_of_the_European_Union: precision: 100.00%; recall:  40.00%; FB1:  57.14  2
+          Message: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Mexico: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+         Military: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Military_operation: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Minsk: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+           Monday: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Month: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Moscow: precision: 100.00%; recall: 100.00%; FB1: 100.00  4
+  Muammar_Gaddafi: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+             NATO: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+             Name: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Negotiation: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Netherlands: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        Newspaper: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       November_8: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ Nuclear_umbrella: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Number: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        October_4: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        October_7: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Offensive_(military): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Old_Europe_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ Operation_Triton: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Orbit: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Organization: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             Pact: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Paper: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Paris: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Partisan_(political): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Partnership: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Peace: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           People: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Percentage: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Person: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Petition: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Phrase: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             Plan: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Poland: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Political_campaign: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Political_spectrum: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Politics: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Population: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Populism: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Power_(social_and_political): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+President_of_Russia: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+President_of_the_European_Council: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Presidential_election: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Price: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Prime_Minister: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Prime_Minister_of_Greece: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Prime_Minister_of_Poland: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Prime_Minister_of_the_United_Kingdom: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Prime_minister: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Prize: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Profit_(economics): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Project: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Propaganda: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Provocation_(legal): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Question: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Quilliam_(think_tank): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Radio_Free_Europe/Radio_Liberty: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+       Referendum: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Refugee: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Revolution: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Right_of_asylum: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Rocket: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             Rome: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+           Russia: precision:  88.89%; recall: 100.00%; FB1:  94.12  9
+   Sakharov_Prize: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+  Sanctions_(law): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Signature: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Slow-wave_sleep: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Smuggling: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Sofia: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Sophia_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Source_(journalism): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Spain: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+      State_visit: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Strasbourg: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+           Suburb: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ Summit_(meeting): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Sweden: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+      Switzerland: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+            Syria: precision:  50.00%; recall: 100.00%; FB1:  66.67  2
+           Taiwan: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      Term_(time): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Term_of_office: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+The_Daily_Telegraph: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+        The_Times: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Thorns,_spines,_and_prickles: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Threat: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Thursday: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             Time: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Tone_(linguistics): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Transatlantic_Trade_and_Investment_Partnership: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Treaties_of_the_European_Union: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+         Treatise: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Treaty: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Treaty_establishing_a_Constitution_for_Europe: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Tuesday: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Turkey: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     Tusk_(album): precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+          Twitter: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Ukraine: precision:  66.67%; recall: 100.00%; FB1:  80.00  3
+       Ukrainians: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Unanimity: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Unemployment: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Union_(American_Civil_War): precision:   0.00%; recall:   0.00%; FB1:   0.00  5
+   United_Kingdom: precision:  33.33%; recall: 100.00%; FB1:  50.00  6
+    United_States: precision:  70.00%; recall: 100.00%; FB1:  82.35  10
+United_States_presidential_election: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Unlawful_combatant: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Van_Rompuy_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+          Victory: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Video: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Viktor_Orb%C3%A1n: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Vladimir_Putin: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+              War: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Warship: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ Washington,_D.C.: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+             Wave: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Website: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Welfare: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Western_Europe: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      White_House: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+            Woman: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Work_(project_management): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Workforce: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            World: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Worry: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             Year: precision:   0.00%; recall:   0.00%; FB1:   0.00  0

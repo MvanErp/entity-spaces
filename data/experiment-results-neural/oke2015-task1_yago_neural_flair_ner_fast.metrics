@@ -1,0 +1,438 @@
+processed 3257 tokens with 437 phrases; found: 369 phrases; correct: 187.
+accuracy:  17.13%; precision:  50.68%; recall:  42.79%; FB1:  46.40
+Aaron_Ciechanover: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       Adamo_Levi: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ Adele_Montalcini: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Adolf_Zsigmondy: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Adolf_Zsigmondy_Sr.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+African_National_Congress: precision: 100.00%; recall:  50.00%; FB1:  66.67  1
+     Ahmed_Zewail: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   Alain-Fournier: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Albert_Fert: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    Albert_Lutuli: precision:  25.00%; recall: 100.00%; FB1:  40.00  4
+Alexander_S._Langsdorf: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Alfred_A._Knopf: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Amalfi: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+    American-born: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Anne-Marie_Schweitzer: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Applied_physics: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+        Argentina: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Argonne_National_Laboratory: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Assistant_Professor: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Associate_Professor: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Auschwitz_concentration_camp: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+  Austrian_Empire: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+ Bachelor_of_Arts: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     Barack_Obama: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+            Basel: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Basel_Institute_for_Immunology: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+          Beckett: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Belfast: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+ Benito_Mussolini: precision:  50.00%; recall: 100.00%; FB1:  66.67  2
+         Berkeley: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Berkeley,_California: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     Bert_Sakmann: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Bertha_Camilla_Schutz: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Bianca_Fo_Garambois: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Blaauwbosch: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Blackett: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Blackpool: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Blackpool,_Lancashire,_England: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Bolton_School: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+           Boston: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Boston_Brahmin_family: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Boston_University: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+            Bothe: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Boy_Scouts_of_America: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+       Bratislava: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+    Brera_Academy: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Bronx_High_School_of_Science: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Buchenwald_concentration_camp: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        Cambridge: precision:  50.00%; recall: 100.00%; FB1:  66.67  2
+ Cambridge_Majlis: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ Campbell_College: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+           Canada: precision:  50.00%; recall: 100.00%; FB1:  66.67  2
+         Canadian: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Cape_Province: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    Carl_Zeiss_AG: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Carlo_Azeglio_Ciampi: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     Carlo_Rubbia: precision: 100.00%; recall: 100.00%; FB1: 100.00  4
+Carpathian_Mountains: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        Catanzaro: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Cavendish_Laboratory: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        Chemistry: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+            Chile: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Chilean_Communist_Party: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Ciechanover: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+College_de_France: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Collège_de_France: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Columbia_University: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Communist_Party_of_Chile: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     Cooper_Union: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Copenhagen: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+       Cor_Gorter: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Cornelis_Jacobus_Gorter: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Cornell_University: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+         Cornwall: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Cowles_Foundation: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+            Czech: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Czech_Republic: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+         Dario_Fo: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Department_of_Biochemistry: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Department_of_Biochemistry,_University_of_Oxford: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+         Director: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Division: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Drakenstein_Correctional_Centre: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+           Dublin: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+         Dulbecco: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  ESPCI_ParisTech: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       ETH_Zurich: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+      Eagle_Scout: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Eagle_Scout_(Boy_Scouts_of_America): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Ecole_Normale_Superieure: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Ecole_Superieure_de_Physique_et_de_Chimie_Industrielles: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Edward_Mills_Purcell: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      Ehud_Olmert: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      Elie_Wiesel: precision:  14.29%; recall: 100.00%; FB1:  25.00  7
+            Eliot: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Eliot_family: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Elizabeth_Blackburn: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Elizabeth_Fay_Ringo: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Elizabeth_II: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+          England: precision:  28.57%; recall: 100.00%; FB1:  44.44  7
+Ernest_Rutherford: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       Ernst_Mach: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      Erwin_Neher: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    Eugene_Wigner: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Farnborough,_Hampshire: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+           Fellow: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             Fert: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+               Fo: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           France: precision:  40.00%; recall: 100.00%; FB1:  57.14  5
+            Frank: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Frank_Aydelotte: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Frederic_Joliot-Curie: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           French: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      French_Navy: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Frédéric_Joliot-Curie: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+           Fulvio: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Fulvio_Orsini: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Gabriel_González_Videla: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+           Geiger: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Geiger's_staff: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           German: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Germany: precision:  75.00%; recall: 100.00%; FB1:  85.71  4
+            Ghana: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Giorgio_Napolitano: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     Giulio_Natta: precision:  50.00%; recall: 100.00%; FB1:  66.67  2
+    Giuseppe_Levi: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+              God: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Goeppert_Mayer: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Gonzalez_Videla: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Gordimer: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Gotthold_Ephraim_Lessing: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+        Hamburger: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Hans_Geiger: precision:  25.00%; recall: 100.00%; FB1:  40.00  4
+        Harlequin: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Harry_Kroto: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+          Harvard: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Harvard_Medical_School: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Harvard_Society_of_Fellows: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Harvard_University: precision:  60.00%; recall: 100.00%; FB1:  75.00  5
+               He: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Hebrew_language: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Helen_Wood_Christie: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Henri_Bergson: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Henry_Nelson_Wieman: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+              Her: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Hibiya_High_School: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+              His: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+History_of_the_Jews_in_Hungary: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+         Holy_See: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Howard_University: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+            Hulse: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Hungarian: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Hungarian_Jews: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Hungary: precision:  50.00%; recall: 100.00%; FB1:  66.67  2
+          Imperia: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+    Impressionism: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Impressionist_painter: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             Imre: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Institute_for_Advanced_Study: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Institute_for_Theoretical_Physics: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Institute_of_Industrial_Chemistry: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Irma_Szakmary: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Israel_Academy_of_Sciences_and_Humanities: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Italian_Social_Republic: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+            Italy: precision:  66.67%; recall: 100.00%; FB1:  80.00  3
+J._Hans_D._Jensen: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    James_Sirleaf: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      James_Tobin: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+       Jan_Neruda: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      Jane_Somers: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Japan: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Jean-Baptiste_Sartre: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             Jena: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+             Jews: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+             John: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  John_F._Kennedy: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Johns_Hopkins_University: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Joseph_Edward_Mayer: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+           Kadima: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      Kansas_City: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Kansas_City,_Missouri: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     Karl_Ziegler: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      Kary_Mullis: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+  Knight_Bachelor: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+            Kroto: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    KwaZulu-Natal: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+KwaZulu_Provincial_Division: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ Kyoto_University: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Laboratory_for_Radioactivity: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Lago_Maggiore: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Lake_Maggiore: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       Lancashire: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ Lavoslav_Ruzicka: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Leggiuno_Sangiano: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Leiden_University: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+  Leopold_Ružička: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+          Lessing: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             Levi: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+  Levi-Montalcini: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Liguria: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+    Linda_B._Buck: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       Linda_Buck: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Lombardy: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+           London: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+ Luciano_Capecchi: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Lucy_Dodd_Ramberg: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Lucy_Ramberg: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Lutuli: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           M.I.T.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+MIT_Radiation_Laboratory: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Madison,_Wisconsin: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Madison_Business_College: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Magdalene_College,_Cambridge: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+      Maihue_Lake: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Manchester_Centre_for_Mesoscience_and_Nanotechnology: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        Maramures: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Maramureș: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    Marcel_Proust: precision:  50.00%; recall: 100.00%; FB1:  66.67  2
+Marcello_Conversi: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Marguerite_Vogt: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Maria_Goeppert: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Maria_Goeppert-Mayer: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+      Marie_Curie: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+            Mario: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Mario_Capecchi: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+Marlborough,_Massachusetts: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Marlborough_Grammar_School: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Martin_Luther_King,_Jr.: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+      Martonvasar: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Martonvásár: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ Martti_Ahtisaari: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Masaki_Hayashi: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Massachusetts: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Master_of_Arts: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+         Max_Born: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        Methodism: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ Methodist_Church: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Michael: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Michael_Joseph: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Michael_Smith: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Milan: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+   Milton_Academy: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+          Mthatha: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+           Mullis: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Munro: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Mussolini: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Mvezo: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+  Nadine_Gordimer: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+           Nagoya: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+           Naples: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+            Natal: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+National_Academy_of_Sciences: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+National_Institutes_of_Health: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+            Natta: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Neher: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Nelson_Mandela: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+           Neruda: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      New_England: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+    New_York_City: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Newcastle_upon_Tyne: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+          Newquay: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+           Nichia: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Nichia_Corporation: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Nicolaas_Bloembergen: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Niels_Bohr_Institute: precision:  50.00%; recall: 100.00%; FB1:  66.67  2
+      Nobel_Prize: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Nobel_Prize_in_Chemistry: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Nobel_Prize_in_Physics: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+   Nobel_laureate: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  One_of_the_them: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Orsay_Faculty_of_Sciences: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Osijek: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+             Oulu: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+              PTR: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Pablo_Neruda: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+            Paris: precision: 100.00%; recall:  85.71%; FB1:  92.31  6
+Pasteur_Institute: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Patrick_Blackett,_Baron_Blackett: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   Paul_Samuelson: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     Paul_Tillich: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+    Penguin_Group: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+          Physics: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Physikalisch-Technische_Bundesanstalt: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+             Pisa: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Politecnico_di_Milano: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ Pollsmoor_Prison: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Polytechnic_Institute_of_Turin: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Polytechnic_University_of_Turin: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Pontifical_Academy_of_Sciences: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+           Prelog: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Prelog,_Croatia: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+        President: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Prime_minister: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Professor: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Province_of_Varese: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        Quasimodo: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+            Queen: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+              RCA: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Radiation_Laboratory: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+  Renato_Dulbecco: precision:  50.00%; recall: 100.00%; FB1:  66.67  4
+Repubblica_Sociale_Italiana: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Richard_Adolf_Zsigmondy: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+     Richard_Kuhn: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Richard_Williamson: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Richard_Williamson_(bishop): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Rita_Levi-Montalcini: precision:   0.00%; recall:   0.00%; FB1:   0.00  5
+        Rob_Hulse: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    Robben_Island: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Robert_F._Kennedy: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Romania: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+             Rome: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ Rome's_city_hall: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Rontgen: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Royal_Aircraft_Establishment: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+       Rutherford: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ Saint_Petersburg: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+          Sakmann: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Salk_Institute_for_Biological_Studies: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+   Samuel_Beckett: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+        San_Diego: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+Sapienza_University_of_Rome: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       Sarah_Feig: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Sarah_Lawrence_College: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+         Sarajevo: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        Schott_AG: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     Schott_Glass: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Scofield_Thayer: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Scuola_Normale: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Scuola_Normale_Superiore_di_Pisa: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Second_Vienna_Award: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+  Senate_of_Italy: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Senate_of_the_Republic_(Italy): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+          Senator: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ Senator_for_life: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Serpent_Street: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+              She: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Sheffiel: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Sheffield_University: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Shlomo_Wiesel: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Shuji_Nakamura: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+           Sighet: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Sighetu_Marmației: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+    Sizwe_Motaung: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Society_of_Saint_Pius_X: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Society_of_St._Pius_X: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+         Sorbonne: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     South_Africa: precision:  50.00%; recall: 100.00%; FB1:  66.67  2
+South_Africa's_Cape_Province: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Southern_Italy: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        St._Louis: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+St._Nicholas_Church_of_England_School: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+St_John's_Marlborough: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+  Susumu_Tonegawa: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Swiss_Federal_Institute_of_Technology: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Switzerland: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+      Sándor_Imre: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+      T._S._Eliot: precision:   0.00%; recall:   0.00%; FB1:   0.00  5
+The_Imperial_Cancer_Research_Fund: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Thomas_Eliot: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Tokushima,_Tokushima: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+            Tokyo: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+         Tonegawa: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Toni_Morrison: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     Transylvania: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Trinity_College,_Cambridge: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Trinity_College,_Dublin: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+            Turin: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+U.S._National_Institutes_of_Health: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     UK_publisher: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+               US: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Umkhonto_we_Sizwe: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+           Umtata: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   United_Kingdom: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    United_States: precision:  62.50%; recall: 100.00%; FB1:  76.92  8
+United_States_National_Academy_of_Sciences: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+United_States_President's_Council_of_Advisors_on_Science_and_Technology: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+United_States_Senate: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+University_of_Bologna: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+University_of_California: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+University_of_Chicago: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+University_of_Gottingen: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+University_of_Göttingen: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+University_of_Hamburg: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+University_of_Leiden: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+University_of_Manchester: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+University_of_Massachusetts_Amherst: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+University_of_Paris: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+University_of_Pisa: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+University_of_Rome: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+University_of_Sheffield: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+University_of_Tokushima: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+University_of_Turin: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+University_of_Utah: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+University_of_Utrecht: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+University_of_Western_Ontario: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+University_of_the_Witwatersrand: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Utrecht_University: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       Valparaiso: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Valparaíso: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ Vancouver_Island: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+          Vatican: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Verona: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+           Vienna: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+ Viktor_Hamburger: precision:  50.00%; recall: 100.00%; FB1:  66.67  2
+   Walter_Ramberg: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Walther_Bothe: precision:  50.00%; recall: 100.00%; FB1:  66.67  2
+Washington_University: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Washington_University_in_St._Louis: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+           Wiesel: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Wilhelm_Rontgen: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Wilhelm_Röntgen: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+  William_Golding: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+        Wiltshire: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        Wisconsin: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Wolfgang_Joseph_Pauli: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Wolfgang_Pauli: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+     World_War_II: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+             YMCA: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+             Yale: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Yale_University: precision:  50.00%; recall: 100.00%; FB1:  66.67  2
+           Zagreb: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+            Zeiss: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Zewail: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Zsigmondy: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Zurich: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Zürich: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       _Cambridge: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          _Dublin: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       _Hampshire: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             _Jr.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   _KwaZulu-Natal: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       _San_Diego: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       _Tokushima: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       _Wiltshire: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+École_Normale_Supérieure: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+   Émile_Chartier: precision:   0.00%; recall:   0.00%; FB1:   0.00  1

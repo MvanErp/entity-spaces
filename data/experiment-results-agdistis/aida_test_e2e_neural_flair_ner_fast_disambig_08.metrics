@@ -1,0 +1,2250 @@
+processed 46665 tokens with 4478 phrases; found: 4396 phrases; correct: 2401.
+accuracy:  94.44%; precision:  54.62%; recall:  53.62%; FB1:  54.11
+          .africa: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+           .irish: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+           .wales: precision:   0.00%; recall:   0.00%; FB1:   0.00  8
+       1._FC_Koln: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       1._FC_Köln: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+10_Downing_Street: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+16=SabinaPanzanini: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    18=MiriamVogt: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+1966_FIFA_World_Cup: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+1976_Winter_Olympics: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+1994LillehammerWinterOlympics: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ 1994_Asian_Games: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+1995_Rugby_World_Cup: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ 1996-97_UEFA_Cup: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+1996_AFC_Asian_Cup: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+1998_FIFA_World_Cup: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+1998_World_Championships: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       A.C._Milan: precision: 100.00%; recall:  87.50%; FB1:  93.33  7
+A.C._Perugia_Calcio: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+A.C._Reggiana_1919: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+A.F.C._Bournemouth: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        A.S._Roma: precision: 100.00%; recall:  50.00%; FB1:  66.67  1
+   ACF_Fiorentina: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+         AFC_Ajax: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+    AFC_Asian_Cup: precision:  85.71%; recall:  75.00%; FB1:  80.00  7
+       AJ_Auxerre: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           AL-AIN: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+  AMR_Corporation: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     ASVEL_Basket: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        AS_Cannes: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     AS_Monaco_FC: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         AS_Nancy: precision: 100.00%; recall:  33.33%; FB1:  50.00  1
+       AZ_Alkmaar: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+      Abdou_Diouf: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+       Abel_Balbo: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+         Aberdeen: precision:   0.00%; recall:   0.00%; FB1:   0.00  5
+    Aberdeen_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Abidjan: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+  Abraham_Lincoln: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+        Abu_Dhabi: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+ Adilson_da_Silva: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+ Adnan_Al_Talyani: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      Adrian_Ilie: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+           Africa: precision: 100.00%; recall:  11.11%; FB1:  20.00  1
+          African: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+African_National_Congress: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+  Agung_Setyabudi: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Ahmedou_Ould-Abdallah: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+            Ahold: precision: 100.00%; recall: 100.00%; FB1: 100.00  6
+Airdrieonians_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Airdrieonians_F.C._(1878): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Al_Ain: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Alan_Budikusuma: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+   Alan_Greenspan: precision: 100.00%; recall: 100.00%; FB1: 100.00  4
+     Alan_Shearer: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      Alba_Berlin: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+          Albania: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Albania_national_football_team: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Albanian_Football_Association: precision:  25.00%; recall: 100.00%; FB1:  40.00  4
+ Albanian_cuisine: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+    Albert_Ferrer: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Albuquerque,_New_Mexico: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+Aleksander_Kwasniewski: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Aleksander_Kwaśniewski: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+      Alen_Boksic: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Alen_Bokšić: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+      AlesValenta: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     Ales_Valenta: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Alessandra_Mussolini: precision: 100.00%; recall:  25.00%; FB1:  40.00  1
+Alessandro_Del_Piero: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Alessandro_Moscardi: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Alessandro_Troncon: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+ Alexander_Downer: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Alexandra_Meissnitzer: precision: 100.00%; recall: 100.00%; FB1: 100.00  5
+          Algeria: precision: 100.00%; recall:  20.00%; FB1:  33.33  1
+         Algerian: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+   AlgerianMoslem: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+        Algerians: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+          Algiers: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+       Ali_Alatas: precision: 100.00%; recall: 100.00%; FB1: 100.00  5
+         AllBlack: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+            Allah: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Allah_Valley: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    Allan_Bateman: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+            Alloa: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+Alloa_Athletic_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Ally_McCoist: precision: 100.00%; recall:  50.00%; FB1:  66.67  1
+Alpine_skiing_at_the_1994_Winter_Olympics: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Altenberg,_Saxony: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Altenberg_Abbey: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+      Altin_Haxhi: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+    Altin_Rraklli: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+       Amara_Essy: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+  Amarillo,_Texas: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+          Ambrose: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+American_Airlines: precision:  16.67%; recall: 100.00%; FB1:  28.57  6
+American_Football_(band): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   American_McGee: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+American_Veterinary_Medical_Association: precision:  50.00%; recall: 100.00%; FB1:  66.67  2
+American_depositary_receipt: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        Americans: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+        Amsterdam: precision: 100.00%; recall: 100.00%; FB1: 100.00  4
+Anadolu_Efes_S.K.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Anaheim,_California: precision:   0.00%; recall:   0.00%; FB1:   0.00  5
+    Anaheim_Ducks: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Andreas_Goldberger: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+  Andreas_Laudrup: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     Andreas_Thom: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Andrei_Kanchelskis: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Andrey_A._Fedorov: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   Andreya_Triana: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    Andy_Melville: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Andy_Sinton: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Andy_Townsend: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Ange-Felix_Patasse: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Ange-Félix_Patassé: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Anghel_Iordanescu: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Anghel_Iordănescu: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+  Anglo-Welsh_Cup: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+    Anita_Wachter: precision: 100.00%; recall: 100.00%; FB1: 100.00  4
+           Ankara: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+    Antoine_Lahad: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      Anton_Dobos: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Anton_Doboș: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    Antonio_Folha: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Antonio_Tartaglia: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+    Antony_Marlow: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+          Antwerp: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+    António_Folha: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Appleton,_Wisconsin: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Appleton_(music_duo): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Arab_Contractors_(company): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Arabic_(Unicode_block): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+  Arabic_language: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Arad,_Romania: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+         Arbroath: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    Arbroath_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ Ards_(territory): precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+        Ards_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Argentina: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Argentine_Township,_Michigan: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+Ari-Pekka_Nikkola: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+          Arizona: precision:  33.33%; recall: 100.00%; FB1:  50.00  3
+Arizona_Cardinals: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Arizona_State_Sun_Devils_football: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Arizona_State_University: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+     Arjan_Xhumba: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Arminia_Bielefeld: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+          Arsenal: precision:   0.00%; recall:   0.00%; FB1:   0.00  8
+     Arsenal_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Artur_Lekbello: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Ashford_Town_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Ashford_United_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             Asia: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       AsianGames: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Asian_Cup_(ice_hockey): precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+     Asian_people: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+Associacao_Portuguesa_de_Desportos: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Association_of_Southeast_Asian_Nations: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+Associação_Portuguesa_de_Desportos: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+            Astle: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+ Aston_Villa_F.C.: precision: 100.00%; recall: 100.00%; FB1: 100.00  4
+    Atalanta_B.C.: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+           Athens: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+  Athletic_Bilbao: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+          Atlanta: precision:  16.67%; recall: 100.00%; FB1:  28.57  6
+  Atlanta_Falcons: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Atlanta_Hawks: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Atlantic_Division_(NBA): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Atlantic_Division_(NHL): precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+  Atletico_Madrid: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Atlético_Madrid: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+         Aung_San: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ Aung_San_Suu_Kyi: precision:  80.00%; recall: 100.00%; FB1:  88.89  5
+        Australia: precision:  49.15%; recall:  90.62%; FB1:  63.74  59
+Australia_national_cricket_team: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Australia_national_rugby_union_team: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Australian_Capital_Territory: precision:  25.00%; recall: 100.00%; FB1:  40.00  4
+          Austria: precision: 100.00%; recall:  93.55%; FB1:  96.67  29
+Austrian_Airlines: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+  Austrian_Empire: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Auxerre: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+      Axel_Schulz: precision: 100.00%; recall:  50.00%; FB1:  66.67  1
+          Ayodhya: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+              Ayr: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+  Ayr_United_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             BALI: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+              BBC: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+ BC_Dynamo_Moscow: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         BC_Lions: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+             BONN: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+           BOSTON: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+  BOSTONCLEVELAND: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+             BURE: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     Bahia_Blanca: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Baja_California: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+             Bali: precision: 100.00%; recall:  50.00%; FB1:  66.67  1
+          Balkans: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+        Baltimore: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+ Baltimore_Ravens: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Bangkok: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+           Bangui: precision: 100.00%; recall: 100.00%; FB1: 100.00  8
+    Bank_of_Japan: precision: 100.00%; recall: 100.00%; FB1: 100.00  7
+        Barbarian: precision:   0.00%; recall:   0.00%; FB1:   0.00  7
+   Barbarian_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Barcelona: precision:   9.52%; recall: 100.00%; FB1:  17.39  21
+BarcelonaRealMadrid: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+      Barnet_F.C.: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+         Barnsley: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+    Barnsley_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Barrick_Gold: precision: 100.00%; recall: 100.00%; FB1: 100.00  9
+  Basarab_Panduru: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Basque_Country_(autonomous_community): precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Basque_Country_(greater_region): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Bastia: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+         Batasuna: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Bath_County,_Virginia: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       Bath_Rugby: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Bayer_04_Leverkusen: precision:  75.00%; recall: 100.00%; FB1:  85.71  4
+Bayer_Giants_Leverkusen: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Beijing: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+           Beirut: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+Beitar_Jerusalem_F.C.: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+       Bela_Marko: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Belarus: precision: 100.00%; recall:  66.67%; FB1:  80.00  2
+          Belfast: precision: 100.00%; recall: 100.00%; FB1: 100.00  4
+          Belgium: precision: 100.00%; recall: 100.00%; FB1: 100.00  11
+         Belgrade: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Bellerive_Oval: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+ Benito_Mussolini: precision:  40.00%; recall: 100.00%; FB1:  57.14  5
+Benjamin_Netanyahu: precision: 100.00%; recall:  33.33%; FB1:  50.00  2
+   Bert_Konterman: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Berwick-upon-Tweed: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Berwick_Rangers_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Beth_Daniel: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+BharatiyaJanataParty: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Bharatiya_Janata_Party: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Biathlon_World_Cup: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Bikini_waxing: precision:   0.00%; recall:   0.00%; FB1:   0.00  7
+     Bill_Clinton: precision: 100.00%; recall:  42.86%; FB1:  60.00  3
+Bill_Jordan,_Baron_Jordan: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Bill_Jordan_(outdoorsman): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     Billy_Davies: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Billy_Dodds: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+       Bima_Sakti: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+       Birmingham: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Birmingham_City_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Blackburn: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+Blackburn_Rovers_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Blackpool: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+   Blackpool_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Blaise_Compaore: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Blaise_Compaoré: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+      Bledar_Kola: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+  Blendi_Nallbani: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+          Blewett: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+            Blida: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   Blida_Province: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Blinker: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Bnei_Yehuda_Tel_Aviv_F.C.: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+    Bob_Halverson: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+      Bob_Woolmer: precision:  57.14%; recall:  80.00%; FB1:  66.67  7
+ Bobby_Baccalieri: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   Bobby_Charlton: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Bochum: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    Bode_(crater): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    Bogdan_Stelea: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+          Bologna: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+Bologna_F.C._1909: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Bolton: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Bolton_Wanderers_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             Bonn: precision: 100.00%; recall:  33.33%; FB1:  50.00  1
+         Bordeaux: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Boreham_Wood_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Borehamwood: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    Boris_Yeltsin: precision: 100.00%; recall: 100.00%; FB1: 100.00  8
+  Boroughmuir_RFC: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Borussia_Dortmund: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Borussia_Monchengladbach: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Borussia_Mönchengladbach: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+           Boston: precision:   0.00%; recall:   0.00%; FB1:   0.00  7
+    Boston_Bruins: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Boston_Celtics: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Boston_United_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Bournemouth: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Boutros_Boutros-Ghali: precision: 100.00%; recall: 100.00%; FB1: 100.00  4
+           Bowyer: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+         Bradford: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Bradford_City_A.F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ Bradford_Vaughan: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+           Branch: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       Bratislava: precision: 100.00%; recall: 100.00%; FB1: 100.00  4
+           Brazil: precision: 100.00%; recall:  54.55%; FB1:  70.59  12
+        Brazilian: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       Brazilians: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+            Bre-X: precision: 100.00%; recall: 100.00%; FB1: 100.00  13
+          Brechin: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Brechin_City_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Brentford: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+   Brentford_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Brett_Liddle: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Brian_Burke_(Wisconsin_politician): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Brian_Burke_(ice_hockey): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Brian_Lara: precision: 100.00%; recall:  86.67%; FB1:  92.86  13
+    Brian_Laudrup: precision: 100.00%; recall:  50.00%; FB1:  66.67  1
+     Brian_Shimer: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+         Bridgend: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+  Bridgend_Ravens: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Brighton: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Brighton_&_Hove_Albion_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Bristol: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Bristol_City_F.C.: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Bristol_Rovers_F.C.: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+    Bristol_Rugby: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  British_Airways: precision:  85.71%; recall: 100.00%; FB1:  92.31  7
+ British_Columbia: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  British_English: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+British_Journal_of_Psychiatry: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+British_Sea_Power: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   British_people: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Britishness: precision:   0.00%; recall:   0.00%; FB1:   0.00  8
+             Brno: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+    Brooklyn_Nets: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Brunei: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+         Brussels: precision: 100.00%; recall: 100.00%; FB1: 100.00  5
+        Bucharest: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+         Budapest: precision: 100.00%; recall:  66.67%; FB1:  80.00  2
+     BudapestBank: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+BuenosAiresQuequenRosarioBahiaBlanca: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+     Buenos_Aires: precision: 100.00%; recall:  50.00%; FB1:  66.67  1
+Buffalo,_New_York: precision:   0.00%; recall:   0.00%; FB1:   0.00  7
+    Buffalo_Bills: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Buffalo_Sabres: precision: 100.00%; recall:  28.57%; FB1:  44.44  2
+           Bukavu: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+         Bulgaria: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Bundesbank: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   Burkhard_Reich: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Burkina_Faso: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+            Burma: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ Burmese_alphabet: precision:   0.00%; recall:   0.00%; FB1:   0.00  5
+          Burnley: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+     Burnley_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Burundi: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+             Bury: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+        Bury_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Béla_Markó: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   CB_Estudiantes: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+       CB_Sevilla: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      CD_Tenerife: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   CF_Extremadura: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        CLEVELAND: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+         COLUMBUS: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+CSA_Steaua_București: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+      CSKA_Moscow: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+         CUTTITTA: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Cabinet_(government): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             Caen: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       Caerphilly: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   Caerphilly_RFC: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Cagliari: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+  Cagliari_Calcio: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Cairns: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+            Cairo: precision: 100.00%; recall: 100.00%; FB1: 100.00  5
+          Calgary: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+   Calgary_Flames: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       California: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Calvin_Britain: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+         Cambodia: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Cambodian: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+        Cambridge: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Cambridge_United_F.C.: precision: 100.00%; recall:  50.00%; FB1:  66.67  1
+   Camilla_Martin: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+         CanMilan: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+           Canada: precision: 100.00%; recall:  67.65%; FB1:  80.70  23
+CanadianWestCoastVesselLoadings: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Canadian_Grain_Commission: precision:  50.00%; recall: 100.00%; FB1:  66.67  2
+Canadian_Wheat_Board: precision:  50.00%; recall: 100.00%; FB1:  66.67  2
+        Canadians: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+         Canberra: precision: 100.00%; recall:  66.67%; FB1:  80.00  2
+   CanberraBureau: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+           Cannes: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+        Cape_Town: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+          Cardiff: precision:  25.00%; recall: 100.00%; FB1:  40.00  4
+Cardiff_City_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Cardiff_RFC: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Caribbean: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Carl_Grimes: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+      Carl_Hooper: precision: 100.00%; recall:  25.00%; FB1:  40.00  1
+Carlisle,_Cumbria: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Carlisle_United_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Carlo_Checchinato: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Carlos_Filipe_Ximenes_Belo: precision: 100.00%; recall: 100.00%; FB1: 100.00  8
+Carlos_Secretario: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Carlos_Secretário: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+  Carlsberg_Group: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Carlsberg_Laboratory: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+ Carole_Montillet: precision: 100.00%; recall: 100.00%; FB1: 100.00  6
+Carolina_Panthers: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Carsten_Ramelow: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Casey_FitzRandolph: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+  Catholic_Church: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Catholicism: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Celta_de_Vigo: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+   Celtic_Britons: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+      Celtic_F.C.: precision: 100.00%; recall:  14.29%; FB1:  25.00  1
+     Celtic_Frost: precision:   0.00%; recall:   0.00%; FB1:   0.00  6
+      CentralAsia: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Central_African_Republic: precision: 100.00%; recall: 100.00%; FB1: 100.00  5
+     Central_Asia: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Central_Division_(MLS): precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Central_Division_(NBA): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Central_Division_(NHL): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Central_European_Free_Trade_Agreement: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        Charleroi: precision:  25.00%; recall: 100.00%; FB1:  40.00  4
+ Charles_Spearman: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Charlotte,_North_Carolina: precision:   0.00%; recall:   0.00%; FB1:   0.00  5
+Charlotte_Bobcats: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Charlton_Athletic_F.C.: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+   Chelsea_(band): precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+     Chelsea_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Chester_City_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Chesterfield: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+Chesterfield_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Chicago: precision:  44.44%; recall:  66.67%; FB1:  53.33  18
+    Chicago_Bears: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Chicago_Blackhawks: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Chicago_Board_of_Trade: precision:  20.00%; recall:  50.00%; FB1:  28.57  5
+    Chicago_Bulls: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Chile: precision: 100.00%; recall:  25.00%; FB1:  40.00  2
+  Chilean_cuisine: precision:   0.00%; recall:   0.00%; FB1:   0.00  6
+            China: precision:  82.76%; recall:  77.42%; FB1:  80.00  29
+      China_Steel: precision:  66.67%; recall:  66.67%; FB1:  66.67  3
+China_national_football_team: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Chinese_Peak_(Idaho): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     Chris_Cairns: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Chris_Harris_(cricketer): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Chris_Hay: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Chris_Powell: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Chris_Sutton: precision: 100.00%; recall:  50.00%; FB1:  66.67  1
+      Chris_Witty: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+        Christian: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Christian-Shi'iteMoslem: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       Cincinnati: precision:  33.33%; recall: 100.00%; FB1:  50.00  3
+Cincinnati_Bengals: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+City_of_Sunderland: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Civil_Aviation_Administration_of_China: precision:  20.00%; recall: 100.00%; FB1:  33.33  5
+Civil_Aviation_Authority_(United_Kingdom): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ Clarence_Seedorf: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+ Clarence_Woolmer: precision: 100.00%; recall:  25.00%; FB1:  40.00  1
+  Claude_Makelele: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Claude_Makélélé: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+        Cleveland: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Cleveland_Cavaliers: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Cleveland_Indians: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Cliftonville: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Cliftonville_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ Clinton_Whitelaw: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+      Clive_Lloyd: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+Clube_Atletico_Mineiro: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Clube_Atlético_Mineiro: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       Clyde_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Clydebank: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+   Clydebank_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Codos: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+       Colchester: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Colchester_United_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Coleraine: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+   Coleraine_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Colin_Cameron_(Canadian_politician): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Colin_Cameron_(footballer): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Colombia: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+         Colorado: precision:  58.33%; recall: 100.00%; FB1:  73.68  12
+Colorado_Avalanche: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Columbus,_Ohio: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Commission: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Competition_Commission: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Conservative_Party_(UK): precision: 100.00%; recall:  80.00%; FB1:  88.89  4
+ Constantin_Galca: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ Constantin_Gâlcă: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       Copenhagen: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+    Cornell_Brown: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Courtney_Walsh: precision: 100.00%; recall:  75.00%; FB1:  85.71  3
+         Coventry: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+Coventry_City_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Cowdenbeath: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ Cowdenbeath_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Craig_Quinnell: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Craig_Spearman: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Credit_Suisse: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+            Crewe: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Crewe_Alexandra_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Croat_(coin): precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+          Croatia: precision: 100.00%; recall:  42.86%; FB1:  60.00  3
+ Croatian_cuisine: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Cross_Canadian_Ragweed: precision:   0.00%; recall:   0.00%; FB1:   0.00  6
+Crusaders_(guerrilla): precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+   Crusaders_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Crystal_Palace_F.C.: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+             Cuba: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Curtly_Ambrose: precision: 100.00%; recall:  50.00%; FB1:  66.67  1
+            Czech: precision:   0.00%; recall:   0.00%; FB1:   0.00  7
+   Czech_Republic: precision: 100.00%; recall:  31.25%; FB1:  47.62  5
+   Czechoslovakia: precision:  20.00%; recall: 100.00%; FB1:  33.33  5
+           Czechs: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+              DAX: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+             DILI: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+            Dakar: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+    Dale_McIntosh: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+           Dallas: precision:  11.11%; recall: 100.00%; FB1:  20.00  9
+   Dallas_Cowboys: precision: 100.00%; recall:  33.33%; FB1:  50.00  1
+ Dallas_Mavericks: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Dallas_Stars: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Dalmatian_(dog): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Dalmatians_(band): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+         Damascus: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Dampier,_Western_Australia: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Dan_Crowley: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Dan_Crowley_(rugby_player): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     Dan_Petrescu: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     Daniel_Bravo: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Daniel_Herbert: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+    Daniel_Prodan: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Daniele_Carnasciali: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Dariusz_Rosati: precision: 100.00%; recall: 100.00%; FB1: 100.00  8
+     Dariusz_Wosz: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Darlington: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+  Darlington_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Darren_Garforth: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Darren_Jackson: precision: 100.00%; recall:  50.00%; FB1:  66.67  1
+    Darryl_Powell: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Dave_Wilson_(rugby_union): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       David_Boon: precision: 100.00%; recall: 100.00%; FB1: 100.00  4
+    David_Campese: precision: 100.00%; recall:  76.92%; FB1:  86.96  10
+     David_Giffin: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+ David_MacEachern: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+     David_Rowson: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+David_Wilson,_Baron_Wilson_of_Tillyorn: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   Davis_Love_III: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      Davor_Suker: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Davor_Šuker: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+    De_Graafschap: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+  Dean_Holdsworth: precision: 100.00%; recall:  50.00%; FB1:  66.67  1
+Dean_Jones_(actor): precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Dean_Jones_(cricketer): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Dean_Sturridge: precision: 100.00%; recall:  50.00%; FB1:  66.67  1
+        Dean_Ward: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     Dean_Windass: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Deborah_Compagnoni: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+  Dejan_Koturovic: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Dejan_Koturović: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+  Dejan_Savicevic: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Dejan_Savićević: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Democratic_Left_Alliance: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Democratic_Republic_of_the_Congo: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Democratic_Union_of_Hungarians_in_Romania: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+          Denmark: precision: 100.00%; recall: 100.00%; FB1: 100.00  8
+           Denver: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+   Denver_Broncos: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Denver_Nuggets: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Derby: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+Derby_County_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ Des_Moines,_Iowa: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+   Des_Terblanche: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+   Desvonde_Botes: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+          Detroit: precision:   0.00%; recall:   0.00%; FB1:   0.00  9
+    Detroit_Lions: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Detroit_Pistons: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Detroit_Red_Wings: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Deutsche_Bundesbank: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Dick_Spring: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+  Diego_Dominguez: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Diego_Domínguez: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     Dieter_Thoma: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Dietmar_Beiersdorfer: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+             Dili: precision: 100.00%; recall:  50.00%; FB1:  66.67  1
+Dimas_Braz_Rimi_de_Oliveira: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   Dimas_Teixeira: precision: 100.00%; recall:  50.00%; FB1:  66.67  1
+       Dirk_Wiese: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Division_of_Fraser: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+DmitriDashinskiBelarus: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ Dmitri_Dashinski: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Doberman_Pinscher: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+            Dobro: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Dodge_City,_Kansas: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        Doncaster: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Doncaster_Rovers_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Dong_Jiong: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Donna_Andrews_(golfer): precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+ Donna_Weinbrecht: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+ Dorinel_Munteanu: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Doug_Young_(politician): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Doug_Young_(sculptor): precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+            Doull: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+         DowJones: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Dow_Jones_Industrial_Average: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Downing_Street: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   DrawRealMadrid: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+            Dubai: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+           Dublin: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        Dumbarton: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   Dumbarton_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Dundee: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Dundee_United_F.C.: precision: 100.00%; recall: 100.00%; FB1: 100.00  6
+      Dunfermline: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+Dunfermline_Athletic_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Dunvant: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+      Dunvant_RFC: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Durban: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     Dutch_Savage: precision:   0.00%; recall:   0.00%; FB1:   0.00  7
+         Dutch_TT: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     Dwight_Yorke: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+    Dynamo_Moscow: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ENGLISHMANCHARLTON: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+              ETA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ETA_political-military: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+        EastTimor: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+     EastTimorese: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   East_Fife_F.C.: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+  East_Kalimantan: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+East_Stirlingshire_F.C.: precision:  50.00%; recall: 100.00%; FB1:  66.67  2
+       East_Timor: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Ebbw_Vale: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    Ebbw_Vale_RFC: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Eberhard_Carl: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Edmonton: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+  Edmonton_Oilers: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Edwina_Currie: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+       Efan_Ekoku: precision: 100.00%; recall:  66.67%; FB1:  80.00  2
+Efes_Beverage_Group: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+            Egypt: precision: 100.00%; recall:  33.33%; FB1:  50.00  1
+  Egyptian_(band): precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+            Ekoku: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+El_Mokawloon_El_Arab: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ El_Mundo_(Spain): precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      El_Salvador: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Elan_Bearnais_Pau-Orthez: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Electronic_Data_Systems: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+              Elf: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+    Elf_Aquitaine: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Elgin_City_F.C.: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Elizabeth_McIntyre: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Emil_Constantinescu: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+En_Avant_de_Guingamp: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Enfield_Town: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Enfield_Town_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          England: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+England_cricket_team: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+England_national_football_team: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+England_national_rugby_union_team: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ English,_Indiana: precision:   0.00%; recall:   0.00%; FB1:   0.00  10
+   English_people: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Erald_Briscoe: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+    Eric_Bergoust: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+    Erjon_Bogdani: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      Ervin_Fakaj: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Espen_Bredesen: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+          Estonia: precision: 100.00%; recall:  50.00%; FB1:  66.67  1
+EstonianTallinnaPank: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+         Ethiopia: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Ethnic_groups_in_Europe: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     Etienne_Saqr: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Eugenio_Corini: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     Euro-sceptic: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+       Euroleague: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Euroleague_Basketball: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Europe: precision: 100.00%; recall:  40.00%; FB1:  57.14  8
+Europe_Cup_(badminton): precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+EuropeanCommission: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+European_Champions_League_(table_tennis): precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+European_Commission: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+European_Democratic_Party_(Czech_Republic): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   European_Union: precision: 100.00%; recall:  57.14%; FB1:  72.73  4
+European_Union_Association_Agreement: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ Europeans_(band): precision:   0.00%; recall:   0.00%; FB1:   0.00  10
+   Euroscepticism: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Evelyne_Leu: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+     Everton_F.C.: precision: 100.00%; recall: 100.00%; FB1: 100.00  4
+           Exeter: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+ Exeter_City_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Extremadura: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+            Exxon: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+       ExxonMobil: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+F.C._Hansa_Rostock: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+       F.C._Porto: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+FA_Challenge_Cup_(Botswana): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+           FA_Cup: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     FC_Barcelona: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+FC_Barcelona_Basquet: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ FC_Bayern_Munich: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+FC_Girondins_de_Bordeaux: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     FC_Groningen: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          FC_Metz: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        FC_Nantes: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ FC_Otelul_Galati: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ FC_Oțelul_Galați: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+FC_Progresul_Bucuresti: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+FC_Progresul_București: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+    FC_Schalke_04: precision:  66.67%; recall:  66.67%; FB1:  66.67  3
+     FC_St._Pauli: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+FC_Steaua_Bucuresti: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        FC_Twente: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+       FC_Utrecht: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      FC_Volendam: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ FDP.The_Liberals: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+FIBA_Women's_Basketball_World_Cup: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+             FIFA: precision: 100.00%; recall: 100.00%; FB1: 100.00  9
+   FIFA_World_Cup: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+FIS_Alpine_Ski_World_Cup: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+FIS_Freestyle_Skiing_World_Cup: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+FIS_Ski_Jumping_World_Cup: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Fabio_Cannavaro: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Fabrizio_Ravanelli: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+          Falkirk: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+     Falkirk_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Fatmir_Vata: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     Fausto_Pizzi: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   FederalReserve: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Federal_Bureau_of_Investigation: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Federal_Reserve_System: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Ferguson_Shipbuilders: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   Fernando_Couto: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+  Fernando_Hierro: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+ Fernando_Redondo: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+    Fernando_Sanz: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        Feyenoord: precision: 100.00%; recall: 100.00%; FB1: 100.00  5
+  Filippo_Inzaghi: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+ Finance_minister: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Financial_Services_Authority: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Finland: precision: 100.00%; recall: 100.00%; FB1: 100.00  4
+          Flachau: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+ Florence_Masnada: precision:  60.00%; recall:  42.86%; FB1:  50.00  5
+          Florida: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+FloridaSupremeCourt: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ Florida_Panthers: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Florin_Prunea: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Foreign-born_Japanese: precision:   0.00%; recall:   0.00%; FB1:   0.00  8
+           Forfar: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+Forfar_Athletic_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Fortitudo_Pallacanestro_Bologna: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Fortuna_Dusseldorf: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Fortuna_Düsseldorf: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+  Fortuna_Sittard: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      Fos-sur-Mer: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           France: precision: 100.00%; recall:  68.97%; FB1:  81.63  40
+Francesco_Mazzariol: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+  Francesco_Totti: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+ Francois_Pienaar: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        Frankfurt: precision:  33.33%; recall: 100.00%; FB1:  50.00  3
+Frankfurt_Stock_Exchange: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ Franziska_Schenk: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Fraser,_Australian_Capital_Territory: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Free_Democratic_Party_of_Switzerland: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Freiburg_im_Breisgau: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+           French: precision:   0.00%; recall:   0.00%; FB1:   0.00  6
+ French_(surname): precision:   0.00%; recall:   0.00%; FB1:   0.00  8
+      French_wine: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+Frenchman_Mountain: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   Frode_Andresen: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+           Fulham: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+      Fulham_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Fung_Permadi: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+     GRANDSLAMCUP: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+         GREENBAY: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+            Gabon: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+          Galanta: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+ Galatasaray_S.K.: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Galatasaray_S.K._(football): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Garamba_National_Park: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+    Garrett_Hines: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+     Garry_Galley: precision: 100.00%; recall: 100.00%; FB1: 100.00  4
+       Gary_Speed: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+General_Administration_of_Customs: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+           Geneva: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+            Genoa: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      Geoff_Marsh: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+George_Clinton_(vice_president): precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+      George_Weah: precision: 100.00%; recall:  77.78%; FB1:  87.50  7
+ Gerard_van_Velde: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      GermanBunds: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+      GermanSanta: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+  German_Shepherd: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Germany: precision:  94.64%; recall:  88.33%; FB1:  91.38  56
+Germany_national_football_team: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Germon: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Germán_Vargas_Lleras: precision:   0.00%; recall:   0.00%; FB1:   0.00  7
+    Gerry_Britton: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+            Ghana: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+Gheorghe_Craioveanu: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+    Gheorghe_Hagi: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+ Gheorghe_Popescu: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+  Gianfranco_Fini: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+  Gianfranco_Zola: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Gianluca_Vialli: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+        Gillespie: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+  Gillingham_F.C.: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+          Glasgow: precision: 100.00%; recall: 100.00%; FB1: 100.00  4
+    Glenavon_F.C.: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+    Glenn_McGrath: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Glentoran_F.C.: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+       Gloucester: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ Gloucester_Rugby: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+              God: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+God_(British_band): precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Goias_Esporte_Clube: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Goiás: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Golden_State_Warriors: precision:  75.00%; recall:  75.00%; FB1:  75.00  4
+             Goma: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+     Gong_Zhichao: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+ Goran_Ivanisevic: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ Goran_Ivanišević: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     GrandSlamCup: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Grand_Rapids,_Michigan: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Grand_Slam_Cup: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Greece: precision: 100.00%; recall:  63.64%; FB1:  77.78  7
+    Greek_(opera): precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+  GreenBayPackers: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Green_Bay_Packers: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Greenock_Morton_F.C.: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Greenwich_Mean_Time: precision: 100.00%; recall: 100.00%; FB1: 100.00  11
+     Greg_Blewett: precision: 100.00%; recall:  57.14%; FB1:  72.73  4
+  Gregor_Townsend: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Gremio_Foot-Ball_Porto_Alegrense: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Grimsby: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Grimsby_Town_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Groningen: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Grêmio_Foot-Ball_Porto_Alegrense: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+          Guangxi: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Guardians_of_the_Cedars: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     Guido_Acklin: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+           Guilin: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+   Guillermo_Amor: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+         Guingamp: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   Gulf_of_Mexico: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+GunnMargitAndreassen: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Gunn_Margit_Andreassen: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Gunther_Huber: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Guy_Whittingham: precision: 100.00%; recall:  50.00%; FB1:  66.67  1
+    Günter_Schulz: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    Günther_Huber: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+         HARTFORD: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+HARTFORDWASHINGTON: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ HONORARYIRISHMAN: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+HP_Enterprise_Services: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Hainan: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+          Hamburg: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+     Hamburger_SV: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     HamidAlgabid: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    Hamid_Algabid: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Hamilton_Academical_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Hanover: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Hapoel_Be'er_Sheva_F.C.: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Hapoel_Haifa_F.C.: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+ Hapoel_Jerusalem: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Hapoel_Jerusalem_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Hapoel_Petah_Tikva_F.C.: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Hapoel_Tayibe_F.C.: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+  Hapoel_Tel_Aviv: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Hapoel_Tel_Aviv_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Hapoel_Tzafririm_Holon_F.C.: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+           Harare: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+   Harlequin_F.C.: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+           Harris: precision:   0.00%; recall:   0.00%; FB1:   0.00  6
+Hartford,_Connecticut: precision:  50.00%; recall: 100.00%; FB1:  66.67  4
+ Hartford_Whalers: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Hartford_Wolf_Pack: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Hartlepool: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Hartlepool_United_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Hassan_Abbas: precision: 100.00%; recall: 100.00%; FB1: 100.00  4
+            Havel: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+           Hawick: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       Hawick_RFC: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Hay_Point,_Queensland: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Hay_River_(Canada): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+            Healy: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Heart_of_Midlothian_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Hearts: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+ Heathrow_Airport: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+HeavyweightsTelmex: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+           Hebron: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+       Hednesford: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Hednesford_Town_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Heerenveen: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ Heidi_Zurbriggen: precision: 100.00%; recall: 100.00%; FB1: 100.00  5
+         Heineken: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Heineken_International: precision:  33.33%; recall: 100.00%; FB1:  50.00  3
+ Helder_Cristovao: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Helen_Clark: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Hellas_Verona_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Helmut_Kohl: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+   Hendro_Kartiko: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+        Henry_Hub: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Hercules: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+      Hercules_CF: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Hereford: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Hereford_United_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Herman_Melville: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ Hermawan_Susanto: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Hibernian_F.C.: precision: 100.00%; recall: 100.00%; FB1: 100.00  4
+     High_Wycombe: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+    Highbury_Ward: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     Hilary_Lindh: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+       Hilde_Gerg: precision: 100.00%; recall: 100.00%; FB1: 100.00  4
+Hilde_Synnove_Lid: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Hilde_Synnøve_Lid: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Hindu_nationalism: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Hindush: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+Hiroaki_Morishima: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Hiroshi_Nanami: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Hiroshige_Yanagimoto: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+           Hobart: precision: 100.00%; recall: 100.00%; FB1: 100.00  4
+       Holdsworth: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Holocausto_(band): precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+            Honda: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+           Hooper: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+    Hosni_Mubarak: precision: 100.00%; recall: 100.00%; FB1: 100.00  4
+         HostsUAE: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+          Houston: precision:  16.67%; recall: 100.00%; FB1:  28.57  6
+Houston_Cougars_football: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Houston_Rockets: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Houston_Texans: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Hubert_Schosser: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Hubert_Schösser: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     Huddersfield: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Huddersfield_Town_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Hugh_Baiocchi: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+ Hull_City_A.F.C.: precision: 100.00%; recall:  50.00%; FB1:  66.67  1
+Hungarian_notation: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+          Hungary: precision: 100.00%; recall:  50.00%; FB1:  66.67  1
+           Huntly: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+      Huntly_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Hwang_Sun-Hong: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Hwang_Sun-hong: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+ Hélder_Cristóvão: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+IFBB_World_Grand_Prix: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+              ILO: precision:   0.00%; recall:   0.00%; FB1:   0.00  6
+ISU_Speed_Skating_World_Cup: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Ian_Ferguson_(footballer_born_1967): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Ian_Harvey: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        Ian_Healy: precision: 100.00%; recall:  66.67%; FB1:  80.00  4
+Ian_Jones_(rugby_union): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Ian_Jones_(sportsman,_born_1934): precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Ian_Lang,_Baron_Lang_of_Monkton: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+       Ian_Wright: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      Igor_Ivanov: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+   Igor_Kolyvanov: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+    Igor_Shkvyrin: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      Ilir_Shulku: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+         Illinois: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Independent_Catholic_churches: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+            India: precision:  87.50%; recall:  36.84%; FB1:  51.85  8
+India_national_cricket_team: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Indiana: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+   Indiana_Pacers: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Indianapolis: precision:  33.33%; recall: 100.00%; FB1:  50.00  3
+Indianapolis_Colts: precision: 100.00%; recall:  71.43%; FB1:  83.33  5
+        Indonesia: precision:  72.73%; recall:  82.76%; FB1:  77.42  33
+Indonesia_national_football_team: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Indonesian: precision:   0.00%; recall:   0.00%; FB1:   0.00  5
+Information_Technology_Association_of_America: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Information_Telegraph_Agency_of_Russia: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Inkatha_Freedom_Party: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     Insein,_Kale: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+  Insein_Township: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Institute_of_Policy_Studies_(Singapore): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Institute_of_Policy_Studies_(Sri_Lanka): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+      Inter_Milan: precision: 100.00%; recall: 100.00%; FB1: 100.00  4
+         Interfax: precision: 100.00%; recall: 100.00%; FB1: 100.00  4
+InternationalLabourOrganisation: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+International_Confederation_of_Free_Trade_Unions: precision: 100.00%; recall: 100.00%; FB1: 100.00  5
+International_Labour_Organization: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+International_Monetary_Fund: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Inverness_Thistle_F.C.: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Ionel_Danciulescu: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Ionel_Dănciulescu: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       Iowa-SMinn: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+          Ipswich: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Ipswich_Town_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             Iran: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+             Iraq: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+          Ireland: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+Ireland_national_rugby_union_team: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Irish_Republican_Army: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+            Islam: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Isolde_Kostner: precision: 100.00%; recall: 100.00%; FB1: 100.00  5
+           Israel: precision: 100.00%; recall:  69.57%; FB1:  82.05  16
+          Israeli: precision:   0.00%; recall:   0.00%; FB1:   0.00  6
+         Israelis: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Isthmus_of_Tehuantepec: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Italian: precision:   0.00%; recall:   0.00%; FB1:   0.00  5
+         Italians: precision:   0.00%; recall:   0.00%; FB1:   0.00  5
+            Italy: precision:  90.48%; recall:  66.67%; FB1:  76.77  42
+Italy_national_football_team: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Italy_national_rugby_union_team: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ Iulian_Filipescu: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+ Ivan_Francescato: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+    Ivan_Zamorano: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Ivory_Coast: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+    Iván_Zamorano: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+  JCPENNEYCLASSIC: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ JCPenney_Classic: precision: 100.00%; recall:  50.00%; FB1:  66.67  1
+     JSD_Partizan: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+    Jack_Charlton: precision: 100.00%; recall:  83.33%; FB1:  90.91  5
+Jackson,_Mississippi: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Jacksonville,_Florida: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Jacksonville_Jaguars: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Jacques_Chirac: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+    Jacqui_Cooper: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+          Jakarta: precision: 100.00%; recall: 100.00%; FB1: 100.00  7
+     James_(band): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+James_Abbott_McNeill_Whistler: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+          Jan_Bos: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+    Jani_Soininen: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+            Japan: precision:  63.89%; recall:  71.88%; FB1:  67.65  36
+         JapanNTT: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Japan_national_football_team: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Jared_Tomich: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     Jason_Belser: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+  Jason_Gillespie: precision: 100.00%; recall:  25.00%; FB1:  40.00  1
+Jason_Little_(rugby_union): precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+  Javier_Clemente: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Jean-Luc_Brassard: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        Jeff_Bean: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Jeremy_Wotherspoon: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        Jerusalem: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+           Jewish: precision:   0.00%; recall:   0.00%; FB1:   0.00  7
+             Jews: precision: 100.00%; recall:  20.00%; FB1:  33.33  2
+       Jim_Bolger: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+      Jim_Courier: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     Jim_Harbaugh: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+       Jim_Wright: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+      Jimmy_Adams: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      Jiri_Dzmura: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Jiří_Džmura: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   Joao_Havelange: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Joao_Vieira_Pinto: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Joaquin_Phoenix: precision:   0.00%; recall:   0.00%; FB1:   0.00  8
+Jocelyn_Gourvennec: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Joe_Miller_(footballer): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Joe_Roff: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+     Johannesburg: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+       John_Gorst: precision:   0.00%; recall:   0.00%; FB1:   0.00  6
+    John_Langmore: precision: 100.00%; recall: 100.00%; FB1: 100.00  5
+John_Lewis_Partnership: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+       John_Major: precision: 100.00%; recall:  91.67%; FB1:  95.65  11
+John_Michael_Gorst: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Johor_Bahru: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     Jorge_Cadete: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      Jorge_Costa: precision: 100.00%; recall:  87.50%; FB1:  93.33  7
+Jose_Emilio_Amavisca: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Jose_Luis_Caminero: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ Jose_Ramos-Horta: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Jose_Taira: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Josef_Zieleniec: precision: 100.00%; recall: 100.00%; FB1: 100.00  4
+Joseph_Nanven_Garba: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+José_Emilio_Amavisca: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+José_Luis_Caminero: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ José_Ramos-Horta: precision:   0.00%; recall:   0.00%; FB1:   0.00  5
+       José_Taira: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+João_Bernardo_Vieira: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+   João_Havelange: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+João_Vieira_Pinto: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Juan_Antonio_Pizzi: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+       Juan_Roque: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+    Junior_Murray: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+    Justin_Hobday: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+   Justin_Vaughan: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Juventus_F.C.: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+        KK_Cibona: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      KK_Partizan: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         KK_Split: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          KUUSAMO: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+          Kampala: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+           Kanpur: precision: 100.00%; recall: 100.00%; FB1: 100.00  5
+           Kansas: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Kansas_City,_Missouri: precision:  33.33%; recall: 100.00%; FB1:  50.00  3
+Kansas_City_Chiefs: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Kaohsiung: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+          Karachi: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        Karlsruhe: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+    Karlsruher_SC: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Kate_Pace: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Katharina_Gutensohn: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+  Katja_Seizinger: precision: 100.00%; recall: 100.00%; FB1: 100.00  6
+       Kazakhstan: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+         Kazanlak: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+ Kazuyoshi_Funaki: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+  Kazuyoshi_Miura: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+Keith_Wright_(footballer): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Kelli_Kuehne: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Kenichi_Shimokawa: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+ Kennet_Andersson: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Kenneth_Clarke: precision: 100.00%; recall: 100.00%; FB1: 100.00  11
+   Kenny_Benjamin: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+            Kenya: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      Kerwin_Bell: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+  Khaled_Al_Zaher: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+       Kid_Brands: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Kilmarnock: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+  Kilmarnock_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Kim_Yoon-man: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+            Kindu: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Kingdom_of_England: precision:   0.00%; recall:   0.00%; FB1:   0.00  21
+Kingston_upon_Hull: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+         Kinshasa: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+        Kisangani: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Kiyohiko_Azuma: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+       Kofi_Annan: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+          Kolkata: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        Konterman: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+           Korean: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+          Koreans: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+      Krasnoyarsk: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ Krasnoyarsk_Krai: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Kremlin: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+ Kristian_Brenden: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+     Kuala_Lumpur: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+    Kurdish_music: precision:   0.00%; recall:   0.00%; FB1:   0.00  6
+        Kurdistan: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Kurdistan_Workers'_Party: precision: 100.00%; recall: 100.00%; FB1: 100.00  7
+          Kuusamo: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Kuwait: precision:   0.00%; recall:   0.00%; FB1:   0.00  5
+Kuwait_national_football_team: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    KwaZulu-Natal: precision:  50.00%; recall: 100.00%; FB1:  66.67  4
+             LARA: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+             LPGA: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+LPGA_Championship: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+La_Gazzetta_dello_Sport: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        La_Plagne: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        La_Stampa: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+           Labour: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Labour_Party_(Mauritius): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Labour_Party_(UK): precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      Lanarkshire: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+    Lantau_Island: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+      Lantau_Peak: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Latin_America: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     Latin_Church: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Laurent-Desire_Kabila: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Laurent-Désiré_Kabila: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    Laurent_Blanc: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+  Laurie_Brereton: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+    Laurie_Harper: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+            Lazio: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+         Le_Havre: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+      Le_Havre_AC: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Lebanese: precision:   0.00%; recall:   0.00%; FB1:   0.00  11
+          Lebanon: precision: 100.00%; recall:   4.76%; FB1:   9.09  1
+       Lee_Bowyer: precision: 100.00%; recall:  80.00%; FB1:  88.89  4
+       Lee_Germon: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Leeds: precision:   0.00%; recall:   0.00%; FB1:   0.00  6
+Leeds_United_A.F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Leeds_United_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+        Lega_Nord: precision: 100.00%; recall:  75.00%; FB1:  85.71  3
+        Leicester: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+Leicester_City_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ Leicester_Tigers: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Lens,_Switzerland: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+    Les_Ferdinand: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Leyton_Orient_F.C.: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+          Liberia: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Liberia_national_football_team: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ Liberian_cuisine: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+            Lille: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+        Lille_OSC: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Lillehammer: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+          Limoges: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+      Limoges_CSP: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Lincoln_City_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Linfield_F.C.: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+           Lisbon: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+List_of_ethnic_groups_of_Africa: precision:   0.00%; recall:   0.00%; FB1:   0.00  5
+List_of_isthmuses: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+        Liverpool: precision:   0.00%; recall:   0.00%; FB1:   0.00  8
+   Liverpool_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Livingston_F.C.: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+ Liviu_Ciobotariu: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Liz_McIntyre_(writer): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+         Llanelli: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     Llanelli_RFC: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    LombardiAward: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Lombardi_(surname): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   Lombardi_Award: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           London: precision: 100.00%; recall:  95.45%; FB1:  97.67  42
+London_Heathrow_Airport: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     London_Irish: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+London_Stock_Exchange: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     London_Wasps: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ London_Welsh_RFC: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+  Lorenzo_Amoruso: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      Los_Angeles: precision:  50.00%; recall: 100.00%; FB1:  66.67  6
+Los_Angeles_Clippers: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+Los_Angeles_Kings: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Los_Angeles_Lakers: precision: 100.00%; recall: 100.00%; FB1: 100.00  4
+        Luc_Nilis: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Luis_Enrique_(footballer): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Luis_Enrique_Martinez_Garcia: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Luis_Figo: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Luis_Milla: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+            Luton: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+  Luton_Town_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Luxembourg: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+        Luís_Figo: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+             Lyon: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+MCI_Communications: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     MSC_Software: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     MSV_Duisburg: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+    Maccabi_Haifa: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Maccabi_Haifa_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Maccabi_Herzliya_F.C.: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Maccabi_Petah_Tikva_F.C.: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+ Maccabi_Tel_Aviv: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+Maccabi_Tel_Aviv_B.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Maccabi_Tel_Aviv_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Macedonia_national_football_team: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Machine_Gun_Kelly_(rapper): precision:   0.00%; recall:   0.00%; FB1:   0.00  8
+       Madagascar: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Madeleine_Albright: precision: 100.00%; recall:  92.86%; FB1:  96.30  13
+           Madrid: precision: 100.00%; recall:  88.89%; FB1:  94.12  8
+         Mahikeng: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+         Malaysia: precision: 100.00%; recall: 100.00%; FB1: 100.00  5
+             Mali: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+       Manchester: precision:  50.00%; recall: 100.00%; FB1:  66.67  2
+Manchester_City_F.C.: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Manchester_United_F.C.: precision: 100.00%; recall:  75.00%; FB1:  85.71  3
+Mangosuthu_Buthelezi: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        Mansfield: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Mansfield_Town_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Mantua: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+        Maracaibo: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Marcello_Cuttitta: precision: 100.00%; recall:  40.00%; FB1:  57.14  2
+    Marcelo_Otero: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Marcelo_Rebelo_de_Sousa: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Marcelo_Silva_Ramos: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Marco_Bode: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ Marco_Delvecchio: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     Marcus_Gayle: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Margaret_Thatcher: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+  Marianne_Timmer: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+   Marie_Lindgren: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     Mario_Stanic: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Mario_Stanić: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Mark_Cairns_(squash_player): precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+     Mark_McNulty: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Mark_Taylor_(cricketer): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Mark_Waugh: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Mark_Woodforde: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        Marseille: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   Marshall_Faulk: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+      MartinaErtl: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+Martina_Ertl-Renz: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Marvin_Harrison: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+ Masakiyo_Maezono: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     Masami_Ihara: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Masayuki_Okano: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+ Massimo_Cuttitta: precision:  33.33%; recall: 100.00%; FB1:  50.00  3
+       Matt_Burke: precision: 100.00%; recall: 100.00%; FB1: 100.00  5
+  Matt_Le_Tissier: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Matthew_Le_Tissier: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Maurice_Baril: precision: 100.00%; recall: 100.00%; FB1: 100.00  4
+       Mauritania: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+        Mauritius: precision: 100.00%; recall:  75.00%; FB1:  85.71  3
+          McCoist: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+         McGinlay: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Medecins_Sans_Frontieres: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Mediterranean_Sea: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Melbourne: precision: 100.00%; recall:  77.78%; FB1:  87.50  7
+Melbourne_Cricket_Ground: precision:  66.67%; recall: 100.00%; FB1:  80.00  3
+Memphis_Grizzlies: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Mercedes-Benz: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+MergersCommission: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+             Metz: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+           Mexico: precision:  93.33%; recall: 100.00%; FB1:  96.55  15
+      Mexico_City: precision: 100.00%; recall:  75.00%; FB1:  85.71  3
+       Mia_Audina: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+            Miami: precision:   0.00%; recall:   0.00%; FB1:   0.00  7
+   Miami_Dolphins: precision: 100.00%; recall:  33.33%; FB1:  50.00  1
+       Miami_Heat: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  MichaelDiVenuto: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+    Michael_Bevan: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Michael_Branch: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Michael_Di_Venuto: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Michael_Heseltine: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Michael_Lynagh: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Michaela_Dorfmeister: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+  Michel_Hansenne: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+         Michigan: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+    Mickey_Kantor: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+    Middlesbrough: precision:   0.00%; recall:   0.00%; FB1:   0.00  5
+Middlesbrough_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Miguel_Angel_Nadal: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Miguel_Ángel_Nadal: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     Mike_Hulbert: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Mike_McCurry_(press_secretary): precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Mikhail_Gorbachev: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+            Milan: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     Miller_Beach: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+         Millwall: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    Millwall_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Milwaukee: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+  Milwaukee_Bucks: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Minister_for_Foreign_Affairs_(Australia): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Ministry_of_Finance_(Chile): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Ministry_of_Finance_(Japan): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Minneapolis: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        Minnesota: precision:   0.00%; recall:   0.00%; FB1:   0.00  6
+Minnesota_Timberwolves: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Minnesota_Vikings: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       MiriamVogt: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+      Miriam_Vogt: precision: 100.00%; recall:  25.00%; FB1:  40.00  1
+   Mitchell_Islam: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Mlada_fronta_DNES: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Mladá_fronta_DNES: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+            Mobil: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        Moin_Khan: precision: 100.00%; recall: 100.00%; FB1: 100.00  4
+           Monaco: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+         Mongolia: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+       Monopolies: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+          Montana: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      Montenegrin: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+       Montenegro: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Montpellier: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+  Montpellier_HSC: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Montreal: precision:  20.00%; recall: 100.00%; FB1:  33.33  5
+Montreal_Canadiens: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Montrose_(band): precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+    Montrose_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Moody: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+         Moroccan: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+          Morocco: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Moscow: precision:  60.00%; recall: 100.00%; FB1:  75.00  10
+   Moscow_Kremlin: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Moslem: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+          Moslems: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       Motherwell: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+  Motherwell_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Motohiro_Yamaguchi: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+  MoustaphaNiasse: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+ Moustapha_Niasse: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Muhammad: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+           Mumbai: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+           Munich: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+        Munich_Re: precision: 100.00%; recall: 100.00%; FB1: 100.00  4
+      Murrayfield: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Murrayfield_Stadium: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Music_of_Bulgaria: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+          Myanmar: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Médecins_Sans_Frontières: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+N.E.C._(football_club): precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        N.IRELAND: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+        N.Ireland: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   N._T._Rama_Rao: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+        NAC_Breda: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+             NATO: precision: 100.00%; recall: 100.00%; FB1: 100.00  4
+    NATS_Holdings: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     NCAAAMERICAN: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     NWS_Holdings: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+           NYCJan: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+      NYISLANDERS: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+     NYMEXAlberta: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+          Nairobi: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+          Namibia: precision: 100.00%; recall: 100.00%; FB1: 100.00  4
+    Nancy,_France: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+           Nantes: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+       Naoki_Soma: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Naoki_Sōma: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+           Naples: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+     Nathan_Astle: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         National: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+National_Alliance_(Italy): precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+National_Basketball_Association: precision: 100.00%; recall:  85.71%; FB1:  92.31  6
+National_Collegiate_Athletic_Association: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+National_Football_League: precision: 100.00%; recall:  66.67%; FB1:  80.00  4
+National_Hockey_League: precision: 100.00%; recall:  75.00%; FB1:  85.71  9
+National_League_for_Democracy: precision: 100.00%; recall:  33.33%; FB1:  50.00  1
+National_University_of_Singapore: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+National_Weather_Service: precision: 100.00%; recall:  66.67%; FB1:  80.00  2
+ National_stadium: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+NationalandLabour: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+NationalandNZFirst: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+   Nationals_Park: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     Nazi_Germany: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       Nazi_Party: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Neath: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+        Neath_RFC: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Nebraska: precision:  50.00%; recall: 100.00%; FB1:  66.67  2
+Nebraska_Cornhuskers_football: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ Neighbor_joining: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+        Neil_Back: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Nelson_Mandela: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        Netanyahu: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+      Netherlands: precision:  71.43%; recall:  41.67%; FB1:  52.63  7
+Netherlands_Antilles: precision:   0.00%; recall:   0.00%; FB1:   0.00  20
+Netherlands_national_football_team: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Nevada: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+       Nevil_Dede: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+    NewSouthWales: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+          NewYork: precision:   0.00%; recall:   0.00%; FB1:   0.00  5
+    New_Caledonia: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        New_Delhi: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+      New_England: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+New_England_Patriots: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       New_Jersey: precision:   0.00%; recall:   0.00%; FB1:   0.00  9
+New_Jersey_Devils: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       New_Mexico: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+New_Mexico_Activities_Association: precision:  50.00%; recall: 100.00%; FB1:  66.67  2
+      New_Orleans: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+New_Orleans_Pelicans: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+New_Orleans_Saints: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+New_South_Wales_rugby_league_team: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         New_York: precision:  15.38%; recall: 100.00%; FB1:  26.67  26
+    New_York_City: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  New_York_Giants: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+New_York_Islanders: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    New_York_Jets: precision: 100.00%; recall:  66.67%; FB1:  80.00  2
+  New_York_Knicks: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+New_York_Mercantile_Exchange: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ New_York_Rangers: precision: 100.00%; recall: 100.00%; FB1: 100.00  4
+New_York_Stock_Exchange: precision: 100.00%; recall:  33.33%; FB1:  50.00  1
+      New_Zealand: precision:  33.33%; recall: 100.00%; FB1:  50.00  12
+New_Zealand_Barbarians: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+New_Zealand_First: precision: 100.00%; recall:  25.00%; FB1:  40.00  1
+New_Zealand_Labour_Party: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+New_Zealand_National_Party: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+New_Zealand_national_cricket_team: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+New_Zealand_national_rugby_union_team: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Newbridge_RFC: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Newcastle-under-Lyme: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Newcastle_United_F.C.: precision: 100.00%; recall: 100.00%; FB1: 100.00  5
+Newcastle_upon_Tyne: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Newfoundland: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Newfoundland,_New_Jersey: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+          Newmont: precision:   0.00%; recall:   0.00%; FB1:   0.00  14
+Newmont_Mining_Corporation: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Newport,_Wales: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Newport_Gwent_Dragons: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Newsnight: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+             Nice: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Nicholas,_Count_of_Holstein-Rendsburg: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+  Nick_Farr-Jones: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+  Nick_Popplewell: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+       Nick_Price: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+ Nicola_Mazzucato: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     Nigel_Walker: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+            Niger: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Nigeria: precision:  50.00%; recall: 100.00%; FB1:  66.67  4
+Nihon_Keizai_Shimbun: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Nixon_McLean: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+            Nobel: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   Nobel,_Ontario: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+  NobelPeacePrize: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Nobel_Peace_Prize: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Nobelaward: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Noel_Whelan_(footballer): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Noriaki_Kasai: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Norilsk_Nickel: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      Norio_Omura: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      Norm_Hewitt: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+    North_America: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   North_Carolina: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+North_West_(South_African_province): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Northampton: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Northampton_Town_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ Northern_Ireland: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Northern_Ireland_(European_Parliament_constituency): precision:   0.00%; recall:   0.00%; FB1:   0.00  5
+Northern_Ireland_national_football_team: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Norway: precision: 100.00%; recall:  85.00%; FB1:  91.89  17
+Norwegian_Long_Haul: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+          Norwich: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Norwich_City_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Nottingham_Forest_F.C.: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Notts_County_F.C.: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+         OGC_Nice: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             OPEC: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+          O_Globo: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Oakland,_California: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+Oakland,_New_Jersey: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Oakland_Raiders: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       OceanoCruz: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   Oceano_da_Cruz: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Office_of_Fair_Trading: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+             Ohio: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Ohio_State_Buckeyes_football: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Ohio_State_University: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+         Oklahoma: precision: 100.00%; recall:  50.00%; FB1:  66.67  1
+Oklahoma_Panhandle: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Okocim: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+           Oldham: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Oldham_Athletic_A.F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+OleEinarBjorndalen: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Ole_Einar_Bjorndalen: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Olga_Melnik: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+  Oliver_Bierhoff: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+ Olympic_Airlines: precision:  50.00%; recall: 100.00%; FB1:  66.67  2
+Olympique_Lyonnais: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Olympique_de_Marseille: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Omaha,_Nebraska: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     Ong_Ewe_Hock: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Open_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+           Oradea: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Oradea_International_Airport: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Organisation_of_Islamic_Cooperation: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+ Orlando,_Florida: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+    Orlando_Magic: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Orlando_Pace: precision: 100.00%; recall:  80.00%; FB1:  88.89  4
+Orrell,_Greater_Manchester: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+  Orrell_R.U.F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Oscar_Luigi_Scalfaro: precision: 100.00%; recall: 100.00%; FB1: 100.00  6
+             Oslo: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+        Ostersund: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Ottawa: precision:   0.00%; recall:   0.00%; FB1:   0.00  6
+      Ottawa_67's: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Ottawa_Senators: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Ottoman_Empire: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Ottoman_Turkish_alphabet: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    Ovidiu_Stinga: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Ovidiu_Stîngă: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+           Oviedo: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+     Owen_Finegan: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+           Oxford: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Oxford_United_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  PBC_CSKA_Moscow: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         PGA_Tour: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       PITTSBURGH: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ PR_postcode_area: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+    PSV_Eindhoven: precision: 100.00%; recall: 100.00%; FB1: 100.00  5
+          Pac_Div: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Pacific_Division_(NBA): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Pacific_Division_(NHL): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Pacific_coast: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+     Paine_Webber: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+         Pakistan: precision:  18.18%; recall: 100.00%; FB1:  30.77  11
+Pakistan_Civil_Aviation_Authority: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Pakistan_national_cricket_team: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Palestine: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Palestinian: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Palestinian_National_Authority: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Palestinian_diaspora: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+     Palestinians: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+         Pamplona: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Pan-American_Exposition: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Pan_American_World_Airways: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Panathinaikos_A.O.: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Panathinaikos_B.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Panionios_B.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Panionios_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   Paolo_Di_Canio: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      Paolo_Negro: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+    Paolo_Vaccari: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+ Papua_New_Guinea: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+            Paris: precision: 100.00%; recall: 100.00%; FB1: 100.00  7
+Paris_Saint-Germain_F.C.: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+            Parma: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+       Parma_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Partick: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Partick_Thistle_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Pat_Howard: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        Pat_Hurst: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     Pat_McGinlay: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Patricia_Scotland,_Baroness_Scotland_of_Asthal: precision:   0.00%; recall:   0.00%; FB1:   0.00  8
+   Patrick_Vieira: precision: 100.00%; recall:  33.33%; FB1:  50.00  1
+   Paul_Gascoigne: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      Paul_Justin: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+     Paul_Keating: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     Paul_Reiffel: precision: 100.00%; recall:  50.00%; FB1:  66.67  1
+Paul_Wright_(diplomat): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Paul_Wright_(footballer): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Paulinho_Santos: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      Paulo_Alves: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      Paulo_Bento: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+       Pavel_Bure: precision: 100.00%; recall:  83.33%; FB1:  90.91  5
+   Pavel_Muslimov: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     Pavel_Nedved: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Pavel_Nedvěd: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   Pavel_Polomsky: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Pavel_Polomský: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+People's_Party_-_Movement_for_a_Democratic_Slovakia: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+People's_Party_–_Movement_for_a_Democratic_Slovakia: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+  Pernilla_Wiberg: precision: 100.00%; recall: 100.00%; FB1: 100.00  5
+          Perugia: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+  Peter_Beardsley: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     Peter_J._Fos: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+      Peter_Nicol: precision: 100.00%; recall: 100.00%; FB1: 100.00  5
+ Peter_van_Vossen: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     Peterborough: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Peterborough_United_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Petra_Behle: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+        Phil_Gray: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     Philadelphia: precision:   0.00%; recall:   0.00%; FB1:   0.00  9
+Philadelphia_76ers: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Philadelphia_Eagles: precision:  71.43%; recall:  62.50%; FB1:  66.67  7
+Philadelphia_Flyers: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Philippe_Sella: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      Philippines: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+  Phoenix_Coyotes: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Phoenix_Suns: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Piacenza: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+    Picabo_Street: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Pierluigi_Casiraghi: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+    Pierre_Laigle: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Pierre_Lueders: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Pierre_van_Hooijdonk: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+    Pieter_Mulder: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+  Ping-Pong_virus: precision:   0.00%; recall:   0.00%; FB1:   0.00  8
+       Pittsburgh: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+Pittsburgh_Penguins: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Pittsburgh_Steelers: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Plymouth: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Plymouth_Argyle_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Points_of_the_compass: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+           Poland: precision: 100.00%; recall:  60.00%; FB1:  75.00  21
+           Polish: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+       PolishJews: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+  Polish_brothers: precision:   0.00%; recall:   0.00%; FB1:   0.00  5
+       Pontypridd: precision:  50.00%; recall: 100.00%; FB1:  66.67  2
+   Pontypridd_RFC: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Port_Louis: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Port_Townsend,_Washington: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   Port_Vale_F.C.: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+        Portadown: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+   Portadown_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ Portland,_Oregon: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+Portland_Trail_Blazers: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Porto: precision:   0.00%; recall:   0.00%; FB1:   0.00  8
+       Portsmouth: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+  Portsmouth_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Portugal: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+Portugal_national_football_team: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Portuguese_dialects: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   Post-communism: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Poul-Erik_Hoyer_Larsen: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Poul-Erik_Høyer_Larsen: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   Powell_Peralta: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+           Prague: precision: 100.00%; recall: 100.00%; FB1: 100.00  4
+Predrag_Mijatovic: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Predrag_Mijatović: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+   Premier_League: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Preston_North_End_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Prestwick: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Primoz_Peterka: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Primož_Peterka: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Proto-Greek_language: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Province_of_Mantua: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Province_of_Toledo: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+Queens_Park_Rangers_F.C.: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+       Queensland: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Queenslander_(architecture): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+  Quentin_Coryatt: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     Quintana_Roo: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+R._Nicholas_Burns: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+              RAI: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     RCD_Espanyol: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+          RC_Lens: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    RC_Strasbourg: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     RKC_Waalwijk: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+       RUGBYUNION: precision:   0.00%; recall:   0.00%; FB1:   0.00  6
+Racing_de_Santander: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Radio_Televizija_Republike_Srpske: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Radio_and_Television_of_Bosnia_and_Herzegovina: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Rafael_Alkorta: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Raith_Rovers_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             Rama: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Ramelow: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       Ramon_Vega: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Randy_Jones_(bobsleigh): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Randy_Jones_(singer): precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+     Rangers_F.C.: precision: 100.00%; recall: 100.00%; FB1: 100.00  7
+     Ranji_Trophy: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+       Ras_Tanura: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     Rashid_Sidek: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Raul_(footballer): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ Raul_M._Gonzalez: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     Ray_Buchanan: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Rayo_Vallecano: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Reading,_Berkshire: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+     Reading_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Reading_R.F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       RealMadrid: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+RealMadridBarcelona: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+RealMadridRealMadrid: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       Real_Betis: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+ Real_Madrid_C.F.: precision:  90.00%; recall:  45.00%; FB1:  60.00  10
+      Real_Oviedo: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Real_Sociedad: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+  Real_Valladolid: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Real_Zaragoza: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Red_Sea: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+     Regi_Blinker: precision: 100.00%; recall:  33.33%; FB1:  50.00  1
+ Regine_Cavagnoud: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ Regional_Italian: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+          Reiffel: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Reinhard_Schwarzenberger: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Renate_Gotschl: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Renate_Götschl: precision:   0.00%; recall:   0.00%; FB1:   0.00  6
+           Rennes: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Republic_of_Ireland: precision:  50.00%; recall:  37.50%; FB1:  42.86  6
+Republic_of_Ireland_national_football_team: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Republic_of_Macedonia: precision:  33.33%; recall: 100.00%; FB1:  50.00  3
+     Reto_Gotschi: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Reto_Götschi: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+          Reuters: precision: 100.00%; recall: 100.00%; FB1: 100.00  19
+      Ricco_Gross: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Ricco_Groß: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    Ricky_Ponting: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+    Ricky_Watters: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+         Ringfort: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+   Rio_de_Janeiro: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Rio_de_Janeiro_(state): precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+       Rob_Andrew: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+       Rob_Howley: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     Robbie_Earle: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+    Robbie_Fowler: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Robbie_Winters: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Robert: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+RobertGalvinMELBOURNE: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    Robert_Mugabe: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     Robert_Reich: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     Robert_Rubin: precision: 100.00%; recall:  66.67%; FB1:  80.00  2
+   Robert_Samuels: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Robert_Winters: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    Roberto_Ayala: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Roberto_Baggio: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Roberto_Carlos_(footballer): precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+  Roberto_Mancini: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+         Rochdale: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+  Rochdale_A.F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ Roda_JC_Kerkrade: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     Rodney_Eyles: precision: 100.00%; recall:  80.00%; FB1:  88.89  4
+Roger_Garcia_Junyent: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Roger_García_Junyent: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    Roland_Holder: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     Roman_Empire: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+          Romania: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Romania_national_football_team: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Romanian_Radio_Broadcasting_Company: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+             Rome: precision: 100.00%; recall:  87.50%; FB1:  93.33  7
+          Ronaldo: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Rosario,_Santa_Fe: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Rose_Bowl_(stadium): precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     Rosenborg_BK: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+ Ross_County_F.C.: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+RotaryClubofHouston: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Rotary_International: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Rotherham: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Rotherham_United_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Rotterdam: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Royal_Caribbean_International: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+    Royal_Clipper: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      RubberBoard: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     Rubber_Board: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Rudi_Vata: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+  Rugby_World_Cup: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Rugby_union: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Rui_Barros: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      Rui_Correia: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        Rui_Costa: precision:  50.00%; recall: 100.00%; FB1:  66.67  2
+       RussBerrie: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ Russell_T_Davies: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+           Russia: precision: 100.00%; recall:  88.64%; FB1:  93.98  39
+          Russian: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Russian_News_Agency_TASS: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+           Rwanda: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Rwanda_National_Football_League: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+  Rwandan_cuisine: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+ Régine_Cavagnoud: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+       S.C._Braga: precision:  33.33%; recall: 100.00%; FB1:  50.00  3
+    S.S.C._Napoli: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+S.S.D._Piacenza_Calcio_1919: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       S.S._Lazio: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           SAB_TV: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+        SC_Bastia: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      SC_Freiburg: precision: 100.00%; recall:  66.67%; FB1:  80.00  2
+    SC_Heerenveen: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    SD_Compostela: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    SK_Rapid_Wien: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+ SS_New_York_City: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+ SV_Werder_Bremen: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+ Sabina_Panzanini: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Sacramento,_California: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+ Sacramento_Kings: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Saeed_Anwar: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Saint_Nicholas: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Salamanca: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Sale_Grammar_School: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     Saleem_Malik: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+     Sali_Berisha: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Salient_(geography): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ Salomon_Brothers: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+      San_Antonio: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+San_Antonio_Spurs: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        San_Diego: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+San_Diego_Chargers: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    San_Francisco: precision:  33.33%; recall: 100.00%; FB1:  50.00  3
+San_Francisco_49ers: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+San_Jose,_California: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+  San_Jose_Sharks: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Santa_Claus: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Santa_Claus,_Indiana: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+  Santander_Group: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+         Santiago: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Santiago_Bernabeu_Stadium: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Santiago_Bernabéu_Stadium: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Santiago_de_Compostela: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+  Saqlain_Mushtaq: precision: 100.00%; recall: 100.00%; FB1: 100.00  4
+             Saqr: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+          Saracen: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    Saracens_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Saudi_Arabia: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Scarborough,_Toronto: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+ Scarborough_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Scotland: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Scotland_national_rugby_union_team: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Scott_McCarron: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Scott_Quinnell: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+     Scottish_Cup: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Scottish_Cup_(rugby_union): precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Scottish_Premier_League: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Scottish_language: precision:   0.00%; recall:   0.00%; FB1:   0.00  5
+       Scunthorpe: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Scunthorpe_United_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Sean_Dundee: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Sean_Olsson: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+          Seattle: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+ Seattle_Seahawks: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Seattle_SuperSonics: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Sebastien_Foucras: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Security_Council_of_Russia: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+          Senegal: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+            Seoul: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+  Sepp_Dostthaler: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Sergey_Klevchenya: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+    Sergi_Barjuan: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Sergi_Barjuán: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ Sergio_Conceicao: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Serie_A: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Sevilla_FC: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Seville: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+    Shahid_Afridi: precision: 100.00%; recall: 100.00%; FB1: 100.00  4
+      Shane_Warne: precision: 100.00%; recall:  50.00%; FB1:  66.67  4
+         Shanghai: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+  Shannon_Airport: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Shaun_Young: precision: 100.00%; recall: 100.00%; FB1: 100.00  4
+        Sheffield: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+ Sheffield_Shield: precision: 100.00%; recall:  60.00%; FB1:  75.00  3
+Sheffield_United_F.C.: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Sheffield_Wednesday_F.C.: precision: 100.00%; recall:  50.00%; FB1:  66.67  3
+       Sheringham: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ Sherwin_Campbell: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+     Shimon_Peres: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Shithead_(card_game): precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Shivnarine_Chanderpaul: precision: 100.00%; recall: 100.00%; FB1: 100.00  5
+      Shoe_polish: precision:   0.00%; recall:   0.00%; FB1:   0.00  6
+       Shrewsbury: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Shrewsbury_Town_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Shu_Kamo: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+ Shwedagon_Pagoda: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+          Sialkot: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+            Sibiu: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Sibiu_International_Airport: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Simon_Doull: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Simon_Parke: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Simone_Greiner-Petter-Memm: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+     Simple_Minds: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+          Sinaloa: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        Singapore: precision: 100.00%; recall:  29.17%; FB1:  45.16  7
+Singaporean_cuisine: precision:   0.00%; recall:   0.00%; FB1:   0.00  17
+Sinitic_languages: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    Sinton,_Texas: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+         Slovakia: precision: 100.00%; recall:  25.00%; FB1:  40.00  1
+         Slovenia: precision: 100.00%; recall: 100.00%; FB1: 100.00  5
+Socialist_Federal_Republic_of_Yugoslavia: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+            Sofia: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Sonnets_from_the_Portuguese: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+           Sonora: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     Sophia_Loren: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     South_Africa: precision:  71.43%; recall: 100.00%; FB1:  83.33  7
+South_Africa_national_cricket_team: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+South_African_Breweries: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    South_America: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      South_Korea: precision:  46.67%; recall:  58.33%; FB1:  51.85  15
+South_Korea_national_football_team: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+South_Lebanon_Army: precision:  47.06%; recall: 100.00%; FB1:  64.00  17
+      Southampton: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+ Southampton_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Southend-on-Sea: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Southend_United_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Soviet_Union: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+            Spain: precision: 100.00%; recall:  63.33%; FB1:  77.55  19
+     Spanish_Town: precision:   0.00%; recall:   0.00%; FB1:   0.00  11
+ Sparta_Rotterdam: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+          Spetses: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+ Spirou_Charleroi: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Split,_Croatia: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Sporting_Clube_de_Portugal: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Sporting_de_Gijon: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Sporting_de_Gijón: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+St.LouisMerchantsExchange: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+St._Johnstone_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        St._Louis: precision: 100.00%; recall:  80.00%; FB1:  88.89  4
+  St._Mirren_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      StJohnstone: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+        St_Albans: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+St_Albans_City_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   St_Mirren_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Stade_Malherbe_Caen: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Stade_Rennais_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Standard_&_Poor's: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+State_Council_of_the_People's_Republic_of_China: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+State_of_Palestine: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Statistics_Canada: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+    Stenhousemuir: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Stenhousemuir_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Stephenville,_Texas: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+Stephenville_International_Airport: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Steve_McManaman: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+ Steve_van_Vuuren: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+        Stevenage: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   Stevenage_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Stickroth: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+         Stirling: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Stirling_Albion_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Stockport: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Stockport_County_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Stoke-on-Trent: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+  Stoke_City_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Stranraer: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+   Stranraer_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Strasbourg: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       Stuart_Law: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Sturm_und_Drang_(band): precision:   0.00%; recall:   0.00%; FB1:   0.00  12
+            Sudan: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Sudbury_Town_F.C.: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+          Suharto: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+   Sumitomo'sNote: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Sun_Jun_(Three_Kingdoms): precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+Sun_Jun_(badminton): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Sunderland_A.F.C.: precision: 100.00%; recall:  75.00%; FB1:  85.71  3
+Supreme_Court_of_Florida: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Supreme_Court_of_New_South_Wales: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Supreme_Court_of_the_United_States: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Suraj_Bhan: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Susanna_Rowson: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     Susi_Susanti: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+Sutton_County,_Texas: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     Sven_Fischer: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Svetlana_Paramygina: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+          Swansea: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Swansea_City_A.F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Swansea_RFC: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Sweden: precision: 100.00%; recall: 100.00%; FB1: 100.00  12
+          Swindon: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Swindon_Town_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Switzerland: precision: 100.00%; recall: 100.00%; FB1: 100.00  30
+           Sydney: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Sydney_Cricket_Ground: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+ Sylvain_Bouchard: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+            Syria: precision:  23.53%; recall:  80.00%; FB1:  36.36  17
+Syria_national_football_team: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Syrian: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+Sébastien_Foucras: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+ Sérgio_Conceição: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+         TAMPABAY: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+             TOPS: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+      TPG_Capital: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ TSV_1860_Munchen: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ TSV_1860_München: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Table_Tennis_World_Cup: precision:   0.00%; recall:   0.00%; FB1:   0.00  27
+       Tae_Satoya: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+           Taiwan: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+   Takanobu_Okabe: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+    Takuya_Takagi: precision: 100.00%; recall: 100.00%; FB1: 100.00  5
+Tallahassee,_Florida: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+          Tallinn: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Tamaulipas: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+         TampaBay: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Tampa_Bay_Buccaneers: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Tampa_Bay_Lightning: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Tampico: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     Tarek_Jabban: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Tarpon_Springs,_Florida: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+         Tasmania: precision:   0.00%; recall:   0.00%; FB1:   0.00  6
+Tasmania_cricket_team: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Tatjana_Mittermayer: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+ Teddy_Sheringham: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Televisa: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+ Telkom_Indonesia: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+           Telmex: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Tempe,_Arizona: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Tenerife: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+ Tennessee_Titans: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Terry_Campese: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+            Texas: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+             Thai: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+ThaiCommerceMinistry: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+         Thailand: precision: 100.00%; recall:  25.00%; FB1:  40.00  1
+  The_Albion_Band: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+    The_Holocaust: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+The_Internet_(band): precision:   0.00%; recall:   0.00%; FB1:   0.00  9
+       The_Nikkei: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+The_Sumitomo_Bank: precision: 100.00%; recall:  50.00%; FB1:  66.67  1
+        The_Zolas: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     Thomas_Eyles: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ Thomas_Stickroth: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Thomas_Stuer-Lauridsen: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      Thunder_Bay: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+          Tianjin: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      Tiger_Woods: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+           Tignes: precision: 100.00%; recall:  40.00%; FB1:  57.14  2
+        Tim_Horan: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+     Tim_Stimpson: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+        Timisoara: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Timișoara: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+           Tirana: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Tokyo: precision: 100.00%; recall: 100.00%; FB1: 100.00  7
+     Toledo,_Ohio: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Tom_Moody: precision: 100.00%; recall:  40.00%; FB1:  57.14  2
+    Tom_Sturridge: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    Tommy_Shannon: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       Tony_Adams: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Tony_Adams_(footballer): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Tony_Greig: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+    Tony_Siragusa: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Tony_Underwood: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Tops_Friendly_Markets: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Toronto: precision:  30.00%; recall: 100.00%; FB1:  46.15  10
+Toronto_Maple_Leafs: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Toronto_Raptors: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Torquay: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Torquay_United_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Tottenham: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+Tottenham_Hotspur_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Tranmere_Rovers_F.C.: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Trans_World_Airlines: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+         Treasury: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+         Treorchy: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     Treorchy_RFC: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Trevor_Dodds: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+     Troy_Vincent: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+            Tunis: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+            Tutsi: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+       Twickenham: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+Twickenham_Stadium: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Ty_Detmer: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+            Tychy: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   U.C._Sampdoria: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+             U.N.: precision:   0.00%; recall:   0.00%; FB1:   0.00  5
+              U.S: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+             U.S.: precision:   0.00%; recall:   0.00%; FB1:   0.00  45
+       U.S.-based: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+      U.S.Amateur: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ U.S.SupremeCourt: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     UD_Salamanca: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             UEFA: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+          UEFACup: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+         UEFACups: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+UEFA_Champions_League: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+UEFA_Europa_League: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            UNHCR: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+              US$: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       US_Airways: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Udinese_Calcio: precision: 100.00%; recall: 100.00%; FB1: 100.00  5
+           Uganda: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Ugandan: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+          Ukraine: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Ukraine_national_football_team: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Ulaanbaatar: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       Ulan_Bator: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Ulf_Kirsten: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+    Umberto_Bossi: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+         Umkomaas: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Union_Bank_of_Switzerland: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+United_Arab_Emirates: precision:  57.14%; recall: 100.00%; FB1:  72.73  7
+United_Arab_Emirates_national_football_team: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   United_Kingdom: precision: 100.00%; recall:  31.82%; FB1:  48.28  7
+   United_Nations: precision: 100.00%; recall:  76.19%; FB1:  86.49  16
+United_Nations_High_Commissioner_for_Refugees: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+United_Nations_Security_Council: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+United_Provinces_(1937–50): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    United_States: precision: 100.00%; recall:  19.74%; FB1:  32.97  15
+United_States_Department_of_Agriculture: precision: 100.00%; recall:  86.67%; FB1:  92.86  13
+United_States_Department_of_State: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+United_States_Department_of_the_Treasury: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+United_States_courts_of_appeals: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+United_States_dollar: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+University_of_New_York_Tirana: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+University_of_Yangon: precision:  57.14%; recall: 100.00%; FB1:  72.73  7
+          Uruguay: precision: 100.00%; recall:  50.00%; FB1:  66.67  1
+    Uruguay_Round: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+        Utah_Jazz: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Utah_Railway: precision:   0.00%; recall:   0.00%; FB1:   0.00  5
+          Utrecht: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    Uttar_Pradesh: precision: 100.00%; recall:  50.00%; FB1:  66.67  1
+       Uzbekistan: precision:   0.00%; recall:   0.00%; FB1:   0.00  5
+Uzbekistan_national_football_team: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             VAIL: precision:   0.00%; recall:   0.00%; FB1:   0.00  5
+     Vaclav_Havel: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Vaclav_Klaus: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Vadim_Sashurin: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+   Vail,_Colorado: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Valencia: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+      Valencia_CF: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Valladolid: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+          Vampeta: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        Vancouver: precision:  28.57%; recall: 100.00%; FB1:  44.44  7
+Vancouver_Canucks: precision: 100.00%; recall:  60.00%; FB1:  75.00  3
+     Vatican_City: precision: 100.00%; recall: 100.00%; FB1: 100.00  4
+          Vaughan: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+        Venezuela: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+           Venice: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+           Verona: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+ Veronica_Brenner: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+    VfB_Stuttgart: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+       VfL_Bochum: precision: 100.00%; recall:  66.67%; FB1:  80.00  2
+          Vicenza: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+   Vicenza_Calcio: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Victor_Sanchez: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Victoria,_Gozo: precision:   0.00%; recall:   0.00%; FB1:   0.00  8
+Victoria_cricket_team: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Vienna: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+          Vietnam: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+      Viktor_Paco: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Viktor_Paço: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     Villeurbanne: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   Vince_Lombardi: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+       Viorel_Ion: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+    Virginia_Tech: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Virginia_Tech_Hokies_football: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Virtus_Pallacanestro_Bologna: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+          Vitesse: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Vitesse_Arnhem: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       Vitor_Baia: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       VivaItalia: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+  Vladimir_Meciar: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Vladimír_Mečiar: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+         Volendam: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+     Václav_Havel: precision:   0.00%; recall:   0.00%; FB1:   0.00  10
+     Václav_Klaus: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       Vítor_Baía: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       WASHINGTON: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+             WEAH: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+         Waitrose: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+            Wales: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Wales_national_rugby_union_team: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Walikale: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Walikale_Territory: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       WallStreet: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+        Wallabies: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+          Walsall: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+     Walsall_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Walsh: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Wang_Chen_(badminton): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Wang_Chen_(figure_skater): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     Waqar_Younis: precision: 100.00%; recall: 100.00%; FB1: 100.00  4
+            Warne: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+           Warsaw: precision: 100.00%; recall: 100.00%; FB1: 100.00  6
+      Warsaw_Pact: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+ Washington,_D.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Washington_Capitals: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Washington_Redskins: precision: 100.00%; recall:  33.33%; FB1:  50.00  1
+Washington_Wizards: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Washington_wine: precision:   0.00%; recall:   0.00%; FB1:   0.00  12
+            Wasim: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+      Wasim_Akram: precision: 100.00%; recall:  40.00%; FB1:  57.14  2
+        Wasps_RFC: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+          Watford: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+     Watford_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Watsonians_RFC: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        Wednesday: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Wellington: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+      Wen_Hui_Bao: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Wenchang: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+       Wenhui_Bao: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       WestIndies: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+    West_Bromwich: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+West_Bromwich_Albion_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         West_Ham: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+West_Ham_United_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  West_Hartlepool: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+West_Hartlepool_R.F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+West_Indies_cricket_team: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Whistler,_British_Columbia: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Whistler_Mountain: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      White_House: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Whitehill_Welfare_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Whittingham,_New_Jersey: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+           Widnes: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   Widnes_Vikings: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Wigan: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Wigan_Athletic_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Willem_II_(football_club): precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+William_Hill_(Australian_politician): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+William_Hill_(bookmaker): precision: 100.00%; recall:  66.67%; FB1:  80.00  2
+Wimbledon,_London: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+   Wimbledon_F.C.: precision: 100.00%; recall:  62.50%; FB1:  76.92  5
+         Winnipeg: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+   Winston_Peters: precision: 100.00%; recall: 100.00%; FB1: 100.00  4
+           Woking: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+      Woking_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Wolf_Lake_(Indiana–Illinois): precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+    Wolverhampton: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Wolverhampton_Wanderers_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Woolmer: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+      WorldWarTwo: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+World_Badminton_Grand_Prix_Finals: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+World_Open_(squash): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+World_Open_chess_tournament: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+World_Series_Cricket: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+World_Trade_Organization: precision: 100.00%; recall: 100.00%; FB1: 100.00  21
+     World_War_II: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   World_Wide_Web: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+World_championship: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             Wosz: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+          Wrexham: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+     Wrexham_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Written_Chinese: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Wycombe_Wanderers_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Xinhua_News_Agency: precision: 100.00%; recall: 100.00%; FB1: 100.00  5
+        Xu_Nannan: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Yakoma,_Democratic_Republic_of_the_Congo: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    Yakoma_people: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Yangon: precision: 100.00%; recall:  72.73%; FB1:  84.21  8
+Yangon_Technological_University: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+    Yasser_Arafat: precision: 100.00%; recall: 100.00%; FB1: 100.00  8
+     Yasuto_Honda: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      Ye_Zhaoying: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+    Yegor_Stroyev: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Yevgeny_Kafelnikov: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+             York: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+   York_City_F.C.: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Youri_Mulder: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Yugoslavia: precision: 100.00%; recall:  66.67%; FB1:  80.00  2
+     ZIMBABWEOPEN: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     ZULUPROVINCE: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+          Zaandam: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     Zahoor_Elahi: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+            Zaire: precision:   0.00%; recall:   0.00%; FB1:   0.00  16
+           Zambia: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+         Zaragoza: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+  Zeljko_Petrovic: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Zimbabwe: precision: 100.00%; recall: 100.00%; FB1: 100.00  10
+     ZimbabweOpen: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+Zimbabwe_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    Zimbabwe_Open: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Zoran_Savic: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Zoran_Savić: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     Zulu_Kingdom: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   post-Communist: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Élan_Béarnais_Pau-Orthez: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+  Željko_Petrović: precision:   0.00%; recall:   0.00%; FB1:   0.00  1

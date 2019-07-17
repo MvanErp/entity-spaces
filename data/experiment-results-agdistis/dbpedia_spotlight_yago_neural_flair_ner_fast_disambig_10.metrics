@@ -1,0 +1,278 @@
+processed 1987 tokens with 322 phrases; found: 69 phrases; correct: 27.
+accuracy:  80.22%; precision:  39.13%; recall:   8.39%; FB1:  13.81
+             2006: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             2011: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Accident: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Accordion: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Advertising: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Aggression: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Alarmism: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Album: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Alice_Roosevelt_Longworth: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Alzheimer's_disease: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Ancient_Greece: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Annual_Meetings_of_the_International_Monetary_Fund_and_the_World_Bank_Group: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Anxiety: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+              Art: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Art_exhibition: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Artificial_intelligence: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Artist: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Association_football: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Audience: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Automobile: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Autumn: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Backpack: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ Balance_of_trade: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Ballet_tutu: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Barack_Obama: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       Basketball: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ Basketball_court: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Beef_tenderloin: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Berlin: precision: 100.00%; recall:  66.67%; FB1:  80.00  2
+Berlin_Ostbahnhof: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Berlin_Unter_den_Linden_station: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+      Billionaire: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             Blue: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Boiler: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Boredom: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Boulevard: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Box_office: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Brick: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Buster_Keaton: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      CSKA_Moscow: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+CSKA_Universal_Sports_Hall: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+California_State_Route_1: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Canada: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+         Canadian: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Cancer: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Cannabis_(drug): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Cappuccino: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Chair: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Chaos: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            China: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     Choreography: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Citizenship_of_Russia: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+       Classicism: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Coach_(sport): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Commuting: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Computer_software: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Conservatism: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Conspiracy_theory: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Consumer: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Content_(media): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Country: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Cricket_nets: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
+  Criminal_charge: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Cross_Canadian_Ragweed: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+           Cubism: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+          Culture: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Currency: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Curve: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Dance: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Dance_troupe: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Dinner: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Diplomatic_mission: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Driverless_car: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Driving: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Drop_(liquid): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Economy: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Email: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Emotion: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Engineer: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+              Era: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Europe: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+       Exhibition: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Exhibition_game: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Experiment: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Family: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Fan_(person): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Father: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Female: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Festival: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Fiberglass: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Fiction: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Finland: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+          Finnish: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    Finnish_sauna: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Floor: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Floor_plan: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           France: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Free_association_(psychology): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Friday: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Future: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Futurism: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             Game: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Garlic: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Germany: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Germán_Vargas_Lleras: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+           Google: precision:  50.00%; recall: 100.00%; FB1:  66.67  2
+Google_driverless_car: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Gossip: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Gothic_architecture: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Grand_Central_Terminal: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+           Greece: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+            Green: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Greeting: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Grounding_(punishment): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Guggenheim_Museum_SoHo: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     Gun_politics: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             HTML: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            HTML5: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+             Hall: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Heart_disease: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Hedonism: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          History: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Hockey: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             Home: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            House: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      House_dance: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Human: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       HumanBeing: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+          Husband: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+I_Am_Not_a_Human_Being: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             Idea: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Ideology: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Illegal_drug_trade: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Illinois: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Information_privacy: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Interaction: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Interior_design: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    International: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+International_Monetary_Fund: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+         Internet: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ Internet_privacy: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Italian_Renaissance: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+            Italy: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+            Japan: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+           Ladder: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Landmark: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Lawsuit: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             Leaf: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Leaf_shape: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Lil_Wayne: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Lombard_Street,_London: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Lombard_Street_(San_Francisco): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Los_Angeles: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+          Machine: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+              Man: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Marketing: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ Medical_cannabis: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Middle_age: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         MikhailD: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Mikhail_Prokhorov: precision: 100.00%; recall:  25.00%; FB1:  40.00  1
+             Mile: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Modernism: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Month: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Moscow: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+           Mother: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Multimedia: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             Name: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Nausea: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Navigation_system: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       New_Gothic: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+  New_Jersey_Nets: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         New_York: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    New_York_City: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Nightclub: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Nightmare: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Online_and_offline: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Oregon_Route_8: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Orthostatic_hypotension: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Ownership: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Parent: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             Park: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+People's_Republic_of_China: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Percentage: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Performance: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Person: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Popularity: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Port_of_Turku: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Practice_(learning_method): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Presentation: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Presidency_of_Barack_Obama: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Prison: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Problem: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Project: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Promise: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Pumping_station: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Questionnaire: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Rear-end_collision: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Rebirth_(Lil_Wayne_album): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+              Red: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Renminbi: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Research: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Restaurant: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Rikers_Island: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+           Ritual: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             Roof: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             Room: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ Runway_(fashion): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Russia: precision: 100.00%; recall:  66.67%; FB1:  80.00  2
+         Russians: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    San_Francisco: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+SashaWaltz&Guests: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+      Sasha_Waltz: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Sauna: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Scallop: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             Scar: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Scientific_method: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Sculpture: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Self-consciousness: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Self-esteem: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Sentence_(law): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        September: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Shape: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Smartphone: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Social_order: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Social_psychology: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Social_support: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Solomon_R._Guggenheim_Museum: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             Song: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Source_code: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Sponsor_(commercial): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Sport: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Sports_club: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Sportsperson: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Spree: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Steering_wheel: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Street: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ Studio_recording: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Sunday: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             Team: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Technician: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Term_(time): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+The_Internet_(band): precision:   0.00%; recall:   0.00%; FB1:   0.00  5
+Ticket_(admission): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         TimothyF: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ Timothy_Geithner: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+      ToyotaPrius: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     Toyota_Prius: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Tradition: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Traffic_light: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Treasury: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+            Turku: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Türkü: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+Undergraduate_education: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+United_States_Secretary_of_the_Treasury: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ Unter_den_Linden: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Uploading_and_downloading: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ User_(computing): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Video: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             Wall: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Wealth: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Web_browser: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Web_developer: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Web_page: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Window: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Wolf_Lake_(Indiana–Illinois): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+            Woman: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Woodland: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            World: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        WorldWarI: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+      World_War_I: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   World_Wide_Web: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Worry: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Writer: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             Year: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Yellow: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Yuri_Vasilyevich_Prokhorov: precision:   0.00%; recall:   0.00%; FB1:   0.00  3

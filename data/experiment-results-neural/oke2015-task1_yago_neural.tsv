@@ -1,0 +1,3352 @@
+Mario	B	Mario_Capecchi	http://en.wikipedia.org/wiki/Mario_Capecchi	
+Capecchi	I	Mario_Capecchi	http://en.wikipedia.org/wiki/Mario_Capecchi	
+was	O			
+born	O			
+in	O			
+the	O			
+city	O			
+of	O			
+Verona	B	Verona	http://en.wikipedia.org/wiki/Verona	Verona
+as	O			
+the	O			
+only	O			
+child	O			
+of	O			
+Luciano	B	Luciano_Capecchi	http://en.wikipedia.org/wiki/Luciano_Capecchi	
+Capecchi	I	Luciano_Capecchi	http://en.wikipedia.org/wiki/Luciano_Capecchi	
+,	O			
+an	O			
+airmanO				
+,	O			
+and	O			
+Lucy	B	Lucy_Ramberg	http://en.wikipedia.org/wiki/Lucy_Ramberg	
+Ramberg	I	Lucy_Ramberg	http://en.wikipedia.org/wiki/Lucy_Ramberg	
+,	O			
+an	O			
+American	B	American-born	http://en.wikipedia.org/wiki/American-born	United_States
+-	I	American-born	http://en.wikipedia.org/wiki/American-born	
+born	I	American-born	http://en.wikipedia.org/wiki/American-born	
+daughterO				
+of	O			
+Impressionist	B	Impressionist_painter	http://en.wikipedia.org/wiki/Impressionist_painter	Impressionism
+painter	I	Impressionist_painter	http://en.wikipedia.org/wiki/Impressionist_painter	
+Lucy	B	Lucy_Dodd_Ramberg	http://en.wikipedia.org/wiki/Lucy_Dodd_Ramberg	
+Dodd	I	Lucy_Dodd_Ramberg	http://en.wikipedia.org/wiki/Lucy_Dodd_Ramberg	
+Ramberg	I	Lucy_Dodd_Ramberg	http://en.wikipedia.org/wiki/Lucy_Dodd_Ramberg	
+and	O			
+German	B	German	http://en.wikipedia.org/wiki/German	Germany
+archaeologistO				
+Walter	B	Walter_Ramberg	http://en.wikipedia.org/wiki/Walter_Ramberg	
+Ramberg	I	Walter_Ramberg	http://en.wikipedia.org/wiki/Walter_Ramberg	
+.	O			
+				
+John	B	John	http://en.wikipedia.org/wiki/John	
+started	O			
+with	O			
+high	O			
+expectations	O			
+and	O			
+enthusiasm	O			
+to	O			
+study	O			
+chemistry	O			
+at	O			
+the	O			
+famous	O			
+Swiss	B	Swiss_Federal_Institute_of_Technology	http://en.wikipedia.org/wiki/Swiss_Federal_Institute_of_Technology	ETH_Zurich
+Federal	I	Swiss_Federal_Institute_of_Technology	http://en.wikipedia.org/wiki/Swiss_Federal_Institute_of_Technology	ETH_Zurich
+Institute	I	Swiss_Federal_Institute_of_Technology	http://en.wikipedia.org/wiki/Swiss_Federal_Institute_of_Technology	ETH_Zurich
+of	I	Swiss_Federal_Institute_of_Technology	http://en.wikipedia.org/wiki/Swiss_Federal_Institute_of_Technology	ETH_Zurich
+Technology	I	Swiss_Federal_Institute_of_Technology	http://en.wikipedia.org/wiki/Swiss_Federal_Institute_of_Technology	ETH_Zurich
+in	O			
+Zurich	B	Zurich	http://en.wikipedia.org/wiki/Zurich	Zürich
+.	O			
+				
+Mandela	B	Mandela	http://en.wikipedia.org/wiki/Nelson_Mandela	Nelson_Mandela
+served	O			
+27	O			
+years	O			
+in	O			
+prison	O			
+,	O			
+initially	O			
+on	O			
+Robben	B	Robben_Island	http://en.wikipedia.org/wiki/Robben_Island	Robben_Island
+Island	I	Robben_Island	http://en.wikipedia.org/wiki/Robben_Island	Robben_Island
+,	O			
+and	O			
+later	O			
+in	O			
+Pollsmoor	B	Pollsmoor_Prison	http://en.wikipedia.org/wiki/Pollsmoor_Prison	Pollsmoor_Prison
+Prison	I	Pollsmoor_Prison	http://en.wikipedia.org/wiki/Pollsmoor_Prison	Pollsmoor_Prison
+and	O			
+Victor	B	Victor_Verster_Prison	http://en.wikipedia.org/wiki/Susumu_Tonegawa	Drakenstein_Correctional_Centre
+Verster	I	Victor_Verster_Prison	http://en.wikipedia.org/wiki/Susumu_Tonegawa	Drakenstein_Correctional_Centre
+Prison	I	Victor_Verster_Prison	http://en.wikipedia.org/wiki/Susumu_Tonegawa	Drakenstein_Correctional_Centre
+.	O			
+				
+In	O			
+2001	O			
+heO				
+became	O			
+a	O			
+professorO				
+of	O			
+physics	O			
+at	O			
+the	O			
+University	B	University_of_Manchester	http://en.wikipedia.org/wiki/University_of_Manchester	University_of_Manchester
+of	I	University_of_Manchester	http://en.wikipedia.org/wiki/University_of_Manchester	University_of_Manchester
+Manchester	I	University_of_Manchester	http://en.wikipedia.org/wiki/University_of_Manchester	University_of_Manchester
+,	O			
+and	O			
+was	O			
+appointed	O			
+directorO				
+of	O			
+the	O			
+Manchester	B	Manchester_Centre_for_Mesoscience_and_Nanotechnology	http://en.wikipedia.org/wiki/Manchester_Centre_for_Mesoscience_and_Nanotechnology	
+Centre	I	Manchester_Centre_for_Mesoscience_and_Nanotechnology	http://en.wikipedia.org/wiki/Manchester_Centre_for_Mesoscience_and_Nanotechnology	
+for	I	Manchester_Centre_for_Mesoscience_and_Nanotechnology	http://en.wikipedia.org/wiki/Manchester_Centre_for_Mesoscience_and_Nanotechnology	
+Mesoscience	I	Manchester_Centre_for_Mesoscience_and_Nanotechnology	http://en.wikipedia.org/wiki/Manchester_Centre_for_Mesoscience_and_Nanotechnology	
+and	I	Manchester_Centre_for_Mesoscience_and_Nanotechnology	http://en.wikipedia.org/wiki/Manchester_Centre_for_Mesoscience_and_Nanotechnology	
+Nanotechnology	I	Manchester_Centre_for_Mesoscience_and_Nanotechnology	http://en.wikipedia.org/wiki/Manchester_Centre_for_Mesoscience_and_Nanotechnology	
+in	O			
+2002	O			
+.	O			
+				
+Gordimer	B	Gordimer	http://en.wikipedia.org/wiki/Gordimer	
+studied	O			
+for	O			
+a	O			
+year	O			
+at	O			
+the	O			
+University	B	University_of_the_Witwatersrand	http://en.wikipedia.org/wiki/University_of_the_Witwatersrand	University_of_the_Witwatersrand
+of	I	University_of_the_Witwatersrand	http://en.wikipedia.org/wiki/University_of_the_Witwatersrand	University_of_the_Witwatersrand
+the	I	University_of_the_Witwatersrand	http://en.wikipedia.org/wiki/University_of_the_Witwatersrand	University_of_the_Witwatersrand
+Witwatersrand	I	University_of_the_Witwatersrand	http://en.wikipedia.org/wiki/University_of_the_Witwatersrand	University_of_the_Witwatersrand
+,	O			
+where	O			
+sheO				
+mixed	O			
+for	O			
+the	O			
+first	O			
+time	O			
+with	O			
+fellowO				
+professionals	O			
+across	O			
+the	O			
+colour	O			
+bar	O			
+.	O			
+				
+Prelog	B	Prelog	http://en.wikipedia.org/wiki/Prelog	
+attended	O			
+elementaryO				
+schoolO				
+in	O			
+Sarajevo	B	Sarajevo	http://en.wikipedia.org/wiki/Sarajevo	Sarajevo
+,	O			
+but	O			
+in	O			
+1915	O			
+,	O			
+moved	O			
+to	O			
+Zagreb	B	Zagreb	http://en.wikipedia.org/wiki/Zagreb	Zagreb
+where	O			
+heO				
+graduated	O			
+from	O			
+elementaryO				
+schoolO				
+.	O			
+At	O			
+first	O			
+,	O			
+Prelog	B	Prelog	http://en.wikipedia.org/wiki/Prelog	
+attended	O			
+gymnasiumO				
+in	O			
+Zagreb	B	Zagreb	http://en.wikipedia.org/wiki/Zagreb	Zagreb
+,	O			
+but	O			
+soon	O			
+afterwards	O			
+,	O			
+hisO				
+fatherO				
+got	O			
+a	O			
+job	O			
+in	O			
+Osijek	B	Osijek	http://en.wikipedia.org/wiki/Osijek	Osijek
+.	O			
+				
+Strict	O			
+rules	O			
+against	O			
+nepotism	O			
+prevented	O			
+Johns	B	Johns_Hopkins_University	http://en.wikipedia.org/wiki/Johns_Hopkins_University	
+Hopkins	I	Johns_Hopkins_University	http://en.wikipedia.org/wiki/Johns_Hopkins_University	
+University	I	Johns_Hopkins_University	http://en.wikipedia.org/wiki/Johns_Hopkins_University	
+from	O			
+taking	O			
+Goeppert	B	Goeppert_Mayer	http://en.wikipedia.org/wiki/Goeppert_Mayer	
+Mayer	I	Goeppert_Mayer	http://en.wikipedia.org/wiki/Goeppert_Mayer	
+on	O			
+as	O			
+a	O			
+facultyO				
+memberO				
+,	O			
+but	O			
+sheO				
+was	O			
+given	O			
+a	O			
+job	O			
+as	O			
+an	O			
+assistantO				
+and	O			
+published	O			
+a	O			
+landmark	O			
+paper	O			
+on	O			
+double	O			
+beta	O			
+decay	O			
+in	O			
+1935	O			
+.	O			
+				
+Appointed	O			
+Professor	B	Professor	http://en.wikipedia.org/wiki/Professor	
+at	O			
+the	O			
+University	B	University_of_Rome	http://en.wikipedia.org/wiki/University_of_Rome	Sapienza_University_of_Rome
+of	I	University_of_Rome	http://en.wikipedia.org/wiki/University_of_Rome	Sapienza_University_of_Rome
+Rome	I	University_of_Rome	http://en.wikipedia.org/wiki/University_of_Rome	Sapienza_University_of_Rome
+,	O			
+manO				
+'	O			
+s	O			
+seminars	O			
+there	O			
+included	O			
+Harlequin	B	Harlequin	http://en.wikipedia.org/wiki/Harlequin	
+and	O			
+the	O			
+commediaO				
+dellO				
+'O				
+arteO				
+.	O			
+				
+Born	O			
+on	O			
+22	O			
+April	O			
+1909	O			
+at	O			
+Turin	B	Turin	http://en.wikipedia.org/wiki/Turin	Turin
+Rita	B	Rita_Levi-Montalcini	http://en.wikipedia.org/wiki/Rita_Levi-Montalcini	
+Levi	I	Rita_Levi-Montalcini	http://en.wikipedia.org/wiki/Rita_Levi-Montalcini	
+-	I	Rita_Levi-Montalcini	http://en.wikipedia.org/wiki/Rita_Levi-Montalcini	
+Montalcini	I	Rita_Levi-Montalcini	http://en.wikipedia.org/wiki/Rita_Levi-Montalcini	Rita_Levi-Montalcini
+were	O			
+the	O			
+youngest	O			
+of	O			
+four	O			
+children	O			
+.	O			
+Her	B	Her	http://en.wikipedia.org/wiki/Her	
+parents	O			
+were	O			
+Adele	B	Adele_Montalcini	http://en.wikipedia.org/wiki/Adele_Montalcini	
+Montalcini	I	Adele_Montalcini	http://en.wikipedia.org/wiki/Adele_Montalcini	
+,	O			
+a	O			
+painterO				
+,	O			
+and	O			
+Adamo	B	Adamo_Levi	http://en.wikipedia.org/wiki/Adamo_Levi	
+Levi	I	Adamo_Levi	http://en.wikipedia.org/wiki/Adamo_Levi	
+,	O			
+an	O			
+electricalO				
+engineerO				
+and	O			
+mathematicianO				
+.	O			
+				
+Neruda	B	Neruda	http://en.wikipedia.org/wiki/Neruda	
+derived	O			
+hisO				
+pen	O			
+name	O			
+from	O			
+the	O			
+Czech	B	Czech	http://en.wikipedia.org/wiki/Czech	Czech_Republic
+poetO				
+Jan	B	Jan_Neruda	http://en.wikipedia.org/wiki/Jan_Neruda	Jan_Neruda
+Neruda	I	Jan_Neruda	http://en.wikipedia.org/wiki/Jan_Neruda	Jan_Neruda
+and	O			
+became	O			
+known	O			
+as	O			
+a	O			
+poetO				
+when	O			
+heO				
+was	O			
+10	O			
+years	O			
+old	O			
+.	O			
+				
+After	O			
+World	O			World_War_II
+War	O			World_War_II
+II	O			World_War_II
+broke	O			
+out	O			
+,	O			
+in	O			
+1941	O			
+Prelog	B	Prelog	http://en.wikipedia.org/wiki/Prelog	
+was	O			
+invited	O			
+in	O			
+Germany	B	Germany	http://en.wikipedia.org/wiki/Germany	Germany
+by	O			
+Richard	B	Richard_Kuhn	http://en.wikipedia.org/wiki/Richard_Kuhn	Richard_Kuhn
+Kuhn	I	Richard_Kuhn	http://en.wikipedia.org/wiki/Richard_Kuhn	Richard_Kuhn
+as	O			
+lecturerO				
+,	O			
+and	O			
+shortly	O			
+afterwards	O			
+,	O			
+Lavoslav	B	Lavoslav_Ružička	http://en.wikipedia.org/wiki/Lavoslav_Ruzicka	Leopold_Ružička
+Ružička	I	Lavoslav_Ružička	http://en.wikipedia.org/wiki/Lavoslav_Ruzicka	Leopold_Ružička
+,	O			
+invited	O			
+Prelog	B	Prelog	http://en.wikipedia.org/wiki/Prelog	
+to	O			
+visit	O			
+himO				
+on	O			
+hisO				
+way	O			
+to	O			
+Germany	B	Germany	http://en.wikipedia.org/wiki/Germany	Germany
+.	O			
+				
+Thomas	B	Thomas_Eliot	http://en.wikipedia.org/wiki/Thomas_Eliot	T._S._Eliot
+Eliot	I	Thomas_Eliot	http://en.wikipedia.org/wiki/Thomas_Eliot	T._S._Eliot
+was	O			
+invited	O			
+to	O			
+study	O			
+at	O			
+the	O			
+Institute	B	Institute_for_Advanced_Study	http://en.wikipedia.org/wiki/Institute_for_Advanced_Study	Institute_for_Advanced_Study
+for	I	Institute_for_Advanced_Study	http://en.wikipedia.org/wiki/Institute_for_Advanced_Study	Institute_for_Advanced_Study
+Advanced	I	Institute_for_Advanced_Study	http://en.wikipedia.org/wiki/Institute_for_Advanced_Study	Institute_for_Advanced_Study
+Study	I	Institute_for_Advanced_Study	http://en.wikipedia.org/wiki/Institute_for_Advanced_Study	Institute_for_Advanced_Study
+by	O			
+Director	B	Director	http://en.wikipedia.org/wiki/Director	
+Frank	B	Frank_Aydelotte	http://en.wikipedia.org/wiki/Frank_Aydelotte	Frank_Aydelotte
+Aydelotte	I	Frank_Aydelotte	http://en.wikipedia.org/wiki/Frank_Aydelotte	Frank_Aydelotte
+.	O			
+Eliot	B	Eliot	http://en.wikipedia.org/wiki/Eliot	T._S._Eliot
+was	O			
+born	O			
+into	O			
+the	O			
+Eliot	B	Eliot_family	http://en.wikipedia.org/wiki/Eliot_family	T._S._Eliot
+family	I	Eliot_family	http://en.wikipedia.org/wiki/Eliot_family	
+,	O			
+a	O			
+Boston	B	Boston_Brahmin_family	http://en.wikipedia.org/wiki/Boston_Brahmin_family	Boston_Brahmin
+Brahmin	I	Boston_Brahmin_family	http://en.wikipedia.org/wiki/Boston_Brahmin_family	Boston_Brahmin
+family	I	Boston_Brahmin_family	http://en.wikipedia.org/wiki/Boston_Brahmin_family	
+with	O			
+roots	O			
+in	O			
+England	B	England	http://en.wikipedia.org/wiki/England	England
+and	O			
+New	B	New_England	http://en.wikipedia.org/wiki/New_England	New_England
+England	I	New_England	http://en.wikipedia.org/wiki/New_England	New_England
+.	O			
+				
+In	O			
+1950	O			
+James	B	James_Tobin	http://en.wikipedia.org/wiki/James_Tobin	James_Tobin
+Tobin	I	James_Tobin	http://en.wikipedia.org/wiki/James_Tobin	James_Tobin
+moved	O			
+to	O			
+Yale	B	Yale_University	http://en.wikipedia.org/wiki/Yale_University	Yale_University
+University	I	Yale_University	http://en.wikipedia.org/wiki/Yale_University	Yale_University
+,	O			
+where	O			
+heO				
+remained	O			
+for	O			
+the	O			
+rest	O			
+of	O			
+hisO				
+career	O			
+.	O			
+James	B	James_Tobin	http://en.wikipedia.org/wiki/James_Tobin	James_Tobin
+Tobin	I	James_Tobin	http://en.wikipedia.org/wiki/James_Tobin	James_Tobin
+joined	O			
+the	O			
+Cowles	B	Cowles_Foundation	http://en.wikipedia.org/wiki/Cowles_Foundation	Cowles_Foundation
+Foundation	I	Cowles_Foundation	http://en.wikipedia.org/wiki/Cowles_Foundation	Cowles_Foundation
+,	O			
+which	O			
+moved	O			
+to	O			
+Yale	B	Yale	http://en.wikipedia.org/wiki/Yale	Yale_University
+in	O			
+1955	O			
+,	O			
+also	O			
+serving	O			
+as	O			
+its	O			
+presidentO				
+between	O			
+1955	O			
+–	O			
+1961	O			
+and	O			
+1964	O			
+-	O			
+1965	O			
+.	O			
+				
+In	O			
+1949	O			
+Toni	B	Toni_Morrison	http://en.wikipedia.org/wiki/Toni_Morrison	Toni_Morrison
+Morrison	I	Toni_Morrison	http://en.wikipedia.org/wiki/Toni_Morrison	Toni_Morrison
+went	O			
+to	O			
+Howard	B	Howard_University	http://en.wikipedia.org/wiki/Howard_University	Howard_University
+University	I	Howard_University	http://en.wikipedia.org/wiki/Howard_University	Howard_University
+graduating	O			
+in	O			
+1953	O			
+with	O			
+a	O			
+B	O			
+.	O			
+A	O			
+.	O			
+in	O			
+English	O			England
+;	O			
+sheO				
+went	O			
+on	O			
+to	O			
+earn	O			
+a	O			
+Master	O			Master_of_Arts
+of	O			Master_of_Arts
+Arts	O			Master_of_Arts
+from	O			
+Cornell	B	Cornell_University	http://en.wikipedia.org/wiki/Cornell_University	Cornell_University
+University	I	Cornell_University	http://en.wikipedia.org/wiki/Cornell_University	Cornell_University
+in	O			
+1955	O			
+.	O			
+				
+Beckett	B	Beckett	http://en.wikipedia.org/wiki/Beckett	
+studied	O			
+French	O			France
+,	O			
+Italian	O			Italy
+,	O			
+and	O			
+English	O			England
+at	O			
+Trinity	B	Trinity_College	http://en.wikipedia.org/wiki/_Dublin	Trinity_College,_Dublin
+College	I	Trinity_College	http://en.wikipedia.org/wiki/_Dublin	Trinity_College,_Dublin
+,	O			
+Dublin	B	Dublin	http://en.wikipedia.org/wiki/Dublin	Dublin
+from	O			
+1923	O			
+to	O			
+1927	O			
+.	O			
+Beckett	B	Beckett	http://en.wikipedia.org/wiki/Beckett	Samuel_Beckett
+graduated	O			
+with	O			
+a	O			
+BA	O			Bachelor_of_Arts
+and	O			
+,	O			
+after	O			
+teaching	O			
+briefly	O			
+at	O			
+Campbell	B	Campbell_College	http://en.wikipedia.org/wiki/Campbell_College	Campbell_College
+College	I	Campbell_College	http://en.wikipedia.org/wiki/Campbell_College	Campbell_College
+in	O			
+Belfast	B	Belfast	http://en.wikipedia.org/wiki/Belfast	Belfast
+,	O			
+took	O			
+up	O			
+the	O			
+post	O			
+of	O			
+lecteurO				
+d	O			
+'	O			
+anglais	O			
+in	O			
+the	O			
+École	B	École_Normale_Supérieure	http://en.wikipedia.org/wiki/Ecole_Normale_Superieure	École_Normale_Supérieure
+Normale	I	École_Normale_Supérieure	http://en.wikipedia.org/wiki/Ecole_Normale_Superieure	École_Normale_Supérieure
+Supérieure	I	École_Normale_Supérieure	http://en.wikipedia.org/wiki/Ecole_Normale_Superieure	École_Normale_Supérieure
+in	O			
+Paris	B	Paris	http://en.wikipedia.org/wiki/Paris	Paris
+.	O			
+				
+After	O			
+graduating	O			
+from	O			
+Magdalene	B	Magdalene_College	http://en.wikipedia.org/wiki/_Cambridge	Magdalene_College,_Cambridge
+College	I	Magdalene_College	http://en.wikipedia.org/wiki/_Cambridge	Magdalene_College,_Cambridge
+in	O			
+1921	O			
+,	O			
+Blackett	B	Blackett	http://en.wikipedia.org/wiki/Blackett	
+spent	O			
+ten	O			
+years	O			
+working	O			
+at	O			
+the	O			
+Cavendish	B	Cavendish_Laboratory	http://en.wikipedia.org/wiki/Cavendish_Laboratory	Cavendish_Laboratory
+Laboratory	I	Cavendish_Laboratory	http://en.wikipedia.org/wiki/Cavendish_Laboratory	Cavendish_Laboratory
+as	O			
+an	O			
+experimental	O			
+physicistO				
+with	O			
+Professor	B	Professor	http://en.wikipedia.org/wiki/Professor	Ernest_Rutherford
+Rutherford	B	Rutherford	http://en.wikipedia.org/wiki/Rutherford	Ernest_Rutherford
+and	O			
+in	O			
+1923	O			
+became	O			
+a	O			
+fellowO				
+of	O			
+King	B	King's_College	http://en.wikipedia.org/wiki/_Cambridge	
+'	I	King's_College	http://en.wikipedia.org/wiki/_Cambridge	
+s	I	King's_College	http://en.wikipedia.org/wiki/_Cambridge	
+College	I	King's_College	http://en.wikipedia.org/wiki/_Cambridge	
+,	O			
+Cambridge	B	Cambridge	http://en.wikipedia.org/wiki/Cambridge	Cambridge
+,	O			
+a	O			
+position	O			
+he	O			
+heO				
+until	O			
+1933	O			
+.	O			
+				
+Rita	B	Rita_Levi-Montalcini	http://en.wikipedia.org/wiki/Rita_Levi-Montalcini	
+Levi	I	Rita_Levi-Montalcini	http://en.wikipedia.org/wiki/Rita_Levi-Montalcini	
+-	I	Rita_Levi-Montalcini	http://en.wikipedia.org/wiki/Rita_Levi-Montalcini	
+Montalcini	I	Rita_Levi-Montalcini	http://en.wikipedia.org/wiki/Rita_Levi-Montalcini	Rita_Levi-Montalcini
+had	O			
+been	O			
+the	O			
+oldest	O			
+living	O			
+Nobel	B	Nobel_laureate	http://en.wikipedia.org/wiki/Nobel_laureate	
+laureate	I	Nobel_laureate	http://en.wikipedia.org/wiki/Nobel_laureate	
+and	O			
+was	O			
+the	O			
+first	O			
+ever	O			
+to	O			
+reach	O			
+a	O			
+100th	O			
+birthday	O			
+.	O			
+On	O			
+22	O			
+April	O			
+2009	O			
+,	O			
+Rita	B	Rita_Levi-Montalcini	http://en.wikipedia.org/wiki/Rita_Levi-Montalcini	
+Levi	I	Rita_Levi-Montalcini	http://en.wikipedia.org/wiki/Rita_Levi-Montalcini	
+-	I	Rita_Levi-Montalcini	http://en.wikipedia.org/wiki/Rita_Levi-Montalcini	
+Montalcini	I	Rita_Levi-Montalcini	http://en.wikipedia.org/wiki/Rita_Levi-Montalcini	Rita_Levi-Montalcini
+was	O			
+feted	O			
+with	O			
+a	O			
+100th	O			
+birthday	O			
+party	O			
+at	O			
+Rome	B	Rome's_city_hall	http://en.wikipedia.org/wiki/Rome's_city_hall	Rome
+'	I	Rome's_city_hall	http://en.wikipedia.org/wiki/Rome's_city_hall	
+s	I	Rome's_city_hall	http://en.wikipedia.org/wiki/Rome's_city_hall	
+city	I	Rome's_city_hall	http://en.wikipedia.org/wiki/Rome's_city_hall	
+hall	I	Rome's_city_hall	http://en.wikipedia.org/wiki/Rome's_city_hall	
+.	O			
+				
+She	B	She	http://en.wikipedia.org/wiki/She	
+was	O			
+appointed	O			
+as	O			
+Senator	B	Senator_for_Life	http://en.wikipedia.org/wiki/Senator_for_life	Senator_for_life
+for	I	Senator_for_Life	http://en.wikipedia.org/wiki/Senator_for_life	Senator_for_life
+Life	I	Senator_for_Life	http://en.wikipedia.org/wiki/Senator_for_life	Senator_for_life
+in	O			
+Italy	B	Italy	http://en.wikipedia.org/wiki/Italy	Italy
+by	O			
+the	O			
+President	B	President	http://en.wikipedia.org/wiki/President	
+Carlo	B	Carlo_Azeglio_Ciampi	http://en.wikipedia.org/wiki/Carlo_Azeglio_Ciampi	Carlo_Azeglio_Ciampi
+Azeglio	I	Carlo_Azeglio_Ciampi	http://en.wikipedia.org/wiki/Carlo_Azeglio_Ciampi	Carlo_Azeglio_Ciampi
+Ciampi	I	Carlo_Azeglio_Ciampi	http://en.wikipedia.org/wiki/Carlo_Azeglio_Ciampi	Carlo_Azeglio_Ciampi
+.	O			
+				
+In	O			
+2009	O			
+,	O			
+Wiesel	B	Wiesel	http://en.wikipedia.org/wiki/Wiesel	
+criticized	O			
+the	O			
+Vatican	B	Vatican	http://en.wikipedia.org/wiki/Vatican	
+for	O			
+lifting	O			
+the	O			
+excommunication	O			
+of	O			
+controversial	O			
+bishopO				
+Richard	B	Richard_Williamson	http://en.wikipedia.org/wiki/Richard_Williamson	Richard_Williamson_(bishop)
+Williamson	I	Richard_Williamson	http://en.wikipedia.org/wiki/Richard_Williamson	Richard_Williamson_(bishop)
+,	O			
+a	O			
+memberO				
+of	O			
+the	O			
+Society	B	Society_of_Saint_Pius_X	http://en.wikipedia.org/wiki/Society_of_Saint_Pius_X	Society_of_St._Pius_X
+of	I	Society_of_Saint_Pius_X	http://en.wikipedia.org/wiki/Society_of_Saint_Pius_X	Society_of_St._Pius_X
+Saint	I	Society_of_Saint_Pius_X	http://en.wikipedia.org/wiki/Society_of_Saint_Pius_X	Society_of_St._Pius_X
+Pius	I	Society_of_Saint_Pius_X	http://en.wikipedia.org/wiki/Society_of_Saint_Pius_X	Society_of_St._Pius_X
+X	I	Society_of_Saint_Pius_X	http://en.wikipedia.org/wiki/Society_of_Saint_Pius_X	Society_of_St._Pius_X
+.	O			
+				
+Dulbecco	B	Dulbecco	http://en.wikipedia.org/wiki/Dulbecco	
+was	O			
+born	O			
+in	O			
+Catanzaro	B	Catanzaro	http://en.wikipedia.org/wiki/Catanzaro	Catanzaro
+(	O			
+Southern	B	Southern_Italy	http://en.wikipedia.org/wiki/Southern_Italy	
+Italy	I	Southern_Italy	http://en.wikipedia.org/wiki/Southern_Italy	
+)	O			
+,	O			
+but	O			
+spent	O			
+hisO				
+childhood	O			
+and	O			
+grew	O			
+up	O			
+in	O			
+Liguria	B	Liguria	http://en.wikipedia.org/wiki/Liguria	Liguria
+,	O			
+in	O			
+the	O			
+coastal	O			
+city	O			
+Imperia	B	Imperia	http://en.wikipedia.org/wiki/Imperia	Imperia
+.	O			
+Dulbecco	B	Dulbecco	http://en.wikipedia.org/wiki/Dulbecco	
+graduated	O			
+from	O			
+highO				
+schoolO				
+at	O			
+16	O			
+,	O			
+then	O			
+moved	O			
+to	O			
+the	O			
+University	B	University_of_Turin	http://en.wikipedia.org/wiki/University_of_Turin	University_of_Turin
+of	I	University_of_Turin	http://en.wikipedia.org/wiki/University_of_Turin	University_of_Turin
+Turin	I	University_of_Turin	http://en.wikipedia.org/wiki/University_of_Turin	University_of_Turin
+.	O			
+				
+A	O			
+manO				
+from	O			
+Japan	B	Japan	http://en.wikipedia.org/wiki/Japan	Japan
+received	O			
+his	O			
+bachelor	O			
+'	O			
+s	O			
+degree	O			
+from	O			
+Kyoto	B	Kyoto_University	http://en.wikipedia.org/wiki/Kyoto_University	Kyoto_University
+University	I	Kyoto_University	http://en.wikipedia.org/wiki/Kyoto_University	Kyoto_University
+in	O			
+1963	O			
+.	O			
+Such	O			
+a	O			
+manO				
+did	O			
+post	O			
+-	O			
+doctoral	O			
+work	O			
+at	O			
+the	O			
+Salk	B	Salk_Institute	http://en.wikipedia.org/wiki/Salk_Institute_for_Biological_Studies	Salk_Institute_for_Biological_Studies
+Institute	I	Salk_Institute	http://en.wikipedia.org/wiki/Salk_Institute_for_Biological_Studies	Salk_Institute_for_Biological_Studies
+in	O			
+San	B	San_Diego	http://en.wikipedia.org/wiki/San_Diego	San_Diego
+Diego	I	San_Diego	http://en.wikipedia.org/wiki/San_Diego	San_Diego
+in	O			
+the	O			
+laboratory	O			
+of	O			
+Renato	B	Renato_Dulbecco	http://en.wikipedia.org/wiki/Renato_Dulbecco	Renato_Dulbecco
+Dulbecco	I	Renato_Dulbecco	http://en.wikipedia.org/wiki/Renato_Dulbecco	Renato_Dulbecco
+,	O			
+then	O			
+worked	O			
+at	O			
+the	O			
+Basel	B	Basel_Institute_for_Immunology	http://en.wikipedia.org/wiki/Basel_Institute_for_Immunology	Basel_Institute_for_Immunology
+Institute	I	Basel_Institute_for_Immunology	http://en.wikipedia.org/wiki/Basel_Institute_for_Immunology	Basel_Institute_for_Immunology
+for	I	Basel_Institute_for_Immunology	http://en.wikipedia.org/wiki/Basel_Institute_for_Immunology	Basel_Institute_for_Immunology
+Immunology	I	Basel_Institute_for_Immunology	http://en.wikipedia.org/wiki/Basel_Institute_for_Immunology	Basel_Institute_for_Immunology
+in	O			
+Basel	B	Basel	http://en.wikipedia.org/wiki/Basel	Basel
+,	O			
+Switzerland	O			Switzerland
+.	O			
+				
+The	O			
+womanO				
+was	O			
+awarded	O			
+the	O			
+Nobel	O			Nobel_Prize
+Prize	O			Nobel_Prize
+in	O			
+Physics	O			
+in	O			
+1963	O			
+,	O			
+which	O			
+sheO				
+shared	O			
+with	O			
+J	B	J._Hans_D._Jensen	http://en.wikipedia.org/wiki/J._Hans_D._Jensen	
+.	I	J._Hans_D._Jensen	http://en.wikipedia.org/wiki/J._Hans_D._Jensen	
+Hans	I	J._Hans_D._Jensen	http://en.wikipedia.org/wiki/J._Hans_D._Jensen	
+D	I	J._Hans_D._Jensen	http://en.wikipedia.org/wiki/J._Hans_D._Jensen	
+.	I	J._Hans_D._Jensen	http://en.wikipedia.org/wiki/J._Hans_D._Jensen	
+Jensen	I	J._Hans_D._Jensen	http://en.wikipedia.org/wiki/J._Hans_D._Jensen	
+and	O			
+Eugene	B	Eugene_Wigner	http://en.wikipedia.org/wiki/Eugene_Wigner	Eugene_Wigner
+Wigner	I	Eugene_Wigner	http://en.wikipedia.org/wiki/Eugene_Wigner	Eugene_Wigner
+.	O			
+				
+After	O			
+working	O			
+as	O			
+a	O			
+assistantO				
+at	O			
+Harvard	B	Harvard	http://en.wikipedia.org/wiki/Harvard	Harvard_University
+from	O			
+1909	O			
+to	O			
+1910	O			
+,	O			
+Eliot	B	Eliot	http://en.wikipedia.org/wiki/Eliot	T._S._Eliot
+moved	O			
+to	O			
+Paris	B	Paris	http://en.wikipedia.org/wiki/Paris	Paris
+,	O			
+where	O			
+from	O			
+1910	O			
+to	O			
+1911	O			
+,	O			
+heO				
+studied	O			
+philosophy	O			
+at	O			
+the	O			
+Sorbonne	B	Sorbonne	http://en.wikipedia.org/wiki/Sorbonne	University_of_Paris
+.	O			
+Eliot	B	Eliot	http://en.wikipedia.org/wiki/Eliot	T._S._Eliot
+attended	O			
+lectures	O			
+by	O			
+Henri	B	Henri_Bergson	http://en.wikipedia.org/wiki/Henri_Bergson	Henri_Bergson
+Bergson	I	Henri_Bergson	http://en.wikipedia.org/wiki/Henri_Bergson	Henri_Bergson
+and	O			
+read	O			
+poetry	O			
+with	O			
+Alain	B	Alain-Fournier	http://en.wikipedia.org/wiki/Alain-Fournier	
+-	I	Alain-Fournier	http://en.wikipedia.org/wiki/Alain-Fournier	
+Fournier	I	Alain-Fournier	http://en.wikipedia.org/wiki/Alain-Fournier	
+.	O			
+				
+In	O			
+September	O			
+1946	O			
+,	O			
+Levi	B	Levi-Montalcini	http://en.wikipedia.org/wiki/Levi-Montalcini	
+-	I	Levi-Montalcini	http://en.wikipedia.org/wiki/Levi-Montalcini	
+Montalcini	I	Levi-Montalcini	http://en.wikipedia.org/wiki/Levi-Montalcini	Rita_Levi-Montalcini
+accepted	O			
+an	O			
+invitation	O			
+to	O			
+Washington	B	Washington_University	http://en.wikipedia.org/wiki/Washington_University	Washington_University_in_St._Louis
+University	I	Washington_University	http://en.wikipedia.org/wiki/Washington_University	Washington_University_in_St._Louis
+in	O			
+St	B	St._Louis	http://en.wikipedia.org/wiki/St._Louis	
+.	I	St._Louis	http://en.wikipedia.org/wiki/St._Louis	
+Louis	I	St._Louis	http://en.wikipedia.org/wiki/St._Louis	
+,	O			
+under	O			
+the	O			
+supervision	O			
+of	O			
+Professor	B	Professor	http://en.wikipedia.org/wiki/Professor	
+Viktor	B	Viktor_Hamburger	http://en.wikipedia.org/wiki/Viktor_Hamburger	Viktor_Hamburger
+Hamburger	I	Viktor_Hamburger	http://en.wikipedia.org/wiki/Viktor_Hamburger	Viktor_Hamburger
+.	O			
+Although	O			
+the	O			
+initial	O			
+invitation	O			
+was	O			
+for	O			
+one	O			
+semester	O			
+,	O			
+after	O			
+sheO				
+repeated	O			
+the	O			
+exciting	O			
+results	O			
+from	O			
+herO				
+home	O			
+laboratory	O			
+,	O			
+Hamburger	B	Hamburger	http://en.wikipedia.org/wiki/Hamburger	Viktor_Hamburger
+offered	O			
+herO				
+a	O			
+researchO				
+associateO				
+position	O			
+.	O			
+				
+In	O			
+1946	O			
+a	O			
+womanO				
+from	O			
+Ghana	B	Ghana	http://en.wikipedia.org/wiki/Ghana	Ghana
+working	O			
+at	O			
+RCA	B	RCA	http://en.wikipedia.org/wiki/RCA	
+sent	O			
+a	O			
+friendO				
+money	O			
+to	O			
+return	O			
+to	O			
+the	O			
+United	B	United_States	http://en.wikipedia.org/wiki/United_States	United_States
+States	I	United_States	http://en.wikipedia.org/wiki/United_States	United_States
+.	O			
+				
+In	O			
+1953	O			
+,	O			
+heO				
+moved	O			
+to	O			
+Trinity	B	Trinity_College,_Cambridge	http://en.wikipedia.org/wiki/Trinity_College,_Cambridge	Trinity_College,_Cambridge
+College	I	Trinity_College,_Cambridge	http://en.wikipedia.org/wiki/Trinity_College,_Cambridge	Trinity_College,_Cambridge
+,	I	Trinity_College,_Cambridge	http://en.wikipedia.org/wiki/Trinity_College,_Cambridge	
+Cambridge	I	Trinity_College,_Cambridge	http://en.wikipedia.org/wiki/Trinity_College,_Cambridge	Cambridge
+,	O			
+where	O			
+heO				
+earned	O			
+a	O			
+second	O			
+B	O			
+.	O			
+A	O			
+.	O			
+in	O			
+Economics	O			
+in	O			
+1955	O			
+with	O			
+a	O			
+first	O			
+class	O			
+topping	O			
+the	O			
+list	O			
+.	O			
+He	B	He	http://en.wikipedia.org/wiki/He	
+was	O			
+elected	O			
+President	B	President	http://en.wikipedia.org/wiki/President	
+of	O			
+the	O			
+Cambridge	B	Cambridge_Majlis	http://en.wikipedia.org/wiki/Cambridge_Majlis	
+Majlis	I	Cambridge_Majlis	http://en.wikipedia.org/wiki/Cambridge_Majlis	
+.	O			
+				
+Shuji	B	Shuji_Nakamura	http://en.wikipedia.org/wiki/Shuji_Nakamura	
+Nakamura	I	Shuji_Nakamura	http://en.wikipedia.org/wiki/Shuji_Nakamura	
+graduated	O			
+from	O			
+the	O			
+University	B	University_of_Tokushima	http://en.wikipedia.org/wiki/University_of_Tokushima	University_of_Tokushima
+of	I	University_of_Tokushima	http://en.wikipedia.org/wiki/University_of_Tokushima	University_of_Tokushima
+Tokushima	I	University_of_Tokushima	http://en.wikipedia.org/wiki/University_of_Tokushima	University_of_Tokushima
+in	O			
+1977	O			
+with	O			
+a	O			
+B	O			
+.	O			
+Eng	O			
+.	O			
+degree	O			
+in	O			
+electronic	O			
+engineering	O			
+,	O			
+and	O			
+obtained	O			
+an	O			
+M	O			
+.	O			
+Eng	O			
+.	O			
+degree	O			
+in	O			
+the	O			
+same	O			
+subject	O			
+two	O			
+years	O			
+later	O			
+,	O			
+after	O			
+which	O			
+heO				
+joined	O			
+the	O			
+Nichia	B	Nichia_Corporation	http://en.wikipedia.org/wiki/Nichia_Corporation	
+Corporation	I	Nichia_Corporation	http://en.wikipedia.org/wiki/Nichia_Corporation	
+,	O			
+also	O			
+based	O			
+in	O			
+Tokushima	B	Tokushima	http://en.wikipedia.org/wiki/_Tokushima	Tokushima,_Tokushima
+.	O			
+				
+One	B	One_of_the_them	http://en.wikipedia.org/wiki/One_of_the_them	
+of	I	One_of_the_them	http://en.wikipedia.org/wiki/One_of_the_them	
+the	I	One_of_the_them	http://en.wikipedia.org/wiki/One_of_the_them	
+them	I	One_of_the_them	http://en.wikipedia.org/wiki/One_of_the_them	
+was	O			
+an	O			
+eminent	O			
+scholarO				
+at	O			
+Berkeley	B	Berkeley	http://en.wikipedia.org/wiki/Berkeley	Berkeley,_California
+.	O			
+				
+Fert	B	Fert	http://en.wikipedia.org/wiki/Fert	
+graduated	O			
+in	O			
+1962	O			
+from	O			
+the	O			
+École	B	École_Normale_Supérieure	http://en.wikipedia.org/wiki/Ecole_Normale_Superieure	École_Normale_Supérieure
+Normale	I	École_Normale_Supérieure	http://en.wikipedia.org/wiki/Ecole_Normale_Superieure	École_Normale_Supérieure
+Supérieure	I	École_Normale_Supérieure	http://en.wikipedia.org/wiki/Ecole_Normale_Superieure	École_Normale_Supérieure
+in	O			
+Paris	B	Paris	http://en.wikipedia.org/wiki/Paris	Paris
+.	O			
+He	B	He	http://en.wikipedia.org/wiki/He	
+received	O			
+hisO				
+Ph	O			
+.	O			
+D	O			
+.	O			
+(	O			
+doctorat	O			
+de	O			
+troisième	O			
+cycle	O			
+)	O			
+in	O			
+1963	O			
+and	O			
+hisO				
+Sc	O			
+.	O			
+D	O			
+.	O			
+(	O			
+doctorat	O			
+des	O			
+sciences	O			
+)	O			
+,	O			
+both	O			
+from	O			
+the	O			
+Orsay	B	Orsay_Faculty_of_Sciences	http://en.wikipedia.org/wiki/Orsay_Faculty_of_Sciences	University_of_Paris-Sud
+Faculty	I	Orsay_Faculty_of_Sciences	http://en.wikipedia.org/wiki/Orsay_Faculty_of_Sciences	University_of_Paris-Sud
+of	I	Orsay_Faculty_of_Sciences	http://en.wikipedia.org/wiki/Orsay_Faculty_of_Sciences	University_of_Paris-Sud
+Sciences	I	Orsay_Faculty_of_Sciences	http://en.wikipedia.org/wiki/Orsay_Faculty_of_Sciences	University_of_Paris-Sud
+of	O			
+the	O			
+University	B	University_of_Paris	http://en.wikipedia.org/wiki/University_of_Paris	University_of_Paris
+of	I	University_of_Paris	http://en.wikipedia.org/wiki/University_of_Paris	University_of_Paris
+Paris	I	University_of_Paris	http://en.wikipedia.org/wiki/University_of_Paris	University_of_Paris
+.	O			
+				
+During	O			
+hisO				
+lifetime	O			
+,	O			
+Neruda	B	Neruda	http://en.wikipedia.org/wiki/Neruda	Pablo_Neruda
+occupied	O			
+many	O			
+diplomaticO				
+positionsO				
+and	O			
+served	O			
+a	O			
+term	O			
+as	O			
+a	O			
+Senator	B	Senator	http://en.wikipedia.org/wiki/Senator	
+for	O			
+the	O			
+Chilean	B	Chilean_Communist_Party	http://en.wikipedia.org/wiki/Chilean_Communist_Party	Communist_Party_of_Chile
+Communist	I	Chilean_Communist_Party	http://en.wikipedia.org/wiki/Chilean_Communist_Party	Communist_Party_of_Chile
+Party	I	Chilean_Communist_Party	http://en.wikipedia.org/wiki/Chilean_Communist_Party	Communist_Party_of_Chile
+.	O			
+When	O			
+President	B	President	http://en.wikipedia.org/wiki/President	
+González	B	González_Videla	http://en.wikipedia.org/wiki/Gonzalez_Videla	Gabriel_González_Videla
+Videla	I	González_Videla	http://en.wikipedia.org/wiki/Gonzalez_Videla	Gabriel_González_Videla
+outlawed	O			
+communism	O			
+in	O			
+Chile	B	Chile	http://en.wikipedia.org/wiki/Chile	Chile
+in	O			
+1948	O			
+,	O			
+a	O			
+warrant	O			
+was	O			
+issued	O			
+for	O			
+Neruda	B	Neruda	http://en.wikipedia.org/wiki/Neruda	Pablo_Neruda
+'	O			
+s	O			
+arrest	O			
+.	O			
+Friends	O			
+hide	O			
+himO				
+for	O			
+months	O			
+in	O			
+the	O			
+basement	O			
+of	O			
+a	O			
+houseO				
+in	O			
+the	O			
+port	O			
+city	O			
+of	O			
+Valparaíso	B	Valparaíso	http://en.wikipedia.org/wiki/Valparaiso	Valparaíso
+.	O			
+Later	O			
+,	O			
+Neruda	B	Neruda	http://en.wikipedia.org/wiki/Neruda	Pablo_Neruda
+escaped	O			
+through	O			
+a	O			
+mountainO				
+passO				
+near	O			
+Maihue	B	Maihue_Lake	http://en.wikipedia.org/wiki/Maihue_Lake	Maihue_Lake
+Lake	I	Maihue_Lake	http://en.wikipedia.org/wiki/Maihue_Lake	Maihue_Lake
+into	O			
+Argentina	B	Argentina	http://en.wikipedia.org/wiki/Argentina	Argentina
+.	O			
+				
+Nelson	B	Nelson_Mandela	http://en.wikipedia.org/wiki/Nelson_Mandela	Nelson_Mandela
+Mandela	I	Nelson_Mandela	http://en.wikipedia.org/wiki/Nelson_Mandela	Nelson_Mandela
+publicly	O			
+launched	O			
+Umkhonto	B	Umkhonto_we_Sizwe	http://en.wikipedia.org/wiki/Umkhonto_we_Sizwe	Umkhonto_we_Sizwe
+we	I	Umkhonto_we_Sizwe	http://en.wikipedia.org/wiki/Umkhonto_we_Sizwe	Umkhonto_we_Sizwe
+Sizwe	I	Umkhonto_we_Sizwe	http://en.wikipedia.org/wiki/Umkhonto_we_Sizwe	Umkhonto_we_Sizwe
+at	O			
+the	O			
+All	O			
+In	O			
+Conference	O			
+,	O			
+where	O			
+delegates	O			
+from	O			
+several	O			
+movements	O			
+had	O			
+convened	O			
+to	O			
+discuss	O			
+cooperation	O			
+.	O			
+				
+Munro	B	Munro	http://en.wikipedia.org/wiki/Munro	
+began	O			
+writing	O			
+as	O			
+a	O			
+teenager	O			
+,	O			
+publishing	O			
+herO				
+first	O			
+story	O			
+,	O			
+"	O			
+The	O			
+Dimensions	O			
+of	O			
+a	O			
+Shadow	O			
+"	O			
+,	O			
+in	O			
+1950	O			
+while	O			
+studying	O			
+English	O			England
+and	O			
+journalism	O			
+at	O			
+the	O			
+University	B	University_of_Western_Ontario	http://en.wikipedia.org/wiki/University_of_Western_Ontario	University_of_Western_Ontario
+of	I	University_of_Western_Ontario	http://en.wikipedia.org/wiki/University_of_Western_Ontario	University_of_Western_Ontario
+Western	I	University_of_Western_Ontario	http://en.wikipedia.org/wiki/University_of_Western_Ontario	University_of_Western_Ontario
+Ontario	I	University_of_Western_Ontario	http://en.wikipedia.org/wiki/University_of_Western_Ontario	University_of_Western_Ontario
+.	O			
+				
+In	O			
+1944	O			
+Lutuli	B	Lutuli	http://en.wikipedia.org/wiki/Lutuli	Albert_Lutuli
+joined	O			
+the	O			
+African	B	African_National_Congress	http://en.wikipedia.org/wiki/African_National_Congress	African_National_Congress
+National	I	African_National_Congress	http://en.wikipedia.org/wiki/African_National_Congress	African_National_Congress
+Congress	I	African_National_Congress	http://en.wikipedia.org/wiki/African_National_Congress	African_National_Congress
+.	O			
+In	O			
+1945	O			
+heO				
+was	O			
+elected	O			
+to	O			
+the	O			
+Committee	O			
+of	O			
+the	O			
+KwaZulu	B	KwaZulu_Provincial_Division	http://en.wikipedia.org/wiki/KwaZulu_Provincial_Division	
+Provincial	I	KwaZulu_Provincial_Division	http://en.wikipedia.org/wiki/KwaZulu_Provincial_Division	
+Division	I	KwaZulu_Provincial_Division	http://en.wikipedia.org/wiki/KwaZulu_Provincial_Division	
+of	O			
+the	O			
+African	B	African_National_Congress	http://en.wikipedia.org/wiki/African_National_Congress	African_National_Congress
+National	I	African_National_Congress	http://en.wikipedia.org/wiki/African_National_Congress	African_National_Congress
+Congress	I	African_National_Congress	http://en.wikipedia.org/wiki/African_National_Congress	African_National_Congress
+and	O			
+in	O			
+1951	O			
+to	O			
+the	O			
+presidency	O			
+of	O			
+the	O			
+Division	B	Division	http://en.wikipedia.org/wiki/Division	
+.	O			
+				
+The	O			
+manO				
+served	O			
+on	O			
+various	O			
+committees	O			
+and	O			
+spent	O			
+time	O			
+at	O			
+the	O			
+Royal	B	Royal_Aircraft_Establishment	http://en.wikipedia.org/wiki/Royal_Aircraft_Establishment	Royal_Aircraft_Establishment
+Aircraft	I	Royal_Aircraft_Establishment	http://en.wikipedia.org/wiki/Royal_Aircraft_Establishment	Royal_Aircraft_Establishment
+Establishment	I	Royal_Aircraft_Establishment	http://en.wikipedia.org/wiki/Royal_Aircraft_Establishment	Royal_Aircraft_Establishment
+in	O			
+Farnborough	B	Farnborough	http://en.wikipedia.org/wiki/_Hampshire	Farnborough,_Hampshire
+,	O			
+where	O			
+heO				
+made	O			
+a	O			
+major	O			
+contribution	O			
+to	O			
+the	O			
+design	O			
+of	O			
+the	O			
+Mark	O			
+XIV	O			
+bomb	O			
+sight	O			
+which	O			
+allowed	O			
+bombs	O			
+to	O			
+be	O			
+released	O			
+without	O			
+a	O			
+level	O			
+bombing	O			
+run	O			
+beforehand	O			
+.	O			
+				
+William	B	William_Golding	http://en.wikipedia.org/wiki/William_Golding	William_Golding
+Golding	I	William_Golding	http://en.wikipedia.org/wiki/William_Golding	William_Golding
+was	O			
+appointed	O			
+Knight	B	Knight_Bachelor	http://en.wikipedia.org/wiki/Knight_Bachelor	Knight_Bachelor
+Bachelor	I	Knight_Bachelor	http://en.wikipedia.org/wiki/Knight_Bachelor	Knight_Bachelor
+by	O			
+the	O			
+Queen	B	Queen	http://en.wikipedia.org/wiki/Queen	
+Elizabeth	B	Elizabeth_II	http://en.wikipedia.org/wiki/Elizabeth_II	Elizabeth_II
+II	I	Elizabeth_II	http://en.wikipedia.org/wiki/Elizabeth_II	Elizabeth_II
+in	O			
+1988	O			
+.	O			
+				
+Michael	B	Michael	http://en.wikipedia.org/wiki/Michael	
+was	O			
+born	O			
+April	O			
+26	O			
+,	O			
+1932	O			
+,	O			
+in	O			
+Blackpool	B	Blackpool,_Lancashire,_England	http://en.wikipedia.org/wiki/Blackpool,_Lancashire,_England	Blackpool
+,	I	Blackpool,_Lancashire,_England	http://en.wikipedia.org/wiki/Blackpool,_Lancashire,_England	
+Lancashire	I	Blackpool,_Lancashire,_England	http://en.wikipedia.org/wiki/Blackpool,_Lancashire,_England	Lancashire
+,	I	Blackpool,_Lancashire,_England	http://en.wikipedia.org/wiki/Blackpool,_Lancashire,_England	
+England	I	Blackpool,_Lancashire,_England	http://en.wikipedia.org/wiki/Blackpool,_Lancashire,_England	England
+.	O			
+He	B	He	http://en.wikipedia.org/wiki/He	
+immigrated	O			
+to	O			
+Canada	B	Canada	http://en.wikipedia.org/wiki/Canada	Canada
+in	O			
+1956	O			
+and	O			
+became	O			
+a	O			
+Canadian	B	Canadian	http://en.wikipedia.org/wiki/Canadian	Canada
+citizenO				
+in	O			
+1963	O			
+.	O			
+Michael	B	Michael	http://en.wikipedia.org/wiki/Michael	
+married	O			
+Helen	B	Helen_Wood_Christie	http://en.wikipedia.org/wiki/Helen_Wood_Christie	
+Wood	I	Helen_Wood_Christie	http://en.wikipedia.org/wiki/Helen_Wood_Christie	
+Christie	I	Helen_Wood_Christie	http://en.wikipedia.org/wiki/Helen_Wood_Christie	
+on	O			
+August	O			
+6	O			
+,	O			
+1960	O			
+,	O			
+on	O			
+Vancouver	B	Vancouver_Island	http://en.wikipedia.org/wiki/Vancouver_Island	Vancouver_Island
+Island	I	Vancouver_Island	http://en.wikipedia.org/wiki/Vancouver_Island	Vancouver_Island
+.	O			
+				
+Goeppert	B	Goeppert_Mayer	http://en.wikipedia.org/wiki/Goeppert_Mayer	
+Mayer	I	Goeppert_Mayer	http://en.wikipedia.org/wiki/Goeppert_Mayer	
+married	O			
+Joseph	B	Joseph_Edward_Mayer	http://en.wikipedia.org/wiki/Joseph_Edward_Mayer	Joseph_Edward_Mayer
+Edward	I	Joseph_Edward_Mayer	http://en.wikipedia.org/wiki/Joseph_Edward_Mayer	Joseph_Edward_Mayer
+Mayer	I	Joseph_Edward_Mayer	http://en.wikipedia.org/wiki/Joseph_Edward_Mayer	Joseph_Edward_Mayer
+,	O			
+and	O			
+moved	O			
+to	O			
+the	O			
+United	B	United_States	http://en.wikipedia.org/wiki/United_States	United_States
+States	I	United_States	http://en.wikipedia.org/wiki/United_States	United_States
+,	O			
+where	O			
+Goeppert	B	Goeppert_Mayer	http://en.wikipedia.org/wiki/Goeppert_Mayer	
+Mayer	I	Goeppert_Mayer	http://en.wikipedia.org/wiki/Goeppert_Mayer	
+was	O			
+an	O			
+associateO				
+professorO				
+at	O			
+Johns	B	Johns_Hopkins_University	http://en.wikipedia.org/wiki/Johns_Hopkins_University	Johns_Hopkins_University
+Hopkins	I	Johns_Hopkins_University	http://en.wikipedia.org/wiki/Johns_Hopkins_University	Johns_Hopkins_University
+University	I	Johns_Hopkins_University	http://en.wikipedia.org/wiki/Johns_Hopkins_University	Johns_Hopkins_University
+.	O			
+				
+Mario	B	Mario_Capecchi	http://en.wikipedia.org/wiki/Mario_Capecchi	Mario_Capecchi
+Capecchi	I	Mario_Capecchi	http://en.wikipedia.org/wiki/Mario_Capecchi	Mario_Capecchi
+was	O			
+a	O			
+Fellow	B	Fellow	http://en.wikipedia.org/wiki/Fellow	
+of	O			
+the	O			
+Society	B	Society_of_Fellows	http://en.wikipedia.org/wiki/Harvard_Society_of_Fellows	Harvard_Society_of_Fellows
+of	I	Society_of_Fellows	http://en.wikipedia.org/wiki/Harvard_Society_of_Fellows	Harvard_Society_of_Fellows
+Fellows	I	Society_of_Fellows	http://en.wikipedia.org/wiki/Harvard_Society_of_Fellows	Harvard_Society_of_Fellows
+at	O			
+Harvard	B	Harvard_University	http://en.wikipedia.org/wiki/Harvard_University	Harvard_University
+University	I	Harvard_University	http://en.wikipedia.org/wiki/Harvard_University	Harvard_University
+from	O			
+1967	O			
+to	O			
+1969	O			
+.	O			
+In	O			
+1973	O			
+Capecchi	B	Capecchi	http://en.wikipedia.org/wiki/Mario_Capecchi	Mario_Capecchi
+joined	O			
+the	O			
+facultyO				
+at	O			
+the	O			
+University	B	University_of_Utah	http://en.wikipedia.org/wiki/University_of_Utah	University_of_Utah
+of	I	University_of_Utah	http://en.wikipedia.org/wiki/University_of_Utah	University_of_Utah
+Utah	I	University_of_Utah	http://en.wikipedia.org/wiki/University_of_Utah	University_of_Utah
+.	O			
+				
+From	O			
+1936	O			
+to	O			
+1938	O			
+heO				
+moved	O			
+as	O			
+a	O			
+fullO				
+professorO				
+and	O			
+directorO				
+of	O			
+the	O			
+Institute	B	Institute_of_Industrial_Chemistry	http://en.wikipedia.org/wiki/Institute_of_Industrial_Chemistry	
+of	I	Institute_of_Industrial_Chemistry	http://en.wikipedia.org/wiki/Institute_of_Industrial_Chemistry	
+Industrial	I	Institute_of_Industrial_Chemistry	http://en.wikipedia.org/wiki/Institute_of_Industrial_Chemistry	
+Chemistry	I	Institute_of_Industrial_Chemistry	http://en.wikipedia.org/wiki/Institute_of_Industrial_Chemistry	
+at	O			
+the	O			
+Polytechnic	B	Polytechnic_Institute_of_Turin	http://en.wikipedia.org/wiki/Polytechnic_Institute_of_Turin	
+Institute	I	Polytechnic_Institute_of_Turin	http://en.wikipedia.org/wiki/Polytechnic_Institute_of_Turin	
+of	I	Polytechnic_Institute_of_Turin	http://en.wikipedia.org/wiki/Polytechnic_Institute_of_Turin	
+Turin	I	Polytechnic_Institute_of_Turin	http://en.wikipedia.org/wiki/Polytechnic_Institute_of_Turin	
+.	O			
+				
+Eliot	B	Eliot	http://en.wikipedia.org/wiki/Eliot	
+attended	O			
+Milton	B	Milton_Academy	http://en.wikipedia.org/wiki/Milton_Academy	Milton_Academy
+Academy	I	Milton_Academy	http://en.wikipedia.org/wiki/Milton_Academy	Milton_Academy
+in	O			
+Massachusetts	B	Massachusetts	http://en.wikipedia.org/wiki/Massachusetts	Massachusetts
+for	O			
+a	O			
+preparatory	O			
+year	O			
+,	O			
+where	O			
+heO				
+met	O			
+Scofield	B	Scofield_Thayer	http://en.wikipedia.org/wiki/Scofield_Thayer	Scofield_Thayer
+Thayer	I	Scofield_Thayer	http://en.wikipedia.org/wiki/Scofield_Thayer	Scofield_Thayer
+.	O			
+				
+During	O			
+the	O			
+early	O			
+2007	O			
+selection	O			
+process	O			
+for	O			
+the	O			
+Kadima	B	Kadima	http://en.wikipedia.org/wiki/Kadima	Kadima
+candidate	O			
+for	O			
+President	B	President	http://en.wikipedia.org/wiki/President	
+,	O			
+Prime	B	Prime_Minister	http://en.wikipedia.org/wiki/Prime_minister	
+Minister	I	Prime_Minister	http://en.wikipedia.org/wiki/Prime_minister	
+Ehud	B	Ehud_Olmert	http://en.wikipedia.org/wiki/Ehud_Olmert	Ehud_Olmert
+Olmert	I	Ehud_Olmert	http://en.wikipedia.org/wiki/Ehud_Olmert	Ehud_Olmert
+reportedly	O			
+offered	O			
+Wiesel	B	Wiesel	http://en.wikipedia.org/wiki/Wiesel	Elie_Wiesel
+the	O			
+nomination	O			
+,	O			
+but	O			
+Wiesel	B	Wiesel	http://en.wikipedia.org/wiki/Wiesel	Elie_Wiesel
+was	O			
+not	O			
+very	O			
+interested	O			
+.	O			
+				
+Nicolaas	B	Nicolaas_Bloembergen	http://en.wikipedia.org/wiki/Nicolaas_Bloembergen	Nicolaas_Bloembergen
+Bloembergen	I	Nicolaas_Bloembergen	http://en.wikipedia.org/wiki/Nicolaas_Bloembergen	Nicolaas_Bloembergen
+received	O			
+hisO				
+Ph	O			
+.	O			
+D	O			
+.	O			
+degree	O			
+from	O			
+University	B	University_of_Leiden	http://en.wikipedia.org/wiki/University_of_Leiden	Leiden_University
+of	I	University_of_Leiden	http://en.wikipedia.org/wiki/University_of_Leiden	Leiden_University
+Leiden	I	University_of_Leiden	http://en.wikipedia.org/wiki/University_of_Leiden	Leiden_University
+under	O			
+Cor	B	Cor_Gorter	http://en.wikipedia.org/wiki/Cor_Gorter	Cornelis_Jacobus_Gorter
+Gorter	I	Cor_Gorter	http://en.wikipedia.org/wiki/Cor_Gorter	Cornelis_Jacobus_Gorter
+in	O			
+1948	O			
+;	O			
+while	O			
+pursuing	O			
+hisO				
+PhD	O			Doctor_of_Philosophy
+at	O			
+Harvard	B	Harvard	http://en.wikipedia.org/wiki/Harvard	Harvard_University
+,	O			
+Nicolaas	B	Nicolaas_Bloembergen	http://en.wikipedia.org/wiki/Nicolaas_Bloembergen	Nicolaas_Bloembergen
+Bloembergen	I	Nicolaas_Bloembergen	http://en.wikipedia.org/wiki/Nicolaas_Bloembergen	Nicolaas_Bloembergen
+also	O			
+worked	O			
+part	O			
+-	O			
+time	O			
+as	O			
+a	O			
+graduate	O			
+researchO				
+assistantO				
+for	O			
+Edward	B	Edward_Mills_Purcell	http://en.wikipedia.org/wiki/Edward_Mills_Purcell	Edward_Mills_Purcell
+Mills	I	Edward_Mills_Purcell	http://en.wikipedia.org/wiki/Edward_Mills_Purcell	Edward_Mills_Purcell
+Purcell	I	Edward_Mills_Purcell	http://en.wikipedia.org/wiki/Edward_Mills_Purcell	Edward_Mills_Purcell
+at	O			
+the	O			
+MIT	B	MIT_Radiation_Laboratory	http://en.wikipedia.org/wiki/MIT_Radiation_Laboratory	
+Radiation	I	MIT_Radiation_Laboratory	http://en.wikipedia.org/wiki/MIT_Radiation_Laboratory	
+Laboratory	I	MIT_Radiation_Laboratory	http://en.wikipedia.org/wiki/MIT_Radiation_Laboratory	
+.	O			
+				
+Hulse	B	Hulse	http://en.wikipedia.org/wiki/Hulse	
+was	O			
+born	O			
+in	O			
+New	B	New_York_City	http://en.wikipedia.org/wiki/New_York_City	New_York_City
+York	I	New_York_City	http://en.wikipedia.org/wiki/New_York_City	New_York_City
+City	I	New_York_City	http://en.wikipedia.org/wiki/New_York_City	New_York_City
+and	O			
+attended	O			
+Bronx	B	Bronx_High_School_of_Science	http://en.wikipedia.org/wiki/Bronx_High_School_of_Science	The_Bronx_High_School_of_Science
+High	I	Bronx_High_School_of_Science	http://en.wikipedia.org/wiki/Bronx_High_School_of_Science	The_Bronx_High_School_of_Science
+School	I	Bronx_High_School_of_Science	http://en.wikipedia.org/wiki/Bronx_High_School_of_Science	The_Bronx_High_School_of_Science
+of	I	Bronx_High_School_of_Science	http://en.wikipedia.org/wiki/Bronx_High_School_of_Science	The_Bronx_High_School_of_Science
+Science	I	Bronx_High_School_of_Science	http://en.wikipedia.org/wiki/Bronx_High_School_of_Science	The_Bronx_High_School_of_Science
+and	O			
+the	O			
+Cooper	B	Cooper_Union	http://en.wikipedia.org/wiki/Cooper_Union	Cooper_Union
+Union	I	Cooper_Union	http://en.wikipedia.org/wiki/Cooper_Union	Cooper_Union
+before	O			
+moving	O			
+to	O			
+University	B	University_of_Massachusetts_Amherst	http://en.wikipedia.org/wiki/University_of_Massachusetts_Amherst	University_of_Massachusetts_Amherst
+of	I	University_of_Massachusetts_Amherst	http://en.wikipedia.org/wiki/University_of_Massachusetts_Amherst	University_of_Massachusetts_Amherst
+Massachusetts	I	University_of_Massachusetts_Amherst	http://en.wikipedia.org/wiki/University_of_Massachusetts_Amherst	University_of_Massachusetts_Amherst
+Amherst	I	University_of_Massachusetts_Amherst	http://en.wikipedia.org/wiki/University_of_Massachusetts_Amherst	University_of_Massachusetts_Amherst
+.	O			
+				
+William	B	William_Golding	http://en.wikipedia.org/wiki/William_Golding	William_Golding
+Golding	I	William_Golding	http://en.wikipedia.org/wiki/William_Golding	William_Golding
+was	O			
+born	O			
+in	O			
+Newquay	B	Newquay	http://en.wikipedia.org/wiki/Newquay	Newquay
+,	O			
+Cornwall	B	Cornwall	http://en.wikipedia.org/wiki/Cornwall	Cornwall
+where	O			
+heO				
+spent	O			
+many	O			
+childhood	O			
+holidays	O			
+.	O			
+He	B	He	http://en.wikipedia.org/wiki/He	
+grew	O			
+up	O			
+in	O			
+Marlborough	B	Marlborough	http://en.wikipedia.org/wiki/_Wiltshire	Marlborough,_Massachusetts
+,	O			
+Wiltshire	B	Wiltshire	http://en.wikipedia.org/wiki/Wiltshire	Wiltshire
+,	O			
+where	O			
+hisO				
+fatherO				
+was	O			
+a	O			
+scienceO				
+masterO				
+at	O			
+Marlborough	B	Marlborough_Grammar_School	http://en.wikipedia.org/wiki/Marlborough_Grammar_School	
+Grammar	I	Marlborough_Grammar_School	http://en.wikipedia.org/wiki/Marlborough_Grammar_School	
+School	I	Marlborough_Grammar_School	http://en.wikipedia.org/wiki/Marlborough_Grammar_School	
+.	O			
+				
+Giulio	B	Giulio_Natta	http://en.wikipedia.org/wiki/Giulio_Natta	Giulio_Natta
+Natta	I	Giulio_Natta	http://en.wikipedia.org/wiki/Giulio_Natta	Giulio_Natta
+was	O			
+born	O			
+in	O			
+Imperia	B	Imperia	http://en.wikipedia.org/wiki/Imperia	Imperia
+,	O			
+Italy	B	Italy	http://en.wikipedia.org/wiki/Italy	Italy
+.	O			
+He	B	He	http://en.wikipedia.org/wiki/He	
+earned	O			
+hisO				
+degree	O			
+in	O			
+chemical	O			
+engineering	O			
+from	O			
+the	O			
+Politecnico	B	Politecnico_di_Milano	http://en.wikipedia.org/wiki/Politecnico_di_Milano	Polytechnic_University_of_Milan
+di	I	Politecnico_di_Milano	http://en.wikipedia.org/wiki/Politecnico_di_Milano	Polytechnic_University_of_Milan
+Milano	I	Politecnico_di_Milano	http://en.wikipedia.org/wiki/Politecnico_di_Milano	Polytechnic_University_of_Milan
+university	O			
+in	O			
+Milan	B	Milan	http://en.wikipedia.org/wiki/Milan	Milan
+in	O			
+1924	O			
+.	O			
+Natta	B	Natta	http://en.wikipedia.org/wiki/Natta	Giulio_Natta
+won	O			
+a	O			
+Nobel	O			Nobel_Prize
+Prize	O			Nobel_Prize
+in	O			
+Chemistry	O			
+in	O			
+1963	O			
+with	O			
+Karl	B	Karl_Ziegler	http://en.wikipedia.org/wiki/Karl_Ziegler	Karl_Ziegler
+Ziegler	I	Karl_Ziegler	http://en.wikipedia.org/wiki/Karl_Ziegler	Karl_Ziegler
+for	O			
+work	O			
+on	O			
+high	O			
+polymers	O			
+.	O			
+				
+In	O			
+recent	O			
+years	O			
+Elizabeth	B	Elizabeth_Blackburn	http://en.wikipedia.org/wiki/Elizabeth_Blackburn	Elizabeth_Blackburn
+Blackburn	I	Elizabeth_Blackburn	http://en.wikipedia.org/wiki/Elizabeth_Blackburn	Elizabeth_Blackburn
+and	O			
+herO				
+colleagues	O			
+have	O			
+been	O			
+investigating	O			
+the	O			
+effect	O			
+of	O			
+stress	O			
+on	O			
+telomerase	O			
+and	O			
+telomeres	O			
+with	O			
+particular	O			
+emphasis	O			
+on	O			
+mindfulness	O			
+meditation	O			
+.	O			
+She	B	She	http://en.wikipedia.org/wiki/She	
+appeared	O			
+in	O			
+the	O			
+1995	O			
+science	O			
+documentary	O			
+Death	O			
+by	O			
+Design	O			
+/	O			
+The	O			
+Life	O			
+and	O			
+Times	O			
+of	O			
+Life	O			
+and	O			
+Times	O			
+in	O			
+the	O			
+US	B	US	http://en.wikipedia.org/wiki/US	
+.	O			
+				
+In	O			
+June	O			
+1968	O			
+,	O			
+when	O			
+Quasimodo	B	Quasimodo	http://en.wikipedia.org/wiki/Quasimodo	
+was	O			
+in	O			
+Amalfi	B	Amalfi	http://en.wikipedia.org/wiki/Amalfi	Amalfi
+for	O			
+a	O			
+discourse	O			
+and	O			
+heO				
+was	O			
+struck	O			
+by	O			
+a	O			
+cerebral	O			
+hemorrhage	O			
+.	O			
+The	O			
+poetO				
+died	O			
+a	O			
+few	O			
+days	O			
+later	O			
+in	O			
+the	O			
+hospitalO				
+in	O			
+Naples	B	Naples	http://en.wikipedia.org/wiki/Naples	Naples
+.	O			
+				
+After	O			
+the	O			
+war	O			
+Frank	B	Frank	http://en.wikipedia.org/wiki/Frank	
+returned	O			
+to	O			
+the	O			
+University	B	University_of_Bologna	http://en.wikipedia.org/wiki/University_of_Bologna	
+of	I	University_of_Bologna	http://en.wikipedia.org/wiki/University_of_Bologna	
+Bologna	I	University_of_Bologna	http://en.wikipedia.org/wiki/University_of_Bologna	
+,	O			
+also	O			
+taking	O			
+up	O			
+architectural	O			
+studies	O			
+at	O			
+the	O			
+local	O			
+facultyO				
+ofO				
+engineeringO				
+.	O			
+				
+After	O			
+graduating	O			
+in	O			
+1936	O			
+,	O			
+sheO				
+went	O			
+to	O			
+work	O			
+as	O			
+Giuseppe	B	Giuseppe_Levi	http://en.wikipedia.org/wiki/Giuseppe_Levi	Giuseppe_Levi
+Levi	I	Giuseppe_Levi	http://en.wikipedia.org/wiki/Giuseppe_Levi	Giuseppe_Levi
+'	O			
+s	O			
+assistantO				
+,	O			
+but	O			
+herO				
+academic	O			
+career	O			
+was	O			
+cut	O			
+short	O			
+by	O			
+Benito	B	Benito_Mussolini	http://en.wikipedia.org/wiki/Benito_Mussolini	Benito_Mussolini
+Mussolini	I	Benito_Mussolini	http://en.wikipedia.org/wiki/Benito_Mussolini	Benito_Mussolini
+.	O			
+				
+In	O			
+1940	O			
+,	O			
+Romania	B	Romania	http://en.wikipedia.org/wiki/Romania	Romania
+lost	O			
+the	O			
+town	O			
+of	O			
+Sighet	B	Sighet	http://en.wikipedia.org/wiki/Sighet	Sighetu_Marmației
+to	O			
+Hungary	B	Hungary	http://en.wikipedia.org/wiki/Hungary	Hungary
+following	O			
+the	O			
+Second	O			Second_Vienna_Award
+Vienna	O			Second_Vienna_Award
+Award	O			Second_Vienna_Award
+.	O			
+In	O			
+1944	O			
+,	O			
+Wiesel	B	Wiesel	http://en.wikipedia.org/wiki/Wiesel	
+,	O			
+hisO				
+familyO				
+,	O			
+and	O			
+the	O			
+rest	O			
+of	O			
+the	O			
+town	O			
+were	O			
+placed	O			
+in	O			
+one	O			
+of	O			
+the	O			
+two	O			
+ghettosO				
+in	O			
+Sighet	B	Sighet	http://en.wikipedia.org/wiki/Sighet	Sighetu_Marmației
+.	O			
+Wiesel	B	Wiesel	http://en.wikipedia.org/wiki/Wiesel	Elie_Wiesel
+and	O			
+hisO				
+familyO				
+lived	O			
+in	O			
+the	O			
+larger	O			
+of	O			
+the	O			
+two	O			
+,	O			
+on	O			
+Serpent	B	Serpent_Street	http://en.wikipedia.org/wiki/Serpent_Street	
+Street	I	Serpent_Street	http://en.wikipedia.org/wiki/Serpent_Street	
+.	O			
+				
+In	O			
+1966	O			
+,	O			
+Albert	B	Albert_Lutuli	http://en.wikipedia.org/wiki/Albert_Lutuli	Albert_Lutuli
+Lutuli	I	Albert_Lutuli	http://en.wikipedia.org/wiki/Albert_Lutuli	Albert_Lutuli
+was	O			
+visited	O			
+by	O			
+United	B	United_States	http://en.wikipedia.org/wiki/United_States	United_States
+States	I	United_States	http://en.wikipedia.org/wiki/United_States	United_States
+Senator	B	Senator	http://en.wikipedia.org/wiki/Senator	
+Robert	B	Robert_F._Kennedy	http://en.wikipedia.org/wiki/Robert_F._Kennedy	
+F	I	Robert_F._Kennedy	http://en.wikipedia.org/wiki/Robert_F._Kennedy	
+.	I	Robert_F._Kennedy	http://en.wikipedia.org/wiki/Robert_F._Kennedy	
+Kennedy	I	Robert_F._Kennedy	http://en.wikipedia.org/wiki/Robert_F._Kennedy	John_F._Kennedy
+,	O			
+who	O			
+was	O			
+visiting	O			
+South	B	South_Africa	http://en.wikipedia.org/wiki/South_Africa	South_Africa
+Africa	I	South_Africa	http://en.wikipedia.org/wiki/South_Africa	South_Africa
+at	O			
+the	O			
+time	O			
+.	O			
+				
+During	O			
+World	O			World_War_II
+War	O			World_War_II
+II	O			World_War_II
+,	O			
+Imre	B	Imre	http://en.wikipedia.org/wiki/Imre	
+was	O			
+deported	O			
+at	O			
+the	O			
+age	O			
+of	O			
+14	O			
+with	O			
+other	O			
+Hungarian	B	Hungarian_Jews	http://en.wikipedia.org/wiki/Hungarian_Jews	Hungary
+Jews	I	Hungarian_Jews	http://en.wikipedia.org/wiki/Hungarian_Jews	Jews
+to	O			
+the	O			
+Auschwitz	B	Auschwitz_concentration_camp	http://en.wikipedia.org/wiki/Auschwitz_concentration_camp	Auschwitz_concentration_camp
+concentration	I	Auschwitz_concentration_camp	http://en.wikipedia.org/wiki/Auschwitz_concentration_camp	
+camp	I	Auschwitz_concentration_camp	http://en.wikipedia.org/wiki/Auschwitz_concentration_camp	
+,	O			
+and	O			
+was	O			
+later	O			
+sent	O			
+to	O			
+Buchenwald	B	Buchenwald	http://en.wikipedia.org/wiki/Buchenwald_concentration_camp	Buchenwald_concentration_camp
+.	O			
+				
+A	O			
+frenchO				
+was	O			
+born	O			
+in	O			
+Paris	B	Paris	http://en.wikipedia.org/wiki/Paris	Paris
+,	O			
+France	B	France	http://en.wikipedia.org/wiki/France	France
+,	O			
+and	O			
+was	O			
+home	O			
+-	O			
+schooled	O			
+to	O			
+the	O			
+age	O			
+of	O			
+12	O			
+.	O			
+				
+Martin	B	Martin_Luther_King	http://en.wikipedia.org/wiki/_Jr.	Martin_Luther_King,_Jr.
+Luther	I	Martin_Luther_King	http://en.wikipedia.org/wiki/_Jr.	Martin_Luther_King,_Jr.
+King	I	Martin_Luther_King	http://en.wikipedia.org/wiki/_Jr.	Martin_Luther_King,_Jr.
+then	O			
+began	O			
+doctoral	O			
+studies	O			
+in	O			
+systematic	O			
+theology	O			
+at	O			
+Boston	B	Boston_University	http://en.wikipedia.org/wiki/Boston_University	Boston_University
+University	I	Boston_University	http://en.wikipedia.org/wiki/Boston_University	Boston_University
+and	O			
+received	O			
+hisO				
+Ph	O			
+.	O			
+D	O			
+.	O			
+degree	O			
+on	O			
+June	O			
+5	O			
+,	O			
+1955	O			
+,	O			
+with	O			
+a	O			
+dissertation	O			
+on	O			
+"	O			
+A	O			
+Comparison	O			
+of	O			
+the	O			
+Conceptions	O			
+of	O			
+God	B	God	http://en.wikipedia.org/wiki/God	
+in	O			
+the	O			
+Thinking	O			
+of	O			
+Paul	B	Paul_Tillich	http://en.wikipedia.org/wiki/Paul_Tillich	Paul_Tillich
+Tillich	I	Paul_Tillich	http://en.wikipedia.org/wiki/Paul_Tillich	Paul_Tillich
+and	O			
+Henry	B	Henry_Nelson_Wieman	http://en.wikipedia.org/wiki/Henry_Nelson_Wieman	Henry_Nelson_Wieman
+Nelson	I	Henry_Nelson_Wieman	http://en.wikipedia.org/wiki/Henry_Nelson_Wieman	Henry_Nelson_Wieman
+Wieman	I	Henry_Nelson_Wieman	http://en.wikipedia.org/wiki/Henry_Nelson_Wieman	Henry_Nelson_Wieman
+"	O			
+.	O			
+				
+Neher	B	Neher	http://en.wikipedia.org/wiki/Neher	
+and	O			
+Sakmann	B	Sakmann	http://en.wikipedia.org/wiki/Sakmann	
+were	O			
+the	O			
+first	O			
+to	O			
+record	O			
+the	O			
+currents	O			
+of	O			
+single	O			
+ion	O			
+channels	O			
+on	O			
+a	O			
+live	O			
+cell	O			
+through	O			
+their	O			
+development	O			
+of	O			
+the	O			
+patch	O			
+-	O			
+clamp	O			
+technique	O			
+.	O			
+				
+The	O			
+girlO				
+was	O			
+born	O			
+on	O			
+18	O			
+July	O			
+1918	O			
+in	O			
+the	O			
+village	O			
+of	O			
+Mvezo	B	Mvezo	http://en.wikipedia.org/wiki/Mvezo	Mvezo
+in	O			
+Umtata	B	Umtata	http://en.wikipedia.org/wiki/Umtata	Mthatha
+,	O			
+then	O			
+a	O			
+part	O			
+of	O			
+South	B	South_Africa's_Cape_Province	http://en.wikipedia.org/wiki/South_Africa's_Cape_Province	South_Africa
+Africa	I	South_Africa's_Cape_Province	http://en.wikipedia.org/wiki/South_Africa's_Cape_Province	South_Africa
+'	I	South_Africa's_Cape_Province	http://en.wikipedia.org/wiki/South_Africa's_Cape_Province	
+s	I	South_Africa's_Cape_Province	http://en.wikipedia.org/wiki/South_Africa's_Cape_Province	
+Cape	I	South_Africa's_Cape_Province	http://en.wikipedia.org/wiki/South_Africa's_Cape_Province	Cape_Province
+Province	I	South_Africa's_Cape_Province	http://en.wikipedia.org/wiki/South_Africa's_Cape_Province	Cape_Province
+.	O			
+				
+Michael	B	Michael_Smith	http://en.wikipedia.org/wiki/Michael_Smith	
+Smith	I	Michael_Smith	http://en.wikipedia.org/wiki/Michael_Smith	
+first	O			
+attended	O			
+St	B	St._Nicholas_Church_of_England_School	http://en.wikipedia.org/wiki/St._Nicholas_Church_of_England_School	
+.	I	St._Nicholas_Church_of_England_School	http://en.wikipedia.org/wiki/St._Nicholas_Church_of_England_School	
+Nicholas	I	St._Nicholas_Church_of_England_School	http://en.wikipedia.org/wiki/St._Nicholas_Church_of_England_School	
+Church	I	St._Nicholas_Church_of_England_School	http://en.wikipedia.org/wiki/St._Nicholas_Church_of_England_School	
+of	I	St._Nicholas_Church_of_England_School	http://en.wikipedia.org/wiki/St._Nicholas_Church_of_England_School	
+England	I	St._Nicholas_Church_of_England_School	http://en.wikipedia.org/wiki/St._Nicholas_Church_of_England_School	England
+School	I	St._Nicholas_Church_of_England_School	http://en.wikipedia.org/wiki/St._Nicholas_Church_of_England_School	
+,	O			
+a	O			
+state	O			
+-	O			
+run	O			
+elementary	O			
+school	O			
+.	O			
+At	O			
+the	O			
+time	O			
+,	O			
+few	O			
+children	O			
+from	O			
+state	O			
+schools	O			
+in	O			
+England	B	England	http://en.wikipedia.org/wiki/England	England
+went	O			
+on	O			
+to	O			
+further	O			
+academic	O			
+education	O			
+.	O			
+				
+After	O			
+receiving	O			
+hisO				
+PhD	O			Doctor_of_Philosophy
+,	O			
+Mullis	B	Mullis	http://en.wikipedia.org/wiki/Mullis	
+left	O			
+science	O			
+to	O			
+write	O			
+fiction	O			
+,	O			
+but	O			
+quit	O			
+and	O			
+became	O			
+a	O			
+biochemistO				
+at	O			
+a	O			
+medicalO				
+schoolO				
+in	O			
+Kansas	B	Kansas_City	http://en.wikipedia.org/wiki/Kansas_City	Kansas_City,_Missouri
+City	I	Kansas_City	http://en.wikipedia.org/wiki/Kansas_City	Kansas_City,_Missouri
+.	O			
+				
+Kroto	B	Kroto	http://en.wikipedia.org/wiki/Kroto	
+was	O			
+educated	O			
+at	O			
+Bolton	B	Bolton_School	http://en.wikipedia.org/wiki/Bolton_School	Bolton_School
+School	I	Bolton_School	http://en.wikipedia.org/wiki/Bolton_School	Bolton_School
+and	O			
+went	O			
+to	O			
+Sheffield	B	Sheffield_University	http://en.wikipedia.org/wiki/Sheffield_University	University_of_Sheffield
+University	I	Sheffield_University	http://en.wikipedia.org/wiki/Sheffield_University	University_of_Sheffield
+in	O			
+1958	O			
+.	O			
+At	O			
+Sheffiel	B	Sheffiel	http://en.wikipedia.org/wiki/Sheffiel	
+,	O			
+Kroto	B	Kroto	http://en.wikipedia.org/wiki/Kroto	
+obtained	O			
+a	O			
+first	O			
+class	O			
+honours	O			
+BSc	O			Bachelor_of_Science
+degree	O			
+in	O			
+Chemistry	O			
+and	O			
+a	O			
+PhD	O			Doctor_of_Philosophy
+in	O			
+Molecular	O			
+Spectroscopy	O			
+.	O			
+				
+He	B	He	http://en.wikipedia.org/wiki/He	
+was	O			
+a	O			
+boyO				
+scoutO				
+,	O			
+with	O			
+the	O			
+Boy	B	Boy_Scouts_of_America	http://en.wikipedia.org/wiki/Boy_Scouts_of_America	Boy_Scouts_of_America
+Scouts	I	Boy_Scouts_of_America	http://en.wikipedia.org/wiki/Boy_Scouts_of_America	Boy_Scouts_of_America
+of	I	Boy_Scouts_of_America	http://en.wikipedia.org/wiki/Boy_Scouts_of_America	Boy_Scouts_of_America
+America	I	Boy_Scouts_of_America	http://en.wikipedia.org/wiki/Boy_Scouts_of_America	Boy_Scouts_of_America
+and	O			
+became	O			
+an	O			
+Eagle	B	Eagle_Scout	http://en.wikipedia.org/wiki/Eagle_Scout	Eagle_Scout_(Boy_Scouts_of_America)
+Scout	I	Eagle_Scout	http://en.wikipedia.org/wiki/Eagle_Scout	Eagle_Scout_(Boy_Scouts_of_America)
+.	O			
+He	B	He	http://en.wikipedia.org/wiki/He	
+attended	O			
+Washington	B	Washington_University	http://en.wikipedia.org/wiki/Washington_University	Washington_University_in_St._Louis
+University	I	Washington_University	http://en.wikipedia.org/wiki/Washington_University	Washington_University_in_St._Louis
+in	O			
+St	B	St._Louis	http://en.wikipedia.org/wiki/St._Louis	
+.	I	St._Louis	http://en.wikipedia.org/wiki/St._Louis	
+Louis	I	St._Louis	http://en.wikipedia.org/wiki/St._Louis	
+for	O			
+undergraduate	O			
+studies	O			
+as	O			
+an	O			
+Alexander	B	Alexander_S._Langsdorf	http://en.wikipedia.org/wiki/Alexander_S._Langsdorf	
+S	I	Alexander_S._Langsdorf	http://en.wikipedia.org/wiki/Alexander_S._Langsdorf	
+.	I	Alexander_S._Langsdorf	http://en.wikipedia.org/wiki/Alexander_S._Langsdorf	
+Langsdorf	I	Alexander_S._Langsdorf	http://en.wikipedia.org/wiki/Alexander_S._Langsdorf	
+Fellow	B	Fellow	http://en.wikipedia.org/wiki/Fellow	
+,	O			
+and	O			
+obtained	O			
+three	O			
+degrees	O			
+.	O			
+				
+In	O			
+1991	O			
+Linda	B	Linda_Buck	http://en.wikipedia.org/wiki/Linda_Buck	Linda_B._Buck
+Buck	I	Linda_Buck	http://en.wikipedia.org/wiki/Linda_Buck	Linda_B._Buck
+became	O			
+an	O			
+assistantO				
+professorO				
+of	O			
+neurobiology	O			
+at	O			
+Harvard	B	Harvard_University	http://en.wikipedia.org/wiki/Harvard_University	Harvard_University
+University	I	Harvard_University	http://en.wikipedia.org/wiki/Harvard_University	Harvard_University
+where	O			
+sheO				
+expanded	O			
+herO				
+knowledge	O			
+of	O			
+the	O			
+nervous	O			
+system	O			
+.	O			
+				
+In	O			
+1865	O			
+,	O			
+Wilhelm	B	Wilhelm_Röntgen	http://en.wikipedia.org/wiki/Wilhelm_Rontgen	Wilhelm_Röntgen
+Röntgen	I	Wilhelm_Röntgen	http://en.wikipedia.org/wiki/Wilhelm_Rontgen	Wilhelm_Röntgen
+tried	O			
+to	O			
+attend	O			
+the	O			
+University	B	University_of_Utrecht	http://en.wikipedia.org/wiki/University_of_Utrecht	Utrecht_University
+of	I	University_of_Utrecht	http://en.wikipedia.org/wiki/University_of_Utrecht	Utrecht_University
+Utrecht	I	University_of_Utrecht	http://en.wikipedia.org/wiki/University_of_Utrecht	Utrecht_University
+without	O			
+having	O			
+the	O			
+necessary	O			
+credentials	O			
+required	O			
+for	O			
+a	O			
+regular	O			
+studentO				
+.	O			
+In	O			
+1901	O			
+Röntgen	B	Röntgen	http://en.wikipedia.org/wiki/Rontgen	Wilhelm_Röntgen
+was	O			
+awarded	O			
+the	O			
+very	O			
+first	O			
+Nobel	O			Nobel_Prize
+Prize	O			Nobel_Prize
+in	O			
+Physics	O			Physics
+.	O			
+				
+Levi	B	Levi-Montalcini	http://en.wikipedia.org/wiki/Levi-Montalcini	
+-	I	Levi-Montalcini	http://en.wikipedia.org/wiki/Levi-Montalcini	
+Montalcini	I	Levi-Montalcini	http://en.wikipedia.org/wiki/Levi-Montalcini	Rita_Levi-Montalcini
+lost	O			
+herO				
+assistantO				
+position	O			
+in	O			
+the	O			
+anatomyO				
+departmentO				
+after	O			
+a	O			
+1938	O			
+law	O			
+barring	O			
+Jews	O			Jews
+from	O			
+university	O			
+positions	O			
+was	O			
+passed	O			
+.	O			
+				
+Ciechanover	B	Ciechanover	http://en.wikipedia.org/wiki/Ciechanover	Aaron_Ciechanover
+is	O			
+a	O			
+memberO				
+of	O			
+the	O			
+Israel	B	Israel_Academy_of_Sciences_and_Humanities	http://en.wikipedia.org/wiki/Israel_Academy_of_Sciences_and_Humanities	Israel_Academy_of_Sciences_and_Humanities
+Academy	I	Israel_Academy_of_Sciences_and_Humanities	http://en.wikipedia.org/wiki/Israel_Academy_of_Sciences_and_Humanities	Israel_Academy_of_Sciences_and_Humanities
+of	I	Israel_Academy_of_Sciences_and_Humanities	http://en.wikipedia.org/wiki/Israel_Academy_of_Sciences_and_Humanities	Israel_Academy_of_Sciences_and_Humanities
+Sciences	I	Israel_Academy_of_Sciences_and_Humanities	http://en.wikipedia.org/wiki/Israel_Academy_of_Sciences_and_Humanities	Israel_Academy_of_Sciences_and_Humanities
+and	I	Israel_Academy_of_Sciences_and_Humanities	http://en.wikipedia.org/wiki/Israel_Academy_of_Sciences_and_Humanities	
+Humanities	I	Israel_Academy_of_Sciences_and_Humanities	http://en.wikipedia.org/wiki/Israel_Academy_of_Sciences_and_Humanities	
+,	O			
+the	O			
+Pontifical	B	Pontifical_Academy_of_Sciences	http://en.wikipedia.org/wiki/Pontifical_Academy_of_Sciences	Pontifical_Academy_of_Sciences
+Academy	I	Pontifical_Academy_of_Sciences	http://en.wikipedia.org/wiki/Pontifical_Academy_of_Sciences	Pontifical_Academy_of_Sciences
+of	I	Pontifical_Academy_of_Sciences	http://en.wikipedia.org/wiki/Pontifical_Academy_of_Sciences	Pontifical_Academy_of_Sciences
+Sciences	I	Pontifical_Academy_of_Sciences	http://en.wikipedia.org/wiki/Pontifical_Academy_of_Sciences	Pontifical_Academy_of_Sciences
+,	O			
+and	O			
+is	O			
+a	O			
+foreignO				
+associateO				
+of	O			
+the	O			
+United	B	United_States_National_Academy_of_Sciences	http://en.wikipedia.org/wiki/United_States_National_Academy_of_Sciences	National_Academy_of_Sciences
+States	I	United_States_National_Academy_of_Sciences	http://en.wikipedia.org/wiki/United_States_National_Academy_of_Sciences	National_Academy_of_Sciences
+National	I	United_States_National_Academy_of_Sciences	http://en.wikipedia.org/wiki/United_States_National_Academy_of_Sciences	National_Academy_of_Sciences
+Academy	I	United_States_National_Academy_of_Sciences	http://en.wikipedia.org/wiki/United_States_National_Academy_of_Sciences	National_Academy_of_Sciences
+of	I	United_States_National_Academy_of_Sciences	http://en.wikipedia.org/wiki/United_States_National_Academy_of_Sciences	National_Academy_of_Sciences
+Sciences	I	United_States_National_Academy_of_Sciences	http://en.wikipedia.org/wiki/United_States_National_Academy_of_Sciences	National_Academy_of_Sciences
+.	O			
+				
+Hans	B	Hans_Geiger	http://en.wikipedia.org/wiki/Hans_Geiger	Hans_Geiger
+Geiger	I	Hans_Geiger	http://en.wikipedia.org/wiki/Hans_Geiger	Hans_Geiger
+had	O			
+been	O			
+appointed	O			
+directorO				
+of	O			
+the	O			
+new	O			
+Laboratory	B	Laboratory_for_Radioactivity	http://en.wikipedia.org/wiki/Laboratory_for_Radioactivity	
+for	I	Laboratory_for_Radioactivity	http://en.wikipedia.org/wiki/Laboratory_for_Radioactivity	
+Radioactivity	I	Laboratory_for_Radioactivity	http://en.wikipedia.org/wiki/Laboratory_for_Radioactivity	
+there	O			
+in	O			
+1912	O			
+.	O			
+At	O			
+the	O			
+PTR	B	PTR	http://en.wikipedia.org/wiki/PTR	
+,	O			
+Bothe	B	Bothe	http://en.wikipedia.org/wiki/Bothe	
+was	O			
+an	O			
+assistantO				
+to	O			
+Geiger	B	Geiger	http://en.wikipedia.org/wiki/Geiger	Hans_Geiger
+from	O			
+1913	O			
+to	O			
+1920	O			
+,	O			
+a	O			
+scientificO				
+memberO				
+of	O			
+Geiger	B	Geiger's_staff	http://en.wikipedia.org/wiki/Geiger's_staff	Hans_Geiger
+'	I	Geiger's_staff	http://en.wikipedia.org/wiki/Geiger's_staff	
+s	I	Geiger's_staff	http://en.wikipedia.org/wiki/Geiger's_staff	
+staff	I	Geiger's_staff	http://en.wikipedia.org/wiki/Geiger's_staff	
+from	O			
+1920	O			
+to	O			
+1927	O			
+,	O			
+and	O			
+from	O			
+1927	O			
+to	O			
+1930	O			
+heO				
+succeeded	O			
+Geiger	B	Geiger	http://en.wikipedia.org/wiki/Geiger	Hans_Geiger
+as	O			
+directorO				
+of	O			
+the	O			
+Laboratory	B	Laboratory_for_Radioactivity	http://en.wikipedia.org/wiki/Laboratory_for_Radioactivity	
+for	I	Laboratory_for_Radioactivity	http://en.wikipedia.org/wiki/Laboratory_for_Radioactivity	
+Radioactivity	I	Laboratory_for_Radioactivity	http://en.wikipedia.org/wiki/Laboratory_for_Radioactivity	
+.	O			
+				
+In	O			
+1969	O			
+Mario	B	Mario	http://en.wikipedia.org/wiki/Mario	
+became	O			
+an	O			
+Assistant	B	Assistant_Professor	http://en.wikipedia.org/wiki/Assistant_Professor	
+Professor	I	Assistant_Professor	http://en.wikipedia.org/wiki/Assistant_Professor	
+in	O			
+the	O			
+Department	B	Department_of_Biochemistry	http://en.wikipedia.org/wiki/Department_of_Biochemistry	
+of	I	Department_of_Biochemistry	http://en.wikipedia.org/wiki/Department_of_Biochemistry	
+Biochemistry	I	Department_of_Biochemistry	http://en.wikipedia.org/wiki/Department_of_Biochemistry	
+at	O			
+Harvard	B	Harvard_Medical_School	http://en.wikipedia.org/wiki/Harvard_Medical_School	Harvard_Medical_School
+Medical	I	Harvard_Medical_School	http://en.wikipedia.org/wiki/Harvard_Medical_School	Harvard_Medical_School
+School	I	Harvard_Medical_School	http://en.wikipedia.org/wiki/Harvard_Medical_School	Harvard_Medical_School
+.	O			
+Mario	B	Mario	http://en.wikipedia.org/wiki/Mario	
+was	O			
+promoted	O			
+to	O			
+Associate	B	Associate_Professor	http://en.wikipedia.org/wiki/Associate_Professor	Professor
+Professor	I	Associate_Professor	http://en.wikipedia.org/wiki/Associate_Professor	Professor
+in	O			
+1971	O			
+.	O			
+				
+Pauli	B	Pauli	http://en.wikipedia.org/wiki/Wolfgang_Pauli	
+was	O			
+born	O			
+in	O			
+Vienna	B	Vienna	http://en.wikipedia.org/wiki/Vienna	Vienna
+to	O			
+a	O			
+chemistO				
+Wolfgang	B	Wolfgang_Joseph_Pauli	http://en.wikipedia.org/wiki/Wolfgang_Joseph_Pauli	
+Joseph	I	Wolfgang_Joseph_Pauli	http://en.wikipedia.org/wiki/Wolfgang_Joseph_Pauli	
+Pauli	I	Wolfgang_Joseph_Pauli	http://en.wikipedia.org/wiki/Wolfgang_Joseph_Pauli	
+and	O			
+hisO				
+wife	O			
+Bertha	B	Bertha_Camilla_Schütz	http://en.wikipedia.org/wiki/Bertha_Camilla_Schutz	
+Camilla	I	Bertha_Camilla_Schütz	http://en.wikipedia.org/wiki/Bertha_Camilla_Schutz	
+Schütz	I	Bertha_Camilla_Schütz	http://en.wikipedia.org/wiki/Bertha_Camilla_Schutz	
+.	O			
+His	B	His	http://en.wikipedia.org/wiki/His	
+middle	O			
+name	O			
+was	O			
+given	O			
+in	O			
+honor	O			
+of	O			
+hisO				
+godfather	O			
+,	O			
+physicistO				
+Ernst	B	Ernst_Mach	http://en.wikipedia.org/wiki/Ernst_Mach	Ernst_Mach
+Mach	I	Ernst_Mach	http://en.wikipedia.org/wiki/Ernst_Mach	Ernst_Mach
+.	O			
+				
+Throughout	O			
+this	O			
+time	O			
+this	O			
+personO				
+also	O			
+worked	O			
+with	O			
+Marguerite	B	Marguerite_Vogt	http://en.wikipedia.org/wiki/Marguerite_Vogt	Marguerite_Vogt
+Vogt	I	Marguerite_Vogt	http://en.wikipedia.org/wiki/Marguerite_Vogt	Marguerite_Vogt
+.	O			
+In	O			
+1962	O			
+,	O			
+Renato	B	Renato_Dulbecco	http://en.wikipedia.org/wiki/Renato_Dulbecco	Renato_Dulbecco
+Dulbecco	I	Renato_Dulbecco	http://en.wikipedia.org/wiki/Renato_Dulbecco	Renato_Dulbecco
+moved	O			
+to	O			
+the	O			
+Salk	B	Salk_Institute	http://en.wikipedia.org/wiki/Salk_Institute_for_Biological_Studies	Salk_Institute_for_Biological_Studies
+Institute	I	Salk_Institute	http://en.wikipedia.org/wiki/Salk_Institute_for_Biological_Studies	Salk_Institute_for_Biological_Studies
+and	O			
+then	O			
+in	O			
+1972	O			
+to	O			
+The	B	The_Imperial_Cancer_Research_Fund	http://en.wikipedia.org/wiki/The_Imperial_Cancer_Research_Fund	
+Imperial	I	The_Imperial_Cancer_Research_Fund	http://en.wikipedia.org/wiki/The_Imperial_Cancer_Research_Fund	Cancer_Research_UK
+Cancer	I	The_Imperial_Cancer_Research_Fund	http://en.wikipedia.org/wiki/The_Imperial_Cancer_Research_Fund	Cancer_Research_UK
+Research	I	The_Imperial_Cancer_Research_Fund	http://en.wikipedia.org/wiki/The_Imperial_Cancer_Research_Fund	Cancer_Research_UK
+Fund	I	The_Imperial_Cancer_Research_Fund	http://en.wikipedia.org/wiki/The_Imperial_Cancer_Research_Fund	Cancer_Research_UK
+in	O			
+London	B	London	http://en.wikipedia.org/wiki/London	London
+.	O			
+				
+After	O			
+the	O			
+armistice	O			
+between	O			
+France	B	France	http://en.wikipedia.org/wiki/France	France
+and	O			
+Germany	B	Germany	http://en.wikipedia.org/wiki/Germany	Germany
+in	O			
+the	O			
+summer	O			
+of	O			
+1940	O			
+,	O			
+Walter	B	Walter_Bothe	http://en.wikipedia.org/wiki/Walther_Bothe	Walther_Bothe
+Bothe	I	Walter_Bothe	http://en.wikipedia.org/wiki/Walther_Bothe	Walther_Bothe
+received	O			
+orders	O			
+to	O			
+inspect	O			
+the	O			
+cyclotron	O			
+Frédéric	B	Frédéric_Joliot-Curie	http://en.wikipedia.org/wiki/Frederic_Joliot-Curie	Frédéric_Joliot-Curie
+Joliot	I	Frédéric_Joliot-Curie	http://en.wikipedia.org/wiki/Frederic_Joliot-Curie	Frédéric_Joliot-Curie
+-	I	Frédéric_Joliot-Curie	http://en.wikipedia.org/wiki/Frederic_Joliot-Curie	
+Curie	I	Frédéric_Joliot-Curie	http://en.wikipedia.org/wiki/Frederic_Joliot-Curie	
+had	O			
+built	O			
+in	O			
+Paris	B	Paris	http://en.wikipedia.org/wiki/Paris	Paris
+.	O			
+While	O			
+it	O			
+had	O			
+been	O			
+built	O			
+,	O			
+it	O			
+was	O			
+not	O			
+yet	O			
+operational	O			
+.	O			
+				
+In	O			
+1982	O			
+,	O			
+Lessing	B	Lessing	http://en.wikipedia.org/wiki/Lessing	
+tried	O			
+to	O			
+publish	O			
+two	O			
+novels	O			
+under	O			
+a	O			
+pseudonym	O			
+,	O			
+Jane	B	Jane_Somers	http://en.wikipedia.org/wiki/Jane_Somers	
+Somers	I	Jane_Somers	http://en.wikipedia.org/wiki/Jane_Somers	
+,	O			
+to	O			
+show	O			
+the	O			
+difficulty	O			
+new	O			
+authors	O			
+faced	O			
+in	O			
+trying	O			
+to	O			
+have	O			
+their	O			
+works	O			
+in	O			
+print	O			
+.	O			
+The	O			
+novels	O			
+were	O			
+declined	O			
+by	O			
+Lessing	B	Lessing	http://en.wikipedia.org/wiki/Lessing	
+'	O			
+s	O			
+UK	B	UK_publisher	http://en.wikipedia.org/wiki/UK_publisher	
+publisher	I	UK_publisher	http://en.wikipedia.org/wiki/UK_publisher	
+,	O			
+but	O			
+were	O			
+later	O			
+accepted	O			
+by	O			
+another	O			
+English	O			England
+publisher	O			
+,	O			
+Michael	B	Michael_Joseph	http://en.wikipedia.org/wiki/Michael_Joseph	Penguin_Group
+Joseph	I	Michael_Joseph	http://en.wikipedia.org/wiki/Michael_Joseph	Penguin_Group
+,	O			
+and	O			
+in	O			
+the	O			
+US	B	US	http://en.wikipedia.org/wiki/US	
+by	O			
+Alfred	B	Alfred_A._Knopf	http://en.wikipedia.org/wiki/Alfred_A._Knopf	
+A	I	Alfred_A._Knopf	http://en.wikipedia.org/wiki/Alfred_A._Knopf	
+.	I	Alfred_A._Knopf	http://en.wikipedia.org/wiki/Alfred_A._Knopf	
+Knopf	I	Alfred_A._Knopf	http://en.wikipedia.org/wiki/Alfred_A._Knopf	Alfred_A._Knopf
+.	O			
+				
+Wiesel	B	Wiesel	http://en.wikipedia.org/wiki/Wiesel	
+taught	O			
+Hebrew	O			
+and	O			
+worked	O			
+as	O			
+a	O			
+choirmasterO				
+before	O			
+becoming	O			
+a	O			
+professional	O			
+journalistO				
+.	O			
+				
+Tonegawa	B	Tonegawa	http://en.wikipedia.org/wiki/Tonegawa	
+was	O			
+born	O			
+in	O			
+Nagoya	B	Nagoya	http://en.wikipedia.org/wiki/Nagoya	Nagoya
+,	O			
+Japan	B	Japan	http://en.wikipedia.org/wiki/Japan	Japan
+and	O			
+attended	O			
+the	O			
+Hibiya	B	Hibiya_High_School	http://en.wikipedia.org/wiki/Hibiya_High_School	Hibiya_High_School
+High	I	Hibiya_High_School	http://en.wikipedia.org/wiki/Hibiya_High_School	Hibiya_High_School
+School	I	Hibiya_High_School	http://en.wikipedia.org/wiki/Hibiya_High_School	Hibiya_High_School
+in	O			
+Tokyo	B	Tokyo	http://en.wikipedia.org/wiki/Tokyo	Tokyo
+.	O			
+				
+The	O			
+poetO				
+was	O			
+born	O			
+in	O			
+Paris	B	Paris	http://en.wikipedia.org/wiki/Paris	Paris
+as	O			
+the	O			
+only	O			
+child	O			
+of	O			
+Jean	B	Jean-Baptiste_Sartre	http://en.wikipedia.org/wiki/Jean-Baptiste_Sartre	
+-	I	Jean-Baptiste_Sartre	http://en.wikipedia.org/wiki/Jean-Baptiste_Sartre	
+Baptiste	I	Jean-Baptiste_Sartre	http://en.wikipedia.org/wiki/Jean-Baptiste_Sartre	
+Sartre	I	Jean-Baptiste_Sartre	http://en.wikipedia.org/wiki/Jean-Baptiste_Sartre	
+,	O			
+an	O			
+officerO				
+of	O			
+the	O			
+French	B	French_Navy	http://en.wikipedia.org/wiki/French_Navy	France
+Navy	I	French_Navy	http://en.wikipedia.org/wiki/French_Navy	France
+,	O			
+and	O			
+Anne	B	Anne-Marie_Schweitzer	http://en.wikipedia.org/wiki/Anne-Marie_Schweitzer	
+-	I	Anne-Marie_Schweitzer	http://en.wikipedia.org/wiki/Anne-Marie_Schweitzer	
+Marie	I	Anne-Marie_Schweitzer	http://en.wikipedia.org/wiki/Anne-Marie_Schweitzer	
+Schweitzer	I	Anne-Marie_Schweitzer	http://en.wikipedia.org/wiki/Anne-Marie_Schweitzer	
+.	O			
+				
+Tonegawa	B	Tonegawa	http://en.wikipedia.org/wiki/Tonegawa	
+received	O			
+hisO				
+doctorate	O			
+from	O			
+the	O			
+University	B	University_of_California	http://en.wikipedia.org/wiki/_San_Diego	University_of_California
+of	I	University_of_California	http://en.wikipedia.org/wiki/_San_Diego	University_of_California
+California	I	University_of_California	http://en.wikipedia.org/wiki/_San_Diego	University_of_California
+in	O			
+San	B	San_Diego	http://en.wikipedia.org/wiki/San_Diego	San_Diego
+Diego	I	San_Diego	http://en.wikipedia.org/wiki/San_Diego	San_Diego
+where	O			
+heO				
+worked	O			
+with	O			
+Dr	O			
+Masaki	B	Masaki_Hayashi	http://en.wikipedia.org/wiki/Masaki_Hayashi	
+Hayashi	I	Masaki_Hayashi	http://en.wikipedia.org/wiki/Masaki_Hayashi	
+.	O			
+				
+Zewail	B	Zewail	http://en.wikipedia.org/wiki/Zewail	Ahmed_Zewail
+has	O			
+been	O			
+nominated	O			
+and	O			
+will	O			
+participate	O			
+in	O			
+President	B	President	http://en.wikipedia.org/wiki/President	
+Barack	B	Barack_Obama	http://en.wikipedia.org/wiki/Barack_Obama	Barack_Obama
+Obama	I	Barack_Obama	http://en.wikipedia.org/wiki/Barack_Obama	Barack_Obama
+'	O			
+s	O			
+Presidential	B	Presidential_Council_of_Advisors_on_Science_and_Technology	http://en.wikipedia.org/wiki/United_States_President's_Council_of_Advisors_on_Science_and_Technology	
+Council	I	Presidential_Council_of_Advisors_on_Science_and_Technology	http://en.wikipedia.org/wiki/United_States_President's_Council_of_Advisors_on_Science_and_Technology	
+of	I	Presidential_Council_of_Advisors_on_Science_and_Technology	http://en.wikipedia.org/wiki/United_States_President's_Council_of_Advisors_on_Science_and_Technology	
+Advisors	I	Presidential_Council_of_Advisors_on_Science_and_Technology	http://en.wikipedia.org/wiki/United_States_President's_Council_of_Advisors_on_Science_and_Technology	
+on	I	Presidential_Council_of_Advisors_on_Science_and_Technology	http://en.wikipedia.org/wiki/United_States_President's_Council_of_Advisors_on_Science_and_Technology	
+Science	I	Presidential_Council_of_Advisors_on_Science_and_Technology	http://en.wikipedia.org/wiki/United_States_President's_Council_of_Advisors_on_Science_and_Technology	
+and	I	Presidential_Council_of_Advisors_on_Science_and_Technology	http://en.wikipedia.org/wiki/United_States_President's_Council_of_Advisors_on_Science_and_Technology	
+Technology	I	Presidential_Council_of_Advisors_on_Science_and_Technology	http://en.wikipedia.org/wiki/United_States_President's_Council_of_Advisors_on_Science_and_Technology	
+.	O			
+				
+In	O			
+1971	O			
+,	O			
+heO				
+became	O			
+professorO				
+at	O			
+the	O			
+Collège	B	Collège_de_France	http://en.wikipedia.org/wiki/College_de_France	Collège_de_France
+de	I	Collège_de_France	http://en.wikipedia.org/wiki/College_de_France	Collège_de_France
+France	I	Collège_de_France	http://en.wikipedia.org/wiki/College_de_France	Collège_de_France
+.	O			
+He	B	He	http://en.wikipedia.org/wiki/He	
+was	O			
+then	O			
+directorO				
+of	O			
+the	O			
+École	B	École_Supérieure_de_Physique_et_de_Chimie_Industrielles	http://en.wikipedia.org/wiki/Ecole_Superieure_de_Physique_et_de_Chimie_Industrielles	
+Supérieure	I	École_Supérieure_de_Physique_et_de_Chimie_Industrielles	http://en.wikipedia.org/wiki/Ecole_Superieure_de_Physique_et_de_Chimie_Industrielles	
+de	I	École_Supérieure_de_Physique_et_de_Chimie_Industrielles	http://en.wikipedia.org/wiki/Ecole_Superieure_de_Physique_et_de_Chimie_Industrielles	
+Physique	I	École_Supérieure_de_Physique_et_de_Chimie_Industrielles	http://en.wikipedia.org/wiki/Ecole_Superieure_de_Physique_et_de_Chimie_Industrielles	
+et	I	École_Supérieure_de_Physique_et_de_Chimie_Industrielles	http://en.wikipedia.org/wiki/Ecole_Superieure_de_Physique_et_de_Chimie_Industrielles	
+de	I	École_Supérieure_de_Physique_et_de_Chimie_Industrielles	http://en.wikipedia.org/wiki/Ecole_Superieure_de_Physique_et_de_Chimie_Industrielles	
+Chimie	I	École_Supérieure_de_Physique_et_de_Chimie_Industrielles	http://en.wikipedia.org/wiki/Ecole_Superieure_de_Physique_et_de_Chimie_Industrielles	
+Industrielles	I	École_Supérieure_de_Physique_et_de_Chimie_Industrielles	http://en.wikipedia.org/wiki/Ecole_Superieure_de_Physique_et_de_Chimie_Industrielles	
+de	O			
+la	O			
+Ville	O			Paris
+de	O			Paris
+Paris	B	Paris	http://en.wikipedia.org/wiki/Paris	Paris
+,	O			
+a	O			
+post	O			
+heO				
+held	O			
+from	O			
+1976	O			
+until	O			
+hisO				
+retirement	O			
+in	O			
+2002	O			
+.	O			
+				
+In	O			
+1940	O			
+,	O			
+Dario	B	Dario_Fo	http://en.wikipedia.org/wiki/Dario_Fo	Dario_Fo
+Fo	I	Dario_Fo	http://en.wikipedia.org/wiki/Dario_Fo	Dario_Fo
+moved	O			
+to	O			
+Milan	B	Milan	http://en.wikipedia.org/wiki/Milan	Milan
+to	O			
+study	O			
+at	O			
+the	O			
+Brera	B	Brera_Academy	http://en.wikipedia.org/wiki/Brera_Academy	Brera_Academy
+Academy	I	Brera_Academy	http://en.wikipedia.org/wiki/Brera_Academy	Brera_Academy
+,	O			
+however	O			
+heO				
+joined	O			
+the	O			
+fascist	O			
+army	O			
+of	O			
+Mussolini	B	Mussolini	http://en.wikipedia.org/wiki/Mussolini	Benito_Mussolini
+'	O			
+s	O			
+Repubblica	B	Repubblica_Sociale_Italiana	http://en.wikipedia.org/wiki/Repubblica_Sociale_Italiana	Italian_Social_Republic
+Sociale	I	Repubblica_Sociale_Italiana	http://en.wikipedia.org/wiki/Repubblica_Sociale_Italiana	Italian_Social_Republic
+Italiana	I	Repubblica_Sociale_Italiana	http://en.wikipedia.org/wiki/Repubblica_Sociale_Italiana	Italian_Social_Republic
+.	O			
+				
+The	O			
+novelistO				
+spent	O			
+some	O			
+time	O			
+in	O			
+London	B	London	http://en.wikipedia.org/wiki/London	London
+,	O			
+where	O			
+in	O			
+1931	O			
+heO				
+published	O			
+Proust	O			Marcel_Proust
+,	O			
+hisO				
+critical	O			
+study	O			
+of	O			
+French	B	French	http://en.wikipedia.org/wiki/French	France
+authorO				
+Marcel	B	Marcel_Proust	http://en.wikipedia.org/wiki/Marcel_Proust	Marcel_Proust
+Proust	I	Marcel_Proust	http://en.wikipedia.org/wiki/Marcel_Proust	Marcel_Proust
+.	O			
+				
+Carlo	B	Carlo_Rubbia	http://en.wikipedia.org/wiki/Carlo_Rubbia	Carlo_Rubbia
+Rubbia	I	Carlo_Rubbia	http://en.wikipedia.org/wiki/Carlo_Rubbia	Carlo_Rubbia
+studied	O			
+physics	O			
+at	O			
+the	O			
+University	B	University_of_Pisa	http://en.wikipedia.org/wiki/University_of_Pisa	University_of_Pisa
+of	I	University_of_Pisa	http://en.wikipedia.org/wiki/University_of_Pisa	University_of_Pisa
+Pisa	I	University_of_Pisa	http://en.wikipedia.org/wiki/University_of_Pisa	University_of_Pisa
+and	O			
+Scuola	B	Scuola_Normale	http://en.wikipedia.org/wiki/Scuola_Normale	Scuola_Normale_Superiore_di_Pisa
+Normale	I	Scuola_Normale	http://en.wikipedia.org/wiki/Scuola_Normale	Scuola_Normale_Superiore_di_Pisa
+in	O			
+Pisa	B	Pisa	http://en.wikipedia.org/wiki/Pisa	Pisa
+.	O			
+Rubbia	B	Rubbia	http://en.wikipedia.org/wiki/Carlo_Rubbia	Carlo_Rubbia
+graduated	O			
+on	O			
+cosmic	O			
+ray	O			
+experiments	O			
+in	O			
+1957	O			
+with	O			
+Marcello	B	Marcello_Conversi	http://en.wikipedia.org/wiki/Marcello_Conversi	
+Conversi	I	Marcello_Conversi	http://en.wikipedia.org/wiki/Marcello_Conversi	
+.	O			
+Rubbia	B	Rubbia	http://en.wikipedia.org/wiki/Carlo_Rubbia	Carlo_Rubbia
+then	O			
+went	O			
+to	O			
+the	O			
+United	B	United_States	http://en.wikipedia.org/wiki/United_States	United_States
+States	I	United_States	http://en.wikipedia.org/wiki/United_States	United_States
+,	O			
+where	O			
+heO				
+spent	O			
+about	O			
+one	O			
+and	O			
+a	O			
+half	O			
+years	O			
+at	O			
+Columbia	B	Columbia_University	http://en.wikipedia.org/wiki/Columbia_University	Columbia_University
+University	I	Columbia_University	http://en.wikipedia.org/wiki/Columbia_University	Columbia_University
+performing	O			
+experiments	O			
+on	O			
+the	O			
+decay	O			
+and	O			
+the	O			
+nuclear	O			
+capture	O			
+of	O			
+muons	O			
+.	O			
+				
+After	O			
+the	O			
+war	O			
+,	O			
+the	O			
+womanO				
+became	O			
+a	O			
+voluntary	O			
+associateO				
+professorO				
+of	O			
+Physics	O			
+at	O			
+the	O			
+University	B	University_of_Chicago	http://en.wikipedia.org/wiki/University_of_Chicago	University_of_Chicago
+of	I	University_of_Chicago	http://en.wikipedia.org/wiki/University_of_Chicago	University_of_Chicago
+Chicago	I	University_of_Chicago	http://en.wikipedia.org/wiki/University_of_Chicago	University_of_Chicago
+and	O			
+a	O			
+senior	O			
+physicistO				
+at	O			
+the	O			
+nearby	O			
+Argonne	B	Argonne_National_Laboratory	http://en.wikipedia.org/wiki/Argonne_National_Laboratory	Argonne_National_Laboratory
+National	I	Argonne_National_Laboratory	http://en.wikipedia.org/wiki/Argonne_National_Laboratory	Argonne_National_Laboratory
+Laboratory	I	Argonne_National_Laboratory	http://en.wikipedia.org/wiki/Argonne_National_Laboratory	Argonne_National_Laboratory
+.	O			
+				
+James	B	James_Tobin	http://en.wikipedia.org/wiki/James_Tobin	James_Tobin
+Tobin	I	James_Tobin	http://en.wikipedia.org/wiki/James_Tobin	James_Tobin
+married	O			
+Elizabeth	B	Elizabeth_Fay_Ringo	http://en.wikipedia.org/wiki/Elizabeth_Fay_Ringo	
+Fay	I	Elizabeth_Fay_Ringo	http://en.wikipedia.org/wiki/Elizabeth_Fay_Ringo	
+Ringo	I	Elizabeth_Fay_Ringo	http://en.wikipedia.org/wiki/Elizabeth_Fay_Ringo	
+,	O			
+a	O			
+former	O			
+M	B	M.I.T.	http://en.wikipedia.org/wiki/M.I.T.	
+.	I	M.I.T.	http://en.wikipedia.org/wiki/M.I.T.	
+I	I	M.I.T.	http://en.wikipedia.org/wiki/M.I.T.	
+.	I	M.I.T.	http://en.wikipedia.org/wiki/M.I.T.	
+T	I	M.I.T.	http://en.wikipedia.org/wiki/M.I.T.	
+.	I	M.I.T.	http://en.wikipedia.org/wiki/M.I.T.	
+studentO				
+of	O			
+Paul	B	Paul_Samuelson	http://en.wikipedia.org/wiki/Paul_Samuelson	Paul_Samuelson
+Samuelson	I	Paul_Samuelson	http://en.wikipedia.org/wiki/Paul_Samuelson	Paul_Samuelson
+,	O			
+on	O			
+September	O			
+14	O			
+,	O			
+1946	O			
+.	O			
+				
+Pauli	B	Pauli	http://en.wikipedia.org/wiki/Wolfgang_Pauli	
+spent	O			
+a	O			
+year	O			
+at	O			
+the	O			
+University	B	University_of_Göttingen	http://en.wikipedia.org/wiki/University_of_Gottingen	University_of_Göttingen
+of	I	University_of_Göttingen	http://en.wikipedia.org/wiki/University_of_Gottingen	University_of_Göttingen
+Göttingen	I	University_of_Göttingen	http://en.wikipedia.org/wiki/University_of_Gottingen	University_of_Göttingen
+as	O			
+the	O			
+assistantO				
+to	O			
+Max	B	Max_Born	http://en.wikipedia.org/wiki/Max_Born	Max_Born
+Born	I	Max_Born	http://en.wikipedia.org/wiki/Max_Born	Max_Born
+,	O			
+and	O			
+the	O			
+following	O			
+year	O			
+at	O			
+the	O			
+Institute	B	Institute_for_Theoretical_Physics	http://en.wikipedia.org/wiki/Institute_for_Theoretical_Physics	Niels_Bohr_Institute
+for	I	Institute_for_Theoretical_Physics	http://en.wikipedia.org/wiki/Institute_for_Theoretical_Physics	Niels_Bohr_Institute
+Theoretical	I	Institute_for_Theoretical_Physics	http://en.wikipedia.org/wiki/Institute_for_Theoretical_Physics	Niels_Bohr_Institute
+Physics	I	Institute_for_Theoretical_Physics	http://en.wikipedia.org/wiki/Institute_for_Theoretical_Physics	Niels_Bohr_Institute
+in	O			
+Copenhagen	B	Copenhagen	http://en.wikipedia.org/wiki/Copenhagen	Copenhagen
+,	O			
+which	O			
+later	O			
+became	O			
+the	O			
+Niels	B	Niels_Bohr_Institute	http://en.wikipedia.org/wiki/Niels_Bohr_Institute	Niels_Bohr_Institute
+Bohr	I	Niels_Bohr_Institute	http://en.wikipedia.org/wiki/Niels_Bohr_Institute	Niels_Bohr_Institute
+Institute	I	Niels_Bohr_Institute	http://en.wikipedia.org/wiki/Niels_Bohr_Institute	Niels_Bohr_Institute
+in	O			
+1965	O			
+.	O			
+From	O			
+1923	O			
+to	O			
+1928	O			
+,	O			
+heO				
+was	O			
+a	O			
+lecturerO				
+at	O			
+the	O			
+University	B	University_of_Hamburg	http://en.wikipedia.org/wiki/University_of_Hamburg	University_of_Hamburg
+of	I	University_of_Hamburg	http://en.wikipedia.org/wiki/University_of_Hamburg	University_of_Hamburg
+Hamburg	I	University_of_Hamburg	http://en.wikipedia.org/wiki/University_of_Hamburg	University_of_Hamburg
+.	O			
+				
+She	B	She	http://en.wikipedia.org/wiki/She	
+received	O			
+herO				
+PhD	O			Doctor_of_Philosophy
+in	O			
+1975	O			
+and	O			
+interned	O			
+at	O			
+the	O			
+U	B	U.S._National_Institutes_of_Health	http://en.wikipedia.org/wiki/U.S._National_Institutes_of_Health	
+.	I	U.S._National_Institutes_of_Health	http://en.wikipedia.org/wiki/U.S._National_Institutes_of_Health	
+S	I	U.S._National_Institutes_of_Health	http://en.wikipedia.org/wiki/U.S._National_Institutes_of_Health	
+.	I	U.S._National_Institutes_of_Health	http://en.wikipedia.org/wiki/U.S._National_Institutes_of_Health	
+National	I	U.S._National_Institutes_of_Health	http://en.wikipedia.org/wiki/U.S._National_Institutes_of_Health	
+Institutes	I	U.S._National_Institutes_of_Health	http://en.wikipedia.org/wiki/U.S._National_Institutes_of_Health	
+of	I	U.S._National_Institutes_of_Health	http://en.wikipedia.org/wiki/U.S._National_Institutes_of_Health	
+Health	I	U.S._National_Institutes_of_Health	http://en.wikipedia.org/wiki/U.S._National_Institutes_of_Health	
+before	O			
+returning	O			
+to	O			
+the	O			
+Pasteur	B	Pasteur_Institute	http://en.wikipedia.org/wiki/Pasteur_Institute	Pasteur_Institute
+Institute	I	Pasteur_Institute	http://en.wikipedia.org/wiki/Pasteur_Institute	Pasteur_Institute
+.	O			
+				
+Zsigmondy	B	Zsigmondy	http://en.wikipedia.org/wiki/Zsigmondy	
+was	O			
+born	O			
+in	O			
+Vienna	B	Vienna	http://en.wikipedia.org/wiki/Vienna	Vienna
+,	O			
+Austrian	B	Austrian_Empire	http://en.wikipedia.org/wiki/Austrian_Empire	Austrian_Empire
+Empire	I	Austrian_Empire	http://en.wikipedia.org/wiki/Austrian_Empire	Austrian_Empire
+,	O			
+to	O			
+Hungarian	B	Hungarian	http://en.wikipedia.org/wiki/Hungarian	Hungary
+parents	O			
+Irma	B	Irma_Szakmáry	http://en.wikipedia.org/wiki/Irma_Szakmary	
+Szakmáry	I	Irma_Szakmáry	http://en.wikipedia.org/wiki/Irma_Szakmary	
+,	O			
+a	O			
+poetO				
+born	O			
+in	O			
+Martonvásár	B	Martonvásár	http://en.wikipedia.org/wiki/Martonvasar	Martonvásár
+,	O			
+and	O			
+Adolf	B	Adolf_Zsigmondy_Sr.	http://en.wikipedia.org/wiki/Adolf_Zsigmondy_Sr.	
+Zsigmondy	I	Adolf_Zsigmondy_Sr.	http://en.wikipedia.org/wiki/Adolf_Zsigmondy_Sr.	
+Sr	I	Adolf_Zsigmondy_Sr.	http://en.wikipedia.org/wiki/Adolf_Zsigmondy_Sr.	
+.	I	Adolf_Zsigmondy_Sr.	http://en.wikipedia.org/wiki/Adolf_Zsigmondy_Sr.	
+,	O			
+a	O			
+scientistO				
+from	O			
+Bratislava	B	Bratislava	http://en.wikipedia.org/wiki/Bratislava	Bratislava
+who	O			
+invented	O			
+several	O			
+surgical	O			
+instruments	O			
+for	O			
+use	O			
+in	O			
+dentistry	O			
+.	O			
+				
+Lutuli	B	Lutuli	http://en.wikipedia.org/wiki/Lutuli	Albert_Lutuli
+accepted	O			
+the	O			
+post	O			
+of	O			
+principalO				
+and	O			
+only	O			
+teacherO				
+at	O			
+a	O			
+primaryO				
+schoolO				
+in	O			
+rural	O			
+Blaauwbosch	B	Blaauwbosch	http://en.wikipedia.org/wiki/Blaauwbosch	
+,	O			
+Newcastle	B	Newcastle	http://en.wikipedia.org/wiki/_KwaZulu-Natal	Newcastle_upon_Tyne
+,	O			
+Natal	B	Natal	http://en.wikipedia.org/wiki/Natal	KwaZulu-Natal
+.	O			
+Here	O			
+Lutuli	B	Lutuli	http://en.wikipedia.org/wiki/Lutuli	Albert_Lutuli
+was	O			
+confirmed	O			
+in	O			
+the	O			
+Methodist	B	Methodist_Church	http://en.wikipedia.org/wiki/Methodist_Church	Methodism
+Church	I	Methodist_Church	http://en.wikipedia.org/wiki/Methodist_Church	Methodism
+and	O			
+became	O			
+a	O			
+lay	O			
+preacherO				
+.	O			
+				
+Fo	B	Fo	http://en.wikipedia.org/wiki/Fo	
+was	O			
+born	O			
+at	O			
+Leggiuno	B	Leggiuno_Sangiano	http://en.wikipedia.org/wiki/Leggiuno_Sangiano	
+Sangiano	I	Leggiuno_Sangiano	http://en.wikipedia.org/wiki/Leggiuno_Sangiano	
+,	O			
+in	O			
+Lombardy	B	Lombardy	http://en.wikipedia.org/wiki/Lombardy	Lombardy
+'	O			
+s	O			
+Province	B	Province_of_Varese	http://en.wikipedia.org/wiki/Province_of_Varese	
+of	I	Province_of_Varese	http://en.wikipedia.org/wiki/Province_of_Varese	
+Varese	I	Province_of_Varese	http://en.wikipedia.org/wiki/Province_of_Varese	Varese
+,	O			
+near	O			
+the	O			
+eastern	O			
+shore	O			
+of	O			
+Lago	B	Lago_Maggiore	http://en.wikipedia.org/wiki/Lago_Maggiore	Lake_Maggiore
+Maggiore	I	Lago_Maggiore	http://en.wikipedia.org/wiki/Lago_Maggiore	Lake_Maggiore
+.	O			
+His	B	His	http://en.wikipedia.org/wiki/His	
+younger	O			
+brother	O			
+Fulvio	B	Fulvio	http://en.wikipedia.org/wiki/Fulvio	
+would	O			
+become	O			
+a	O			
+theatreO				
+administratorO				
+,	O			
+their	O			
+younger	O			
+sister	O			
+Bianca	B	Bianca_Fo_Garambois	http://en.wikipedia.org/wiki/Bianca_Fo_Garambois	
+Fo	I	Bianca_Fo_Garambois	http://en.wikipedia.org/wiki/Bianca_Fo_Garambois	
+Garambois	I	Bianca_Fo_Garambois	http://en.wikipedia.org/wiki/Bianca_Fo_Garambois	
+,	O			
+a	O			
+writerO				
+.	O			
+				
+In	O			
+1930	O			
+,	O			
+Beckett	B	Beckett	http://en.wikipedia.org/wiki/Beckett	
+returned	O			
+to	O			
+Trinity	B	Trinity_College	http://en.wikipedia.org/wiki/_Dublin	
+College	I	Trinity_College	http://en.wikipedia.org/wiki/_Dublin	
+as	O			
+a	O			
+lecturerO				
+,	O			
+but	O			
+heO				
+resigned	O			
+in	O			
+1931	O			
+collecting	O			
+a	O			
+brief	O			
+academic	O			
+career	O			
+.	O			
+				
+She	B	She	http://en.wikipedia.org/wiki/She	
+married	O			
+James	B	James_Sirleaf	http://en.wikipedia.org/wiki/James_Sirleaf	
+Sirleaf	I	James_Sirleaf	http://en.wikipedia.org/wiki/James_Sirleaf	
+when	O			
+sheO				
+was	O			
+17	O			
+years	O			
+old	O			
+,	O			
+and	O			
+then	O			
+traveled	O			
+with	O			
+himO				
+to	O			
+the	O			
+United	B	United_States	http://en.wikipedia.org/wiki/United_States	United_States
+States	I	United_States	http://en.wikipedia.org/wiki/United_States	United_States
+in	O			
+1961	O			
+to	O			
+continue	O			
+herO				
+studies	O			
+and	O			
+earned	O			
+an	O			
+associate	O			
+degree	O			
+in	O			
+accounting	O			
+at	O			
+Madison	B	Madison_Business_College	http://en.wikipedia.org/wiki/Madison_Business_College	Madison_Business_College
+Business	I	Madison_Business_College	http://en.wikipedia.org/wiki/Madison_Business_College	Madison_Business_College
+College	I	Madison_Business_College	http://en.wikipedia.org/wiki/Madison_Business_College	Madison_Business_College
+,	O			
+in	O			
+Madison	B	Madison,_Wisconsin	http://en.wikipedia.org/wiki/Madison,_Wisconsin	Madison,_Wisconsin
+,	I	Madison,_Wisconsin	http://en.wikipedia.org/wiki/Madison,_Wisconsin	
+Wisconsin	I	Madison,_Wisconsin	http://en.wikipedia.org/wiki/Madison,_Wisconsin	Wisconsin
+.	O			
+				
+Zsigmondy	B	Zsigmondy	http://en.wikipedia.org/wiki/Zsigmondy	
+left	O			
+Schott	B	Schott_Glass	http://en.wikipedia.org/wiki/Schott_Glass	Schott_AG
+Glass	I	Schott_Glass	http://en.wikipedia.org/wiki/Schott_Glass	Schott_AG
+in	O			
+1900	O			
+,	O			
+but	O			
+remained	O			
+in	O			
+Jena	B	Jena	http://en.wikipedia.org/wiki/Jena	Jena
+as	O			
+private	O			
+lecturerO				
+to	O			
+conduct	O			
+hisO				
+research	O			
+.	O			
+Together	O			
+with	O			
+the	O			
+optical	O			
+instrument	O			
+manufacturer	O			
+Zeiss	B	Zeiss	http://en.wikipedia.org/wiki/Zeiss	Carl_Zeiss_AG
+,	O			
+heO				
+developed	O			
+the	O			
+slit	O			
+ultramicroscope	O			
+.	O			
+				
+On	O			
+30	O			
+August	O			
+2013	O			
+,	O			
+Rubbia	B	Rubbia	http://en.wikipedia.org/wiki/Carlo_Rubbia	
+was	O			
+appointed	O			
+to	O			
+the	O			
+Senate	B	Senate_of_Italy	http://en.wikipedia.org/wiki/Senate_of_Italy	
+of	I	Senate_of_Italy	http://en.wikipedia.org/wiki/Senate_of_Italy	
+Italy	I	Senate_of_Italy	http://en.wikipedia.org/wiki/Senate_of_Italy	Italy
+as	O			
+a	O			
+Senator	B	Senator_for_Life	http://en.wikipedia.org/wiki/Senator_for_life	Senator_for_life
+for	I	Senator_for_Life	http://en.wikipedia.org/wiki/Senator_for_life	Senator_for_life
+Life	I	Senator_for_Life	http://en.wikipedia.org/wiki/Senator_for_life	Senator_for_life
+by	O			
+President	B	President	http://en.wikipedia.org/wiki/President	
+Giorgio	B	Giorgio_Napolitano	http://en.wikipedia.org/wiki/Giorgio_Napolitano	Giorgio_Napolitano
+Napolitano	I	Giorgio_Napolitano	http://en.wikipedia.org/wiki/Giorgio_Napolitano	Giorgio_Napolitano
+.	O			
+				
+In	O			
+December	O			
+1941	O			
+,	O			
+Goeppert	B	Goeppert_Mayer	http://en.wikipedia.org/wiki/Goeppert_Mayer	
+Mayer	I	Goeppert_Mayer	http://en.wikipedia.org/wiki/Goeppert_Mayer	
+took	O			
+up	O			
+herO				
+first	O			
+paid	O			
+professional	O			
+position	O			
+,	O			
+teaching	O			
+science	O			
+part	O			
+-	O			
+time	O			
+at	O			
+Sarah	B	Sarah_Lawrence_College	http://en.wikipedia.org/wiki/Sarah_Lawrence_College	Sarah_Lawrence_College
+Lawrence	I	Sarah_Lawrence_College	http://en.wikipedia.org/wiki/Sarah_Lawrence_College	Sarah_Lawrence_College
+College	I	Sarah_Lawrence_College	http://en.wikipedia.org/wiki/Sarah_Lawrence_College	Sarah_Lawrence_College
+and	O			
+in	O			
+1960	O			
+,	O			
+Maria	B	Maria_Goeppert	http://en.wikipedia.org/wiki/Maria_Goeppert	Maria_Goeppert-Mayer
+Goeppert	I	Maria_Goeppert	http://en.wikipedia.org/wiki/Maria_Goeppert	Maria_Goeppert-Mayer
+was	O			
+appointed	O			
+fullO				
+professorO				
+of	O			
+physics	O			
+at	O			
+the	O			
+University	B	University_of_California	http://en.wikipedia.org/wiki/_San_Diego	University_of_California,_San_Diego
+of	I	University_of_California	http://en.wikipedia.org/wiki/_San_Diego	University_of_California,_San_Diego
+California	I	University_of_California	http://en.wikipedia.org/wiki/_San_Diego	University_of_California,_San_Diego
+at	O			University_of_California,_San_Diego
+San	B	San_Diego	http://en.wikipedia.org/wiki/San_Diego	University_of_California,_San_Diego
+Diego	I	San_Diego	http://en.wikipedia.org/wiki/San_Diego	University_of_California,_San_Diego
+.	O			
+				
+Elie	B	Elie_Wiesel	http://en.wikipedia.org/wiki/Elie_Wiesel	Elie_Wiesel
+Wiesel	I	Elie_Wiesel	http://en.wikipedia.org/wiki/Elie_Wiesel	Elie_Wiesel
+was	O			
+born	O			
+in	O			
+Sighet	B	Sighet	http://en.wikipedia.org/wiki/Sighet	Sighetu_Marmației
+,	O			
+Transylvania	B	Transylvania	http://en.wikipedia.org/wiki/Transylvania	Transylvania
+,	O			
+Maramureș	B	Maramureș	http://en.wikipedia.org/wiki/Maramures	Maramureș
+,	O			
+Romania	B	Romania	http://en.wikipedia.org/wiki/Romania	Romania
+,	O			
+in	O			
+the	O			
+Carpathian	B	Carpathian_Mountains	http://en.wikipedia.org/wiki/Carpathian_Mountains	Carpathian_Mountains
+Mountains	I	Carpathian_Mountains	http://en.wikipedia.org/wiki/Carpathian_Mountains	Carpathian_Mountains
+.	O			
+His	B	His	http://en.wikipedia.org/wiki/His	
+parents	O			
+were	O			
+Sarah	B	Sarah_Feig	http://en.wikipedia.org/wiki/Sarah_Feig	
+Feig	I	Sarah_Feig	http://en.wikipedia.org/wiki/Sarah_Feig	
+and	O			
+Shlomo	B	Shlomo_Wiesel	http://en.wikipedia.org/wiki/Shlomo_Wiesel	
+Wiesel	I	Shlomo_Wiesel	http://en.wikipedia.org/wiki/Shlomo_Wiesel	
+.	O			
+				
+A	O			
+manO				
+became	O			
+a	O			
+researcherO				
+at	O			
+Harvard	B	Harvard_University	http://en.wikipedia.org/wiki/Harvard_University	Harvard_University
+University	I	Harvard_University	http://en.wikipedia.org/wiki/Harvard_University	Harvard_University
+in	O			
+Applied	O			Applied_physics
+Physics	O			Applied_physics
+.	O			
+				
+In	O			
+1952	O			
+,	O			
+Martti	B	Martti_Ahtisaari	http://en.wikipedia.org/wiki/Martti_Ahtisaari	Martti_Ahtisaari
+Ahtisaari	I	Martti_Ahtisaari	http://en.wikipedia.org/wiki/Martti_Ahtisaari	Martti_Ahtisaari
+moved	O			
+to	O			
+Oulu	B	Oulu	http://en.wikipedia.org/wiki/Oulu	Oulu
+with	O			
+hisO				
+familyO				
+to	O			
+seek	O			
+employment	O			
+.	O			
+Then	O			
+heO				
+continued	O			
+hisO				
+education	O			
+in	O			
+highO				
+schoolO				
+,	O			
+graduating	O			
+in	O			
+1952	O			
+.	O			
+He	B	He	http://en.wikipedia.org/wiki/He	
+also	O			
+joined	O			
+the	O			
+local	O			
+YMCA	B	YMCA	http://en.wikipedia.org/wiki/YMCA	YMCA
+.	O			
+				
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         ,	O			
+discovered	O			
+asymptotic	O			
+freedom	O			
+,	O			
+which	O			
+holds	O			
+that	O			
+the	O			
+closer	O			
+quarks	O			
+are	O			
+to	O			
+each	O			
+other	O			
+,	O			
+the	O			
+less	O			
+the	O			
+strong	O			
+interaction	O			
+(	O			
+or	O			
+color	O			
+charge	O			
+)	O			
+is	O			
+between	O			
+them	O			
+.	O			
+				

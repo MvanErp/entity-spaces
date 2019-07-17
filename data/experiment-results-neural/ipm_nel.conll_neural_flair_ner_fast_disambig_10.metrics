@@ -1,0 +1,270 @@
+processed 3931 tokens with 304 phrases; found: 173 phrases; correct: 80.
+accuracy:   3.23%; precision:  46.24%; recall:  26.32%; FB1:  33.54
+           -NME--: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Accel_Partners: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Adam_Beyer: precision:  50.00%; recall: 100.00%; FB1:  66.67  2
+ Agora_%28film%29: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Agora_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+          Aintree: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Alaska: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Alejandro_Amenabar: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Alpha_and_Omega_(film): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Amazon.com: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Amazon_Kindle: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Amber_Le_Bon: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+American_Home_Furnishings_Alliance: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Andy_Kaufman: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     Anna_Wintour: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+          Arizona: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+  Arizona_SB_1070: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+  Aspen,_Colorado: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ Associated_Press: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Atlantic_Coast_Conference: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Attention_deficit_hyperactivity_disorder: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            BSkyB: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+ Bachelor_of_Arts: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ Baltimore_Ravens: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Barbados: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+    Barbara_Boxer: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Belanger_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Berkeley,_California: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Bg_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ Big_Brother_(UK): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Bill_Swerski's_Superfans: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+  BlackBerry_Bold: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Blakehurst,_New_South_Wales: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Border_Gateway_Protocol: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Boston: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Bradley_Braves_men's_soccer: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        BranchOut: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Brett_Favre: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     Brodie_Downs: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Business_alliance: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Calcio_Fiorentino: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       California: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Cathedral_of_Learning: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             Cebu: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Central_West_End,_St._Louis: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Chapel_Hill,_North_Carolina: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+          Chicago: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+    Chicago_Bears: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Christchurch: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Christine_O%27Donnell: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Christine_O'Donnell: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    Cisco_Systems: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Coca-Cola: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Colorado_Buffaloes: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Columbus,_Georgia: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Columbus,_Ohio: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ Constitution_Day: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Constitution_Day_(United_States): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Coolum_Beach,_Queensland: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+       Costa_Rica: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Crown_College_(Minnesota): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Cwe_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ Delmar,_New_York: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Democratic_Party_(United_States): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Denver: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             Doha: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+    Don_Mattingly: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Downs_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   Drake_(rapper): precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+    Dream_Theater: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Dt_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+            Eagle: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Earl_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     Early_action: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+      Ed_Miliband: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+  Elgin,_Illinois: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Enslaved:_Odyssey_to_the_West: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Epix_(TV_network): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+FDA_(trade_union): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+         Facebook: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Fall_Out_Boy: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Family_Guy: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Fayette_County,_Pennsylvania: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+              Fes: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Food_and_Drug_Administration: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Ga_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Gainesville,_Florida: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Georgia_(U.S._state): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Giddings,_Texas: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     Giles_Deacon: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+              God: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Google_Play_Music: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Greece: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   Greek_festival: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Gucci: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     HTC_Desire_Z: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Halo:_Reach: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Hattiesburg,_Mississippi: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+          Houston: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Houston_Astros: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Hurricane_Earl_(2010): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Hyper-V: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Hypericum_perforatum: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           IPhone: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+            Ibiza: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+         Illinois: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+           Israel: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Jackie_Jackson: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Jacquelin_Holzman: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Jacqueline_Kennedy_Onassis: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Jasmin_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   Jeff_Keppinger: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Jermaine_Dupri: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     Jersey_Shore: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+  Jessica_Simpson: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+  Joaquin_Phoenix: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Joe_Torre: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+  John_F._Kennedy: precision:  50.00%; recall: 100.00%; FB1:  66.67  2
+John_F._Kennedy_International_Airport: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+John_Henry_Newman: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+ Juniper_Networks: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Jupiter: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Justin_Bieber: precision: 100.00%; recall:  50.00%; FB1:  66.67  1
+            K-On!: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Kentucky: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Kick-Ass_%28film%29: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Kid_Cudi: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Kilkenny_GAA: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Kings_and_Queens_(Thirty_Seconds_to_Mars_song): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Kings_of_Leon: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Kiss_(band): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Lady_Gaga: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Lake_Charles,_Louisiana: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+       Larry_Bird: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        LaserDisc: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Legends_Football_League: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Lincoln,_Nebraska: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   Lisa_Murkowski: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     London_Irish: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      Los_Angeles: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Los_Angeles_Dodgers: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+    MAC_Cosmetics: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+MTV_Video_Music_Award: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Maccabees: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+        Macintosh: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       Manchester: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     Mannie_Fresh: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Marcus_Bentley: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+ Margaret_Hamburg: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     Marie_Claire: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Marvin_Gaye: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Mary_Bono: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       McDonald's: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Merlot: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Mesa,_Arizona: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Miami: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    Miami_2_Ibiza: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Miami_Heat: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Michael_Kraus_(minister): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+        Microsoft: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      Miley_Cyrus: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Montclair,_New_Jersey: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Nashville,_Tennessee: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+National_Football_League: precision: 100.00%; recall:  50.00%; FB1:  66.67  1
+          Netflix: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       New_Jersey: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+         New_York: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    New_York_City: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+            Nokia: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Nokia_5800_XpressMusic: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Nostalgia: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   Novak_Djokovic: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+                O: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           Oregon: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+            Paris: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     Paris_Hilton: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+            Pepsi: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+          PepsiCo: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Philadelphia: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Pi_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       Piranha_3D: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Plano_Balloon_Festival: precision:  50.00%; recall:  50.00%; FB1:  50.00  2
+PlayStation_Network: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Playboy_Enterprises: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             Pope: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Pope_Benedict_XVI: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ Portland,_Oregon: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Pretty_Little_Liars: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Pretty_Little_Liars_%28TV_series%29: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Rachel_Weisz: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Rafael_Nadal: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+         Ray_Rice: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Republican_Party_(United_States): precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        Rick_Ross: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Road_House_(1989_film): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   Robin_Hood_Bay: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Rr_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+           Russia: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Sabrina:_The_Animated_Series: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Salt_Lake_City: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+ San_Diego_Padres: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    San_Francisco: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+San_Mateo,_California: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+ Saskatoon_Blades: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+    Scooter_Braun: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+          Seattle: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Seattle_Thunderbirds: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Sega_Genesis: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          Serie_A: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Shreveport,_Louisiana: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+       Sigal_Avin: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+           Sky_3D: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Sky_News: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Slovenia: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+       Soulja_Boy: precision:  50.00%; recall: 100.00%; FB1:  66.67  2
+  Sour_Patch_Kids: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+            Spain: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+St._John's,_Newfoundland_and_Labrador: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+   Standard_Hotel: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Stephen_Fry: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+       Steve_King: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Sundown_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Super_Nintendo_Entertainment_System: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Supply_chain_management: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Sushi_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+            Syria: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+              TMZ: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+        TMZ_on_TV: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Tal_al-Mallohi: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Tea_Party_protests: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Tell_'Em_Steve-Dave!: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Tenth_Amendment_to_the_United_States_Constitution: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     Thanksgiving: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    The_Eyeopener: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    The_Limelight: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+The_Maccabees_(band): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+The_Notorious_B.I.G.: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   The_Sea_Inside: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Thirty_Seconds_to_Mars: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ Three_Days_Grace: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Time_Warner_Cable: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Tipitina's: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ Trisha_(actress): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+          Twitter: precision: 100.00%; recall:  50.00%; FB1:  66.67  2
+Ultimate_Fighting_Championship: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Ultimate_Magic: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   United_Kingdom: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+    United_States: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+University_of_Pittsburgh: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+University_of_Southern_Mississippi: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+University_of_Winnipeg: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Usm_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+              VH1: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ WHL_Bantam_Draft: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+  West_Nile_virus: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Windows_server_2008: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Winter's_Bone: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Wisconsin: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+World_of_Warcraft: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+         Xbox_360: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+              YPF: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+           Yahoo!: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Yom_Kippur: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+          YouTube: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Zac_Brown_Band: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Zinfandel: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+             iPod: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+           iTunes: precision:   0.00%; recall:   0.00%; FB1:   0.00  0

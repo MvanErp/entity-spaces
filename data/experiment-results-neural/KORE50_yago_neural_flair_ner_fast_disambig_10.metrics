@@ -1,0 +1,181 @@
+processed 750 tokens with 141 phrases; found: 130 phrases; correct: 71.
+accuracy:  89.47%; precision:  54.62%; recall:  50.35%; FB1:  52.40
+           Aachen: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ Alemannia_Aachen: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Allen_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+American_Recordings_(album): precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Andreas_Baader: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+    Angela_Merkel: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Angelina_Jolie: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+       Apple_Inc.: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Aristotle_Onassis: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     Arsenal_F.C.: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+  Atletico_Madrid: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Barack_Obama: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+             Beck: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Bill_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       Bill_Gates: precision: 100.00%; recall:  50.00%; FB1:  66.67  1
+       Billy_Joel: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Blues: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        Bob_Dylan: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+Borussia_Dortmund: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Bounty_(chocolate_bar): precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        Brad_Pitt: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+            Cairo: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Cairo_(operating_system): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Carlos_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+      Carlos_Leon: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Carlos_Santana: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Cars_(film): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Cash_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Catherine,_Duchess_of_Cambridge: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+          Chicago: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   Chicago_(band): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            China: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ Columbia_Records: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+       Dave_Grohl: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+            David: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+    David_Beckham: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Davis_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Desire_(Bob_Dylan_album): precision: 100.00%; recall:  50.00%; FB1:  66.67  1
+       EMP_Museum: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Electromagnetic_pulse: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   Elin_Nordegren: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+ Emirates_Stadium: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Emmylou_Harris: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Enola_Gay: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Equity_International: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Eric_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     Eric_Clapton: precision: 100.00%; recall:  50.00%; FB1:  66.67  1
+   Erich_Honecker: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Erik_Meijer_(footballer): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+             Euro: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+         Eurozone: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Eva_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+        Eva_Peron: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ FC_Bayern_Munich: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+FC_Red_Bull_Salzburg: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+       First_Lady: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+First_Lady_of_Argentina: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Frank_Sinatra: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Galaxy_(chocolate): precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+           Greece: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Hanns-Martin_Schleyer: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Hanns_Martin_Schleyer: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Harris_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+            Heidi: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       Heidi_Klum: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Hertha_BSC: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        Hiroshima: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+ Hurricane_(song): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Isle_of_Wight: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Isle_of_wight_festival: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Jacqueline_Kennedy_Onassis: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Jeff_Beck: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Jimi_Hendrix: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+     Jimmy_Carter: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       Jimmy_Page: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+        Joan_Baez: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Joel_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Joey_(Bob_Dylan_song): precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+John_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+  John_F._Kennedy: precision:  33.33%; recall: 100.00%; FB1:  50.00  3
+John_F._Kennedy_International_Airport: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    John_Lasseter: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      John_Mayall: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+  John_P._Kennedy: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+John_Paul_Jones_(musician): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Johnny_Cash: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Jon_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       Jon_Voight: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Jones_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    Joni_Mitchell: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Josh_Homme: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Justin_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    Justin_Bieber: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Karl_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    Karl_Albrecht: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Kate_Perry: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Kim_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   Kim_Kardashian: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Lady_Gaga: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+        Lady_gaga: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+  Lance_Armstrong: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Larry_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       Larry_Page: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Las_Vegas: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Las_Vegas,_Nevada: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+              MTV: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Macedonia_(Greece): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Madonna_(entertainer): precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Manchester_City_F.C.: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+ Mango_(clothing): precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Mario_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+      Mario_Gomez: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Mars_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+         Mars_bar: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Microsoft: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+Microsoft_Windows: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      Miles_davis: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Mitchell_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+             Moon: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Muller_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+           Munich: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   Neil_Armstrong: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Neunkirchen,_Saarland: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+       New_Tivoli: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     Norbert_Haug: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Orange_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Orange_(telecommunications): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Paris: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     Paris_Hilton: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Paul_Allen: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+People's_Republic_of_China: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Ping_Pong_Diplomacy: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            Pixar: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+ Real_Madrid_C.F.: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+ Red_Army_Faction: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    Reinhold_Yabo: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Republic_of_Macedonia: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+    Richard_Nixon: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+       Rick_Rubin: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Robert_Bosch_GmbH: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+       Rock_music: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+  Royal_Air_Force: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Rubin_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+     Rubin_Carter: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Rudi_Voller: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Sam_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+         Sam_Zell: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   Santana_(band): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+  Seal_(musician): precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+          Seattle: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+      Sergey_Brin: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Sharp_Corporation: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+             Sony: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Sony_Music_Entertainment: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Stanford_University: precision: 100.00%; recall: 100.00%; FB1: 100.00  3
+    Steve_Ballmer: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       Steve_Jobs: precision:  66.67%; recall:  66.67%; FB1:  66.67  3
+Sun_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+The_Sun_(United_Kingdom): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        The_Times: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+    Theo_Albrecht: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Theo_van_Gogh_(art_dealer): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Thomas_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Thomas_Muller_(footballer): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      Tiger_Woods: precision: 100.00%; recall:  50.00%; FB1:  66.67  1
+Tivoli_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Tottenham_Hotspur_F.C.: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+          Twitter: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+ U.S._Open_(golf): precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+ US_Open_(tennis): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   Ulrike_Meinhof: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+Victoria_(Australia): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Victoria_(disambiguation): precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+ Victoria_Beckham: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+Watergate_scandal: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+   Willi_Landgraf: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+        Woodstock: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+Woodstock_Festival: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+     World_War_II: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
