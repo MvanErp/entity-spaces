@@ -1,20 +1,21 @@
 # Entity Spaces for Tolerant Entity Linking: Code and Data
 Date of Posting: July 18, 2019
 
-This package contains the software and data necessary for running our experiments for applying the concept of entity spaces to the task of entity linking. We also include the results of our experiments. All data is included in this repo under (data/evaulation_datasets) except for AIDA Yago, which we are not allowed to redistribute. 
+This package contains the software and data necessary for running our experiments for applying the concept of entity spaces to the task of entity linking. We also include the results of our experiments.
 
 _This repo is easier to understand if you are reading the associated paper, which is currently under review._
 
 ## Instructions 
 
 * The taggers here run on python3.
-* We assume you're running in a virtualenv
+* We assume you're running in a [virtualenv](https://virtualenvwrapper.readthedocs.io/en/latest/#)
 * pip install -r requirements.txt
 * You'll need to have installed:
     * [https://github.com/dalab/end2end\_neural\_el](https://github.com/dalab/end2end_neural_el)
     * [https://github.com/dice-group/AGDISTIS](https://github.com/dice-group/AGDISTIS)
 * In ./amstel - you'll find the taggers used in the pipeline.
 * All data and evaluation results and scripts are in /data
+    *  All gold standard data is included in this repo under (data/evaulation_datasets) except for AIDA Yago, which we are not allowed to redistribute. 
 * Experimental results are in this includes intermediate output.
     * data/experiment-results-agdistis
     * data/experiment-results-neural
